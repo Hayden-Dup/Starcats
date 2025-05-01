@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: b4515df895b43324cbb02215f19f6430
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6882414311373619506
+    second: Mobile - The Battle Cats - Crazed Gross Cat_0
+  - first:
+      213: -3926501829708841438
+    second: Mobile - The Battle Cats - Crazed Gross Cat_1
+  - first:
+      213: 803968689377040275
+    second: Mobile - The Battle Cats - Crazed Gross Cat_2
+  - first:
+      213: 4257000359643452856
+    second: Mobile - The Battle Cats - Crazed Gross Cat_3
+  - first:
+      213: 8431510654117094113
+    second: Mobile - The Battle Cats - Crazed Gross Cat_4
+  - first:
+      213: 974465851668983752
+    second: Mobile - The Battle Cats - Crazed Gross Cat_5
+  - first:
+      213: 2367672820498783484
+    second: Mobile - The Battle Cats - Crazed Gross Cat_6
+  - first:
+      213: -8294743509784476549
+    second: Mobile - The Battle Cats - Crazed Gross Cat_7
+  - first:
+      213: -1973128802487470607
+    second: Mobile - The Battle Cats - Crazed Gross Cat_8
+  - first:
+      213: 258571056860869614
+    second: Mobile - The Battle Cats - Crazed Gross Cat_9
+  - first:
+      213: -207627847238513598
+    second: Mobile - The Battle Cats - Crazed Gross Cat_10
+  - first:
+      213: 4119990837681260239
+    second: Mobile - The Battle Cats - Crazed Gross Cat_11
+  - first:
+      213: 6648091148378583243
+    second: Mobile - The Battle Cats - Crazed Gross Cat_12
+  - first:
+      213: -3571836761444472247
+    second: Mobile - The Battle Cats - Crazed Gross Cat_13
+  - first:
+      213: 5956187047833777177
+    second: Mobile - The Battle Cats - Crazed Gross Cat_14
+  - first:
+      213: -204688829713646486
+    second: Mobile - The Battle Cats - Crazed Gross Cat_15
+  - first:
+      213: 4509725474094375422
+    second: Mobile - The Battle Cats - Crazed Gross Cat_16
+  - first:
+      213: 5859901992832878559
+    second: Mobile - The Battle Cats - Crazed Gross Cat_17
+  - first:
+      213: 1924617595463620872
+    second: Mobile - The Battle Cats - Crazed Gross Cat_18
+  - first:
+      213: -8942699255038726303
+    second: Mobile - The Battle Cats - Crazed Gross Cat_19
+  - first:
+      213: 3154379333772653191
+    second: Mobile - The Battle Cats - Crazed Gross Cat_20
+  - first:
+      213: 2402894059166959792
+    second: Mobile - The Battle Cats - Crazed Gross Cat_21
+  - first:
+      213: -2607857808543387463
+    second: Mobile - The Battle Cats - Crazed Gross Cat_22
+  - first:
+      213: 998857954247731218
+    second: Mobile - The Battle Cats - Crazed Gross Cat_23
+  - first:
+      213: -2145980576207884020
+    second: Mobile - The Battle Cats - Crazed Gross Cat_24
+  - first:
+      213: 8970437661809242319
+    second: Mobile - The Battle Cats - Crazed Gross Cat_25
+  - first:
+      213: 8872609362248412498
+    second: Mobile - The Battle Cats - Crazed Gross Cat_26
+  - first:
+      213: 5688480494497916030
+    second: Mobile - The Battle Cats - Crazed Gross Cat_27
+  - first:
+      213: -3305897724787262777
+    second: Mobile - The Battle Cats - Crazed Gross Cat_28
+  - first:
+      213: 4883288001439280913
+    second: Mobile - The Battle Cats - Crazed Gross Cat_29
+  - first:
+      213: 7430911317374766638
+    second: Mobile - The Battle Cats - Crazed Gross Cat_30
+  - first:
+      213: -8147725181704975232
+    second: Mobile - The Battle Cats - Crazed Gross Cat_31
+  - first:
+      213: 4984273034356063237
+    second: Mobile - The Battle Cats - Crazed Gross Cat_32
+  - first:
+      213: 829800411613523867
+    second: Mobile - The Battle Cats - Crazed Gross Cat_33
+  - first:
+      213: 7224954203722286813
+    second: Mobile - The Battle Cats - Crazed Gross Cat_34
+  - first:
+      213: 5771807305002252118
+    second: Mobile - The Battle Cats - Crazed Gross Cat_35
+  - first:
+      213: 5663642472535322226
+    second: Mobile - The Battle Cats - Crazed Gross Cat_36
+  - first:
+      213: 3202490741164037851
+    second: Mobile - The Battle Cats - Crazed Gross Cat_37
+  - first:
+      213: 4196074091949619203
+    second: Mobile - The Battle Cats - Crazed Gross Cat_38
+  - first:
+      213: 5248181474039237338
+    second: Mobile - The Battle Cats - Crazed Gross Cat_39
+  - first:
+      213: -7596025330714996816
+    second: Mobile - The Battle Cats - Crazed Gross Cat_40
+  - first:
+      213: -7894537405758399908
+    second: Mobile - The Battle Cats - Crazed Gross Cat_41
+  - first:
+      213: -8747783240081307601
+    second: Mobile - The Battle Cats - Crazed Gross Cat_42
+  - first:
+      213: 880964483465225860
+    second: Mobile - The Battle Cats - Crazed Gross Cat_43
+  - first:
+      213: 7229401144793955955
+    second: Mobile - The Battle Cats - Crazed Gross Cat_44
+  - first:
+      213: -9071869257270812744
+    second: Mobile - The Battle Cats - Crazed Gross Cat_45
+  - first:
+      213: 7958477591157490538
+    second: Mobile - The Battle Cats - Crazed Gross Cat_46
+  - first:
+      213: -1194285968432109282
+    second: Mobile - The Battle Cats - Crazed Gross Cat_47
+  - first:
+      213: -12648132256634838
+    second: Mobile - The Battle Cats - Crazed Gross Cat_48
+  - first:
+      213: -2865748531769253606
+    second: Mobile - The Battle Cats - Crazed Gross Cat_49
+  - first:
+      213: -7022679282677028648
+    second: Mobile - The Battle Cats - Crazed Gross Cat_50
+  - first:
+      213: 4861314314551703542
+    second: Mobile - The Battle Cats - Crazed Gross Cat_51
+  - first:
+      213: -275940379135233700
+    second: Mobile - The Battle Cats - Crazed Gross Cat_52
+  - first:
+      213: -7586618112244534126
+    second: Mobile - The Battle Cats - Crazed Gross Cat_53
+  - first:
+      213: -4266499147763017302
+    second: Mobile - The Battle Cats - Crazed Gross Cat_54
+  - first:
+      213: 3184077937995997760
+    second: Mobile - The Battle Cats - Crazed Gross Cat_55
+  - first:
+      213: 6098990641001652154
+    second: Mobile - The Battle Cats - Crazed Gross Cat_56
+  - first:
+      213: -4790664328034314545
+    second: Mobile - The Battle Cats - Crazed Gross Cat_57
+  - first:
+      213: -8540095390661073613
+    second: Mobile - The Battle Cats - Crazed Gross Cat_58
+  - first:
+      213: 8557732884586463107
+    second: Mobile - The Battle Cats - Crazed Gross Cat_59
+  - first:
+      213: 2937577875240705080
+    second: Mobile - The Battle Cats - Crazed Gross Cat_60
+  - first:
+      213: 8021714651447633279
+    second: Mobile - The Battle Cats - Crazed Gross Cat_61
+  - first:
+      213: 5099643202602843169
+    second: Mobile - The Battle Cats - Crazed Gross Cat_62
+  - first:
+      213: -6484637495434286457
+    second: Mobile - The Battle Cats - Crazed Gross Cat_63
+  - first:
+      213: 6910264054521414732
+    second: Mobile - The Battle Cats - Crazed Gross Cat_64
+  - first:
+      213: 6402423101524647761
+    second: Mobile - The Battle Cats - Crazed Gross Cat_65
+  - first:
+      213: 4664266118220234892
+    second: Mobile - The Battle Cats - Crazed Gross Cat_66
+  - first:
+      213: -2860171877868654049
+    second: Mobile - The Battle Cats - Crazed Gross Cat_67
+  - first:
+      213: -6050077626002903018
+    second: Mobile - The Battle Cats - Crazed Gross Cat_68
+  - first:
+      213: 8232641186040597924
+    second: Mobile - The Battle Cats - Crazed Gross Cat_69
+  - first:
+      213: -6670890725369686270
+    second: Mobile - The Battle Cats - Crazed Gross Cat_70
+  - first:
+      213: 2463675079786432150
+    second: Mobile - The Battle Cats - Crazed Gross Cat_71
+  - first:
+      213: 8786403530865168307
+    second: Mobile - The Battle Cats - Crazed Gross Cat_72
+  - first:
+      213: -8182610408763969397
+    second: Mobile - The Battle Cats - Crazed Gross Cat_73
+  - first:
+      213: -3463409594384174495
+    second: Mobile - The Battle Cats - Crazed Gross Cat_74
+  - first:
+      213: -8401356973040265554
+    second: Mobile - The Battle Cats - Crazed Gross Cat_75
+  - first:
+      213: -7360943942480318650
+    second: Mobile - The Battle Cats - Crazed Gross Cat_76
+  - first:
+      213: -2014435376733941072
+    second: Mobile - The Battle Cats - Crazed Gross Cat_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 489
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2314d720a5f338f50800000000000000
+      internalID: 6882414311373619506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 489
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e784ea3634289c0800000000000000
+      internalID: -3926501829708841438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 489
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397dadc6345482b00800000000000000
+      internalID: 803968689377040275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 489
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b51245c547e31b30800000000000000
+      internalID: 4257000359643452856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 483
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e22292944eb20570800000000000000
+      internalID: 8431510654117094113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 483
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf6a76778ff58d00800000000000000
+      internalID: 974465851668983752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 489
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc5d22c2e9abd020800000000000000
+      internalID: 2367672820498783484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 489
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74c15ca9b623ec80800000000000000
+      internalID: -8294743509784476549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_8
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 489
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f574a7eec90e94e0800000000000000
+      internalID: -1973128802487470607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 483
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3b3699101a69300800000000000000
+      internalID: 258571056860869614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 468
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c8edfa29b5e1df0800000000000000
+      internalID: -207627847238513598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 419
+        width: 8
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc60bd596d52d2930800000000000000
+      internalID: 4119990837681260239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 419
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc036852da3c24c50800000000000000
+      internalID: 6648091148378583243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 472
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94aab6ec3694e6ec0800000000000000
+      internalID: -3571836761444472247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 323
+        width: 53
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9143ae11090a8a250800000000000000
+      internalID: 5956187047833777177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 323
+        width: 67
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c7d67089cc82df0800000000000000
+      internalID: -204688829713646486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_16
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 323
+        width: 66
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1ece5dc63c59e30800000000000000
+      internalID: 4509725474094375422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_17
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 323
+        width: 51
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7486db0dd825150800000000000000
+      internalID: 5859901992832878559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 472
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809531a818d95ba10800000000000000
+      internalID: 1924617595463620872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 433
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f2442786625e380800000000000000
+      internalID: -8942699255038726303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 419
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7823a5c9a4b96cb20800000000000000
+      internalID: 3154379333772653191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 419
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b80b8d6a6bc85120800000000000000
+      internalID: 2402894059166959792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 419
+        width: 62
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0fa01e3270fcbd0800000000000000
+      internalID: -2607857808543387463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 323
+        width: 51
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21862086408acdd00800000000000000
+      internalID: 998857954247731218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_24
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 323
+        width: 74
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01bd3c2902f732e0800000000000000
+      internalID: -2145980576207884020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_25
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 315
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0fce7a6856d7c70800000000000000
+      internalID: 8970437661809242319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_26
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 315
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d2f93b437d12b70800000000000000
+      internalID: 8872609362248412498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_27
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 315
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e746942feda81fe40800000000000000
+      internalID: 5688480494497916030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_28
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 315
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca7842e8871f12d0800000000000000
+      internalID: -3305897724787262777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_29
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 315
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f27b5809ce4c340800000000000000
+      internalID: 4883288001439280913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_30
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 315
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e8d85f876ef1760800000000000000
+      internalID: 7430911317374766638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_31
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 315
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c48f0ad177dee80800000000000000
+      internalID: -8147725181704975232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_32
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 315
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cf95cbae1bb2540800000000000000
+      internalID: 4984273034356063237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 401
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f62b0f31b048b00800000000000000
+      internalID: 829800411613523867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 401
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6055f9191344460800000000000000
+      internalID: 7224954203722286813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 239
+        width: 125
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657f9aed924991050800000000000000
+      internalID: 5771807305002252118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 314
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e684e42dc499e40800000000000000
+      internalID: 5663642472535322226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 324
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd65f8f8c58817c20800000000000000
+      internalID: 3202490741164037851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 305
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30870e5a7237b3a30800000000000000
+      internalID: 4196074091949619203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_39
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 298
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada05ec9e3945d840800000000000000
+      internalID: 5248181474039237338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 71
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf0dd9053f759690800000000000000
+      internalID: -7596025330714996816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 160
+        width: 65
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a9cb77e08f07290800000000000000
+      internalID: -7894537405758399908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 196
+        width: 151
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2886daad71a99680800000000000000
+      internalID: -8747783240081307601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 160
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4862ea8b780d93c00800000000000000
+      internalID: 880964483465225860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_44
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 160
+        width: 51
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37efe36c90ef35460800000000000000
+      internalID: 7229401144793955955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_45
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 160
+        width: 49
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf169fa9fe3a1280800000000000000
+      internalID: -9071869257270812744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_46
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 157
+        width: 47
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6349dd0431327e60800000000000000
+      internalID: 7958477591157490538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_47
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 140
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19ee534d3b0d6fe0800000000000000
+      internalID: -1194285968432109282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_48
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 141
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2865c9379013dff0800000000000000
+      internalID: -12648132256634838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_49
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 140
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11eb4cc4e0da38d0800000000000000
+      internalID: -2865748531769253606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_50
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 140
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d86a80766e6a8e90800000000000000
+      internalID: -7022679282677028648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_51
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 141
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7306cdc9bd67340800000000000000
+      internalID: 4861314314551703542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_52
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 139
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51357aefa9ab2cf0800000000000000
+      internalID: -275940379135233700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_53
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 139
+        width: 110
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294be15c50be6b690800000000000000
+      internalID: -7586618112244534126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 142
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9141741a95ac4c0800000000000000
+      internalID: -4266499147763017302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_55
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 140
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042e86fb30e103c20800000000000000
+      internalID: 3184077937995997760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_56
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 140
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfd5559ca7f3a450800000000000000
+      internalID: 6098990641001652154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_57
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 140
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc61169fc24248db0800000000000000
+      internalID: -4790664328034314545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 49
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33522b35d7c7b7980800000000000000
+      internalID: -8540095390661073613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_59
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 123
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f747cb7bc23c670800000000000000
+      internalID: 8557732884586463107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_60
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 82
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cd4c9738f54c820800000000000000
+      internalID: 2937577875240705080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_61
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 82
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75251189fad25f60800000000000000
+      internalID: 8021714651447633279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_62
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 82
+        width: 95
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cb064497295c640800000000000000
+      internalID: 5099643202602843169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_63
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 59
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ae5731e80f106a0800000000000000
+      internalID: -6484637495434286457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_64
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 40
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4446e1ab8036ef50800000000000000
+      internalID: 6910264054521414732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_65
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 59
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f912ca3e9f9d850800000000000000
+      internalID: 6402423101524647761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_66
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 44
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80486a725dcab040800000000000000
+      internalID: 4664266118220234892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_67
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 59
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12b317b4d0ae48d0800000000000000
+      internalID: -2860171877868654049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_68
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 40
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610fe8e247ec90ca0800000000000000
+      internalID: -6050077626002903018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_69
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 44
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad43315a87304270800000000000000
+      internalID: 8232641186040597924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_70
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 25
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20754eaaa3c3c63a0800000000000000
+      internalID: -6670890725369686270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_71
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 25
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69607a49e6bb03220800000000000000
+      internalID: 2463675079786432150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_72
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 25
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfc47e75739fe970800000000000000
+      internalID: 8786403530865168307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_73
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 25
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80b532cf27817e80800000000000000
+      internalID: -8182610408763969397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_74
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 25
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1623d07e25f7fefc0800000000000000
+      internalID: -3463409594384174495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_75
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea61fa66852686b80800000000000000
+      internalID: -8401356973040265554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_76
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 6
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fa5e8fb7ca8d990800000000000000
+      internalID: -7360943942480318650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Gross Cat_77
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 6
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b21bc2a2b94b04e0800000000000000
+      internalID: -2014435376733941072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

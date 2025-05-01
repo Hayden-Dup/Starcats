@@ -1,0 +1,3092 @@
+fileFormatVersion: 2
+guid: e92e3b84cdb6ca449819b3a2c83b43fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3283476786000432263
+    second: Mobile - The Battle Cats - Cats in a Box_0
+  - first:
+      213: 6637994089058816883
+    second: Mobile - The Battle Cats - Cats in a Box_1
+  - first:
+      213: 4885052420918009034
+    second: Mobile - The Battle Cats - Cats in a Box_2
+  - first:
+      213: -7585599327942668174
+    second: Mobile - The Battle Cats - Cats in a Box_3
+  - first:
+      213: 8925597229715339923
+    second: Mobile - The Battle Cats - Cats in a Box_4
+  - first:
+      213: -138772563027827421
+    second: Mobile - The Battle Cats - Cats in a Box_5
+  - first:
+      213: 3965419074049429802
+    second: Mobile - The Battle Cats - Cats in a Box_6
+  - first:
+      213: -6158024915103068099
+    second: Mobile - The Battle Cats - Cats in a Box_7
+  - first:
+      213: -5703605403937929401
+    second: Mobile - The Battle Cats - Cats in a Box_8
+  - first:
+      213: 3091709478370867945
+    second: Mobile - The Battle Cats - Cats in a Box_9
+  - first:
+      213: -2252208594313846767
+    second: Mobile - The Battle Cats - Cats in a Box_10
+  - first:
+      213: -2851043915586830762
+    second: Mobile - The Battle Cats - Cats in a Box_11
+  - first:
+      213: -8674551122208513914
+    second: Mobile - The Battle Cats - Cats in a Box_12
+  - first:
+      213: 8254504418699009768
+    second: Mobile - The Battle Cats - Cats in a Box_13
+  - first:
+      213: -1137578962056102880
+    second: Mobile - The Battle Cats - Cats in a Box_14
+  - first:
+      213: 5554260040654178233
+    second: Mobile - The Battle Cats - Cats in a Box_15
+  - first:
+      213: 1166790938652462666
+    second: Mobile - The Battle Cats - Cats in a Box_16
+  - first:
+      213: -2134505929803350396
+    second: Mobile - The Battle Cats - Cats in a Box_17
+  - first:
+      213: -4295372957139752526
+    second: Mobile - The Battle Cats - Cats in a Box_18
+  - first:
+      213: 7878557405264854096
+    second: Mobile - The Battle Cats - Cats in a Box_19
+  - first:
+      213: 325103056473734731
+    second: Mobile - The Battle Cats - Cats in a Box_20
+  - first:
+      213: -4229040623838806854
+    second: Mobile - The Battle Cats - Cats in a Box_21
+  - first:
+      213: -4294238638493893490
+    second: Mobile - The Battle Cats - Cats in a Box_22
+  - first:
+      213: 8413093425345435069
+    second: Mobile - The Battle Cats - Cats in a Box_23
+  - first:
+      213: -7923998751476729087
+    second: Mobile - The Battle Cats - Cats in a Box_24
+  - first:
+      213: -3441312394189574047
+    second: Mobile - The Battle Cats - Cats in a Box_25
+  - first:
+      213: 9021067086853181375
+    second: Mobile - The Battle Cats - Cats in a Box_26
+  - first:
+      213: -7665579590167711310
+    second: Mobile - The Battle Cats - Cats in a Box_27
+  - first:
+      213: 3329788976698462435
+    second: Mobile - The Battle Cats - Cats in a Box_28
+  - first:
+      213: -8130295290647473751
+    second: Mobile - The Battle Cats - Cats in a Box_29
+  - first:
+      213: -722413919163582500
+    second: Mobile - The Battle Cats - Cats in a Box_30
+  - first:
+      213: -8587395369685823315
+    second: Mobile - The Battle Cats - Cats in a Box_31
+  - first:
+      213: -1302291138039701244
+    second: Mobile - The Battle Cats - Cats in a Box_32
+  - first:
+      213: 8177357640641208250
+    second: Mobile - The Battle Cats - Cats in a Box_33
+  - first:
+      213: -6283539949782937041
+    second: Mobile - The Battle Cats - Cats in a Box_34
+  - first:
+      213: 2291707408475473649
+    second: Mobile - The Battle Cats - Cats in a Box_35
+  - first:
+      213: 3252700274762523094
+    second: Mobile - The Battle Cats - Cats in a Box_36
+  - first:
+      213: 7750049234525606505
+    second: Mobile - The Battle Cats - Cats in a Box_37
+  - first:
+      213: 210496547903882340
+    second: Mobile - The Battle Cats - Cats in a Box_38
+  - first:
+      213: -2332992786003736109
+    second: Mobile - The Battle Cats - Cats in a Box_39
+  - first:
+      213: -6578143762842664374
+    second: Mobile - The Battle Cats - Cats in a Box_40
+  - first:
+      213: 2701396408759115404
+    second: Mobile - The Battle Cats - Cats in a Box_41
+  - first:
+      213: -3524150083651192951
+    second: Mobile - The Battle Cats - Cats in a Box_42
+  - first:
+      213: -1942118005127705682
+    second: Mobile - The Battle Cats - Cats in a Box_43
+  - first:
+      213: 5537381674882579542
+    second: Mobile - The Battle Cats - Cats in a Box_44
+  - first:
+      213: 8011290554333050859
+    second: Mobile - The Battle Cats - Cats in a Box_45
+  - first:
+      213: 1472930666951492991
+    second: Mobile - The Battle Cats - Cats in a Box_46
+  - first:
+      213: -415488081301764447
+    second: Mobile - The Battle Cats - Cats in a Box_47
+  - first:
+      213: -823954023268598288
+    second: Mobile - The Battle Cats - Cats in a Box_48
+  - first:
+      213: 6027511540817209428
+    second: Mobile - The Battle Cats - Cats in a Box_49
+  - first:
+      213: -6303768816241854021
+    second: Mobile - The Battle Cats - Cats in a Box_50
+  - first:
+      213: -3275347156379000525
+    second: Mobile - The Battle Cats - Cats in a Box_51
+  - first:
+      213: 6159366359576262836
+    second: Mobile - The Battle Cats - Cats in a Box_52
+  - first:
+      213: -448371213779061658
+    second: Mobile - The Battle Cats - Cats in a Box_53
+  - first:
+      213: -1431435950800800062
+    second: Mobile - The Battle Cats - Cats in a Box_54
+  - first:
+      213: 3078730601527674640
+    second: Mobile - The Battle Cats - Cats in a Box_55
+  - first:
+      213: -6160682469356406157
+    second: Mobile - The Battle Cats - Cats in a Box_56
+  - first:
+      213: 3578979755365351645
+    second: Mobile - The Battle Cats - Cats in a Box_57
+  - first:
+      213: -2008625491567028722
+    second: Mobile - The Battle Cats - Cats in a Box_58
+  - first:
+      213: -2524570153283427333
+    second: Mobile - The Battle Cats - Cats in a Box_59
+  - first:
+      213: 1420169833372664751
+    second: Mobile - The Battle Cats - Cats in a Box_60
+  - first:
+      213: 2155976021760884589
+    second: Mobile - The Battle Cats - Cats in a Box_61
+  - first:
+      213: -8786855801922423843
+    second: Mobile - The Battle Cats - Cats in a Box_62
+  - first:
+      213: -8980459129083882431
+    second: Mobile - The Battle Cats - Cats in a Box_63
+  - first:
+      213: -7489268780581847840
+    second: Mobile - The Battle Cats - Cats in a Box_64
+  - first:
+      213: 8280857740821002212
+    second: Mobile - The Battle Cats - Cats in a Box_65
+  - first:
+      213: 5273048192703051493
+    second: Mobile - The Battle Cats - Cats in a Box_66
+  - first:
+      213: 4415320012914535829
+    second: Mobile - The Battle Cats - Cats in a Box_67
+  - first:
+      213: 5039920432406809346
+    second: Mobile - The Battle Cats - Cats in a Box_68
+  - first:
+      213: 8105857248511772187
+    second: Mobile - The Battle Cats - Cats in a Box_69
+  - first:
+      213: 6878316949889827011
+    second: Mobile - The Battle Cats - Cats in a Box_70
+  - first:
+      213: 4845120179052978370
+    second: Mobile - The Battle Cats - Cats in a Box_71
+  - first:
+      213: -8421385642327792586
+    second: Mobile - The Battle Cats - Cats in a Box_72
+  - first:
+      213: 7861187322166218220
+    second: Mobile - The Battle Cats - Cats in a Box_73
+  - first:
+      213: 3199282724715993549
+    second: Mobile - The Battle Cats - Cats in a Box_74
+  - first:
+      213: 2672566969346450443
+    second: Mobile - The Battle Cats - Cats in a Box_75
+  - first:
+      213: 6314340036201665711
+    second: Mobile - The Battle Cats - Cats in a Box_76
+  - first:
+      213: -7371739749076143939
+    second: Mobile - The Battle Cats - Cats in a Box_77
+  - first:
+      213: -2504812636167515255
+    second: Mobile - The Battle Cats - Cats in a Box_78
+  - first:
+      213: -2957309035378166099
+    second: Mobile - The Battle Cats - Cats in a Box_79
+  - first:
+      213: -8616904887136974707
+    second: Mobile - The Battle Cats - Cats in a Box_80
+  - first:
+      213: -100931098530036039
+    second: Mobile - The Battle Cats - Cats in a Box_81
+  - first:
+      213: -7150823448128105459
+    second: Mobile - The Battle Cats - Cats in a Box_82
+  - first:
+      213: -6821736850779005081
+    second: Mobile - The Battle Cats - Cats in a Box_83
+  - first:
+      213: -1120323085405883712
+    second: Mobile - The Battle Cats - Cats in a Box_84
+  - first:
+      213: 7302696692290459318
+    second: Mobile - The Battle Cats - Cats in a Box_85
+  - first:
+      213: -3139136994867819348
+    second: Mobile - The Battle Cats - Cats in a Box_86
+  - first:
+      213: 2162004597366421638
+    second: Mobile - The Battle Cats - Cats in a Box_87
+  - first:
+      213: 8662461443795851284
+    second: Mobile - The Battle Cats - Cats in a Box_88
+  - first:
+      213: -7766809086143999082
+    second: Mobile - The Battle Cats - Cats in a Box_89
+  - first:
+      213: -151680027801048913
+    second: Mobile - The Battle Cats - Cats in a Box_90
+  - first:
+      213: 5076806023697802187
+    second: Mobile - The Battle Cats - Cats in a Box_91
+  - first:
+      213: 2602772749279780286
+    second: Mobile - The Battle Cats - Cats in a Box_92
+  - first:
+      213: 334449559314891644
+    second: Mobile - The Battle Cats - Cats in a Box_93
+  - first:
+      213: 6282262329324482535
+    second: Mobile - The Battle Cats - Cats in a Box_94
+  - first:
+      213: -3173177311602774554
+    second: Mobile - The Battle Cats - Cats in a Box_95
+  - first:
+      213: -3837981881417144771
+    second: Mobile - The Battle Cats - Cats in a Box_96
+  - first:
+      213: 8672730796977714609
+    second: Mobile - The Battle Cats - Cats in a Box_97
+  - first:
+      213: 3232276371927081337
+    second: Mobile - The Battle Cats - Cats in a Box_98
+  - first:
+      213: 3992295653396115873
+    second: Mobile - The Battle Cats - Cats in a Box_99
+  - first:
+      213: -7936973336027973819
+    second: Mobile - The Battle Cats - Cats in a Box_100
+  - first:
+      213: 964535268447771539
+    second: Mobile - The Battle Cats - Cats in a Box_101
+  - first:
+      213: -3404306374860349326
+    second: Mobile - The Battle Cats - Cats in a Box_102
+  - first:
+      213: 2586388690781370692
+    second: Mobile - The Battle Cats - Cats in a Box_103
+  - first:
+      213: 1656566295012602292
+    second: Mobile - The Battle Cats - Cats in a Box_104
+  - first:
+      213: -2481086340028100510
+    second: Mobile - The Battle Cats - Cats in a Box_105
+  - first:
+      213: -8270709200920778333
+    second: Mobile - The Battle Cats - Cats in a Box_106
+  - first:
+      213: -2134976519887119282
+    second: Mobile - The Battle Cats - Cats in a Box_107
+  - first:
+      213: 8441022768745888323
+    second: Mobile - The Battle Cats - Cats in a Box_108
+  - first:
+      213: 6040561264988129208
+    second: Mobile - The Battle Cats - Cats in a Box_109
+  - first:
+      213: -4271725726839592785
+    second: Mobile - The Battle Cats - Cats in a Box_110
+  - first:
+      213: 159208040946003102
+    second: Mobile - The Battle Cats - Cats in a Box_111
+  - first:
+      213: 1146389545232485742
+    second: Mobile - The Battle Cats - Cats in a Box_112
+  - first:
+      213: 6688040626900612304
+    second: Mobile - The Battle Cats - Cats in a Box_113
+  - first:
+      213: 1705383958462290090
+    second: Mobile - The Battle Cats - Cats in a Box_114
+  - first:
+      213: -3247853719776361522
+    second: Mobile - The Battle Cats - Cats in a Box_115
+  - first:
+      213: 2203549737445182887
+    second: Mobile - The Battle Cats - Cats in a Box_116
+  - first:
+      213: -5641444833443618193
+    second: Mobile - The Battle Cats - Cats in a Box_117
+  - first:
+      213: -5217711928610869587
+    second: Mobile - The Battle Cats - Cats in a Box_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 424
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973f33e724fbe62d0800000000000000
+      internalID: -3283476786000432263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 408
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3735e735474ee1c50800000000000000
+      internalID: 6637994089058816883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 408
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accdaf17b413bc340800000000000000
+      internalID: 4885052420918009034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 424
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2701989f9998ab690800000000000000
+      internalID: -7585599327942668174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 404
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ab46df3671edb70800000000000000
+      internalID: 8925597229715339923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 424
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325e724d61bf21ef0800000000000000
+      internalID: -138772563027827421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 424
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21564e53aff70730800000000000000
+      internalID: 3965419074049429802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 424
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30d64167fc4a8aa0800000000000000
+      internalID: -6158024915103068099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 418
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7470847aa19b8d0b0800000000000000
+      internalID: -5703605403937929401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_9
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 418
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaf007d365f7ea20800000000000000
+      internalID: 3091709478370867945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_10
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 424
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11067d7573c8eb0e0800000000000000
+      internalID: -2252208594313846767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_11
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 424
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e786c0aae0f68d0800000000000000
+      internalID: -2851043915586830762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_12
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 424
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680abcec6bdcd9780800000000000000
+      internalID: -8674551122208513914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 341
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee5279d804ed8270800000000000000
+      internalID: 8254504418699009768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 397
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c30be06f18630f0800000000000000
+      internalID: -1137578962056102880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 401
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7c6594412b41d40800000000000000
+      internalID: 5554260040654178233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 401
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e46814d26413010800000000000000
+      internalID: 1166790938652462666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_17
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 396
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e3b1b7a26b062e0800000000000000
+      internalID: -2134505929803350396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_18
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 400
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9add7ad05c364c0800000000000000
+      internalID: -4295372957139752526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_19
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 400
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cb55bb732465d60800000000000000
+      internalID: 7878557405264854096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 379
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eb284e18ff28400800000000000000
+      internalID: 325103056473734731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 379
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc346385fd6f45c0800000000000000
+      internalID: -4229040623838806854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 351
+        width: 88
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c70dbc5bcc764c0800000000000000
+      internalID: -4294238638493893490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_23
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 351
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db593e755ef41c470800000000000000
+      internalID: 8413093425345435069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_24
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 351
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b37916e1d480290800000000000000
+      internalID: -7923998751476729087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 351
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1607e2f3c900e30d0800000000000000
+      internalID: -3441312394189574047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_26
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 310
+        width: 28
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf0ad648b4413d70800000000000000
+      internalID: 9021067086853181375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_27
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 310
+        width: 31
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1b19a0af36e9590800000000000000
+      internalID: -7665579590167711310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 341
+        width: 88
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e09f1dae69c53e20800000000000000
+      internalID: 3329788976698462435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 341
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a11de162836b2f80800000000000000
+      internalID: -8130295290647473751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 341
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7f4773e5879f5f0800000000000000
+      internalID: -722413919163582500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 341
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0da04c86173d880800000000000000
+      internalID: -8587395369685823315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 341
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401210b1c155dede0800000000000000
+      internalID: -1302291138039701244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 342
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfdebbd27fcb7170800000000000000
+      internalID: 8177357640641208250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_34
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 341
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22563115b16cc8a0800000000000000
+      internalID: -6283539949782937041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6cf4bfeb7cdcf10800000000000000
+      internalID: 2291707408475473649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 341
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d129069aa9e32d20800000000000000
+      internalID: 3252700274762523094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_37
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 351
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962dfaf97b4bd8b60800000000000000
+      internalID: 7750049234525606505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_38
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 351
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c14cbe75dbe200800000000000000
+      internalID: 210496547903882340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_39
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 348
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9c2befb6b8f9fd0800000000000000
+      internalID: -2332992786003736109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 348
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42cf46a91db5b4a0800000000000000
+      internalID: -6578143762842664374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_41
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 348
+        width: 84
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e5a9d98b94d7520800000000000000
+      internalID: 2701396408759115404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_42
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 310
+        width: 118
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987bec0bb24b71fc0800000000000000
+      internalID: -3524150083651192951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_43
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 311
+        width: 99
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab0970d6f53c05e0800000000000000
+      internalID: -1942118005127705682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_44
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 310
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c32258b4bb8dc40800000000000000
+      internalID: 5537381674882579542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_45
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 311
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7b6734052dd2f60800000000000000
+      internalID: 8011290554333050859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_46
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 311
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f754c6e33a6e07410800000000000000
+      internalID: 1472930666951492991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_47
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 310
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a689999ac3eb3af0800000000000000
+      internalID: -415488081301764447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd32db6e2ab094f0800000000000000
+      internalID: -823954023268598288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 324
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4582afdafc506a350800000000000000
+      internalID: 6027511540817209428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 324
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb938b119a38488a0800000000000000
+      internalID: -6303768816241854021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 329
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331a1f36d11ab82d0800000000000000
+      internalID: -3275347156379000525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_52
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 310
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b80002177a7550800000000000000
+      internalID: 6159366359576262836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_53
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 311
+        width: 84
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6643033b1c017c9f0800000000000000
+      internalID: -448371213779061658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_54
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 310
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c67bc93694822ce0800000000000000
+      internalID: -1431435950800800062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_55
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 310
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0178e279b29d9ba20800000000000000
+      internalID: 3078730601527674640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 162
+        width: 128
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37af8005febd08aa0800000000000000
+      internalID: -6160682469356406157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 284
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0cdd010271ba130800000000000000
+      internalID: 3578979755365351645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_58
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 284
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e065a50f1cdef14e0800000000000000
+      internalID: -2008625491567028722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_59
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 284
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3ecf242dce6fcd0800000000000000
+      internalID: -2524570153283427333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_60
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 284
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa347e660f475b310800000000000000
+      internalID: 1420169833372664751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_61
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 284
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f3159d4c09bed10800000000000000
+      internalID: 2155976021760884589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_62
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 293
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd375d1f331de0680800000000000000
+      internalID: -8786855801922423843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_63
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 266
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1449a0ba0000f5380800000000000000
+      internalID: -8980459129083882431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_64
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 222
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecfef159b5c01890800000000000000
+      internalID: -7489268780581847840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_65
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 277
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7fd2dcd348be270800000000000000
+      internalID: 8280857740821002212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_66
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 254
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6b499b461ad2940800000000000000
+      internalID: 5273048192703051493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_67
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59da17b882e564d30800000000000000
+      internalID: 4415320012914535829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_68
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 254
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b47dd3ee461f540800000000000000
+      internalID: 5039920432406809346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_69
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16c199883acd7070800000000000000
+      internalID: 8105857248511772187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 99
+        width: 127
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c04bb2b2d0b47f50800000000000000
+      internalID: 6878316949889827011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_71
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 228
+        width: 165
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0a78ed1235d3340800000000000000
+      internalID: 4845120179052978370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_72
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 222
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6342a70706a312b80800000000000000
+      internalID: -8421385642327792586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_73
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 222
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced858a183c881d60800000000000000
+      internalID: 7861187322166218220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_74
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 221
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc99db600b2266c20800000000000000
+      internalID: 3199282724715993549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_75
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 238
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04665eaf7dd61520800000000000000
+      internalID: 2672566969346450443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_76
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 218
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4d3d0eeca01a750800000000000000
+      internalID: 6314340036201665711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_77
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 234
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db070bf51c152b990800000000000000
+      internalID: -7371739749076143939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_78
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9835350bd2e1d3dd0800000000000000
+      internalID: -2504812636167515255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_79
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 116
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da63b3fc91785f6d0800000000000000
+      internalID: -2957309035378166099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_80
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 208
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d888fd2d8aa9a6880800000000000000
+      internalID: -8616904887136974707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_81
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 203
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6c35d53bb699ef0800000000000000
+      internalID: -100931098530036039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_82
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 99
+        width: 168
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d045acae5fb23cc90800000000000000
+      internalID: -7150823448128105459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_83
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 191
+        width: 158
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f10223a725451a0800000000000000
+      internalID: -6821736850779005081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_84
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 162
+        width: 84
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c276bce610d370f0800000000000000
+      internalID: -1120323085405883712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_85
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 82
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6946643f3685560800000000000000
+      internalID: 7302696692290459318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_86
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 78
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caccd97f88b8f64d0800000000000000
+      internalID: -3139136994867819348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_87
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 82
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68879ccf9bbf00e10800000000000000
+      internalID: 2162004597366421638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_88
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41818f599ce373870800000000000000
+      internalID: 8662461443795851284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_89
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 4
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6935c165940c63490800000000000000
+      internalID: -7766809086143999082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_90
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 4
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8a56f71df15edf0800000000000000
+      internalID: -151680027801048913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_91
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 4
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc322143e20747640800000000000000
+      internalID: 5076806023697802187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_92
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 30
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd53ef7608ee1420800000000000000
+      internalID: 2602772749279780286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_93
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 36
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73004a2a1434a400800000000000000
+      internalID: 334449559314891644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_94
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 36
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef243dbd441f2750800000000000000
+      internalID: 6282262329324482535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_95
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 30
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed669c1c0c96f3d0800000000000000
+      internalID: -3173177311602774554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_96
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 30
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36eeb730dfbcbac0800000000000000
+      internalID: -3837981881417144771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_97
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 36
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b57272b5babb5870800000000000000
+      internalID: 8672730796977714609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_98
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 30
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9712a942c3a5bdc20800000000000000
+      internalID: 3232276371927081337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_99
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 30
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1f203aebb776730800000000000000
+      internalID: 3992295653396115873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_100
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 36
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5473e428dc43ad190800000000000000
+      internalID: -7936973336027973819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_101
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 36
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b5a2167b7b26d00800000000000000
+      internalID: 964535268447771539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_102
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 36
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270e9db836971c0d0800000000000000
+      internalID: -3404306374860349326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_103
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 36
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4497c1d9fc2b4e320800000000000000
+      internalID: 2586388690781370692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_104
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 36
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b17c19b44e4df610800000000000000
+      internalID: 1656566295012602292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_105
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 4
+        width: 99
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2601d8d7e19619dd0800000000000000
+      internalID: -2481086340028100510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_106
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 10
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9ef864dc9883d80800000000000000
+      internalID: -8270709200920778333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_107
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 10
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c1450ba2a0f52e0800000000000000
+      internalID: -2134976519887119282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_108
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 4
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a35185c79842570800000000000000
+      internalID: 8441022768745888323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_109
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 10
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b70a9b577264d350800000000000000
+      internalID: 6040561264988129208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_110
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa824d18518c7b4c0800000000000000
+      internalID: -4271725726839592785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_111
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 10
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ce8f5aede953200800000000000000
+      internalID: 159208040946003102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_112
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 10
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dcdc1b73bc8ef00800000000000000
+      internalID: 1146389545232485742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_113
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 10
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4bac1f381b0dc50800000000000000
+      internalID: 6688040626900612304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_114
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 10
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85bc9bcadbaa710800000000000000
+      internalID: 1705383958462290090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_115
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 10
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec38c4eef3e4de2d0800000000000000
+      internalID: -3247853719776361522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_116
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 4
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad4351bfc4949e10800000000000000
+      internalID: 2203549737445182887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_117
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 10
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6261aa40df85b1b0800000000000000
+      internalID: -5641444833443618193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cats in a Box_118
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 10
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daea4d245a6f697b0800000000000000
+      internalID: -5217711928610869587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

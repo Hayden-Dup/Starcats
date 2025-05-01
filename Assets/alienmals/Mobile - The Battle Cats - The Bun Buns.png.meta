@@ -1,0 +1,3492 @@
+fileFormatVersion: 2
+guid: 03ebfb48596c73d4b9d58fefd39a0a04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3806492299188346493
+    second: Mobile - The Battle Cats - The Bun Buns_0
+  - first:
+      213: 3611609140951209720
+    second: Mobile - The Battle Cats - The Bun Buns_1
+  - first:
+      213: -4359186948326792224
+    second: Mobile - The Battle Cats - The Bun Buns_2
+  - first:
+      213: 7798149667351724289
+    second: Mobile - The Battle Cats - The Bun Buns_3
+  - first:
+      213: -6283078725443043187
+    second: Mobile - The Battle Cats - The Bun Buns_4
+  - first:
+      213: -8793806275485582797
+    second: Mobile - The Battle Cats - The Bun Buns_5
+  - first:
+      213: -2285096446555776673
+    second: Mobile - The Battle Cats - The Bun Buns_6
+  - first:
+      213: -374818390859935758
+    second: Mobile - The Battle Cats - The Bun Buns_7
+  - first:
+      213: -2568682706334116161
+    second: Mobile - The Battle Cats - The Bun Buns_8
+  - first:
+      213: -4278743611862547578
+    second: Mobile - The Battle Cats - The Bun Buns_9
+  - first:
+      213: -568788531991686875
+    second: Mobile - The Battle Cats - The Bun Buns_10
+  - first:
+      213: 369812577558653516
+    second: Mobile - The Battle Cats - The Bun Buns_11
+  - first:
+      213: -4811074832721391671
+    second: Mobile - The Battle Cats - The Bun Buns_12
+  - first:
+      213: -3807234023051042038
+    second: Mobile - The Battle Cats - The Bun Buns_13
+  - first:
+      213: 3319469101018529293
+    second: Mobile - The Battle Cats - The Bun Buns_14
+  - first:
+      213: -7873105992500194549
+    second: Mobile - The Battle Cats - The Bun Buns_15
+  - first:
+      213: -1068328209683938315
+    second: Mobile - The Battle Cats - The Bun Buns_16
+  - first:
+      213: 6323383129885969349
+    second: Mobile - The Battle Cats - The Bun Buns_17
+  - first:
+      213: -817756267439636837
+    second: Mobile - The Battle Cats - The Bun Buns_18
+  - first:
+      213: 810426937350797554
+    second: Mobile - The Battle Cats - The Bun Buns_19
+  - first:
+      213: 4679716216004202616
+    second: Mobile - The Battle Cats - The Bun Buns_20
+  - first:
+      213: 326008650014512339
+    second: Mobile - The Battle Cats - The Bun Buns_21
+  - first:
+      213: -4405486139298902030
+    second: Mobile - The Battle Cats - The Bun Buns_22
+  - first:
+      213: 646574543794103668
+    second: Mobile - The Battle Cats - The Bun Buns_23
+  - first:
+      213: -4343118258614680881
+    second: Mobile - The Battle Cats - The Bun Buns_24
+  - first:
+      213: -5832599554351304637
+    second: Mobile - The Battle Cats - The Bun Buns_25
+  - first:
+      213: -9178034417370619865
+    second: Mobile - The Battle Cats - The Bun Buns_26
+  - first:
+      213: -7928209515759938682
+    second: Mobile - The Battle Cats - The Bun Buns_27
+  - first:
+      213: 7696774255561235890
+    second: Mobile - The Battle Cats - The Bun Buns_28
+  - first:
+      213: -1944462744141088047
+    second: Mobile - The Battle Cats - The Bun Buns_29
+  - first:
+      213: 8493032155649109258
+    second: Mobile - The Battle Cats - The Bun Buns_30
+  - first:
+      213: 4519760233860283179
+    second: Mobile - The Battle Cats - The Bun Buns_31
+  - first:
+      213: -597495030195211774
+    second: Mobile - The Battle Cats - The Bun Buns_32
+  - first:
+      213: -2393200956294591879
+    second: Mobile - The Battle Cats - The Bun Buns_33
+  - first:
+      213: 5895337113855379368
+    second: Mobile - The Battle Cats - The Bun Buns_34
+  - first:
+      213: 8108379301786553203
+    second: Mobile - The Battle Cats - The Bun Buns_35
+  - first:
+      213: -8870249479184435509
+    second: Mobile - The Battle Cats - The Bun Buns_36
+  - first:
+      213: 7980346220311863214
+    second: Mobile - The Battle Cats - The Bun Buns_37
+  - first:
+      213: 8335671136999309068
+    second: Mobile - The Battle Cats - The Bun Buns_38
+  - first:
+      213: -1542484890798315566
+    second: Mobile - The Battle Cats - The Bun Buns_39
+  - first:
+      213: 8304091518756373845
+    second: Mobile - The Battle Cats - The Bun Buns_40
+  - first:
+      213: -5688426503558075827
+    second: Mobile - The Battle Cats - The Bun Buns_41
+  - first:
+      213: 7749346774572361637
+    second: Mobile - The Battle Cats - The Bun Buns_42
+  - first:
+      213: -3563878662972651723
+    second: Mobile - The Battle Cats - The Bun Buns_43
+  - first:
+      213: 7496709895400429786
+    second: Mobile - The Battle Cats - The Bun Buns_44
+  - first:
+      213: 5771467124552549908
+    second: Mobile - The Battle Cats - The Bun Buns_45
+  - first:
+      213: -5197592287887165940
+    second: Mobile - The Battle Cats - The Bun Buns_46
+  - first:
+      213: -3012706821486277243
+    second: Mobile - The Battle Cats - The Bun Buns_47
+  - first:
+      213: -5486372052917795237
+    second: Mobile - The Battle Cats - The Bun Buns_48
+  - first:
+      213: -6706292810843825312
+    second: Mobile - The Battle Cats - The Bun Buns_49
+  - first:
+      213: -3666712037292624020
+    second: Mobile - The Battle Cats - The Bun Buns_50
+  - first:
+      213: 7059301917413966155
+    second: Mobile - The Battle Cats - The Bun Buns_51
+  - first:
+      213: 5419246417562190638
+    second: Mobile - The Battle Cats - The Bun Buns_52
+  - first:
+      213: -5873858991398929695
+    second: Mobile - The Battle Cats - The Bun Buns_53
+  - first:
+      213: -6510551743274768702
+    second: Mobile - The Battle Cats - The Bun Buns_54
+  - first:
+      213: -7286670052799806285
+    second: Mobile - The Battle Cats - The Bun Buns_55
+  - first:
+      213: -7333683058314685225
+    second: Mobile - The Battle Cats - The Bun Buns_56
+  - first:
+      213: -8925263471276747179
+    second: Mobile - The Battle Cats - The Bun Buns_57
+  - first:
+      213: 905064186323590604
+    second: Mobile - The Battle Cats - The Bun Buns_58
+  - first:
+      213: 2115799032997806030
+    second: Mobile - The Battle Cats - The Bun Buns_59
+  - first:
+      213: 5384759519148152071
+    second: Mobile - The Battle Cats - The Bun Buns_60
+  - first:
+      213: 4161404652891687154
+    second: Mobile - The Battle Cats - The Bun Buns_61
+  - first:
+      213: -1482023207042226553
+    second: Mobile - The Battle Cats - The Bun Buns_62
+  - first:
+      213: 3944541544951443427
+    second: Mobile - The Battle Cats - The Bun Buns_63
+  - first:
+      213: 1955403082877764677
+    second: Mobile - The Battle Cats - The Bun Buns_64
+  - first:
+      213: 7364463778860798779
+    second: Mobile - The Battle Cats - The Bun Buns_65
+  - first:
+      213: -8448618081533928696
+    second: Mobile - The Battle Cats - The Bun Buns_66
+  - first:
+      213: -8275971719481065845
+    second: Mobile - The Battle Cats - The Bun Buns_67
+  - first:
+      213: -1587956977460297796
+    second: Mobile - The Battle Cats - The Bun Buns_68
+  - first:
+      213: -5365638287676415142
+    second: Mobile - The Battle Cats - The Bun Buns_69
+  - first:
+      213: -7739619751401858143
+    second: Mobile - The Battle Cats - The Bun Buns_70
+  - first:
+      213: 6739722805231060570
+    second: Mobile - The Battle Cats - The Bun Buns_71
+  - first:
+      213: 3396760780924961578
+    second: Mobile - The Battle Cats - The Bun Buns_72
+  - first:
+      213: 8057614711318293936
+    second: Mobile - The Battle Cats - The Bun Buns_73
+  - first:
+      213: 1369454695112097628
+    second: Mobile - The Battle Cats - The Bun Buns_74
+  - first:
+      213: -3966579026156683456
+    second: Mobile - The Battle Cats - The Bun Buns_75
+  - first:
+      213: 2543502358245410873
+    second: Mobile - The Battle Cats - The Bun Buns_76
+  - first:
+      213: 5579909234835339370
+    second: Mobile - The Battle Cats - The Bun Buns_77
+  - first:
+      213: -5723347699062598624
+    second: Mobile - The Battle Cats - The Bun Buns_78
+  - first:
+      213: -2645039761798284540
+    second: Mobile - The Battle Cats - The Bun Buns_79
+  - first:
+      213: 6386662885123260800
+    second: Mobile - The Battle Cats - The Bun Buns_80
+  - first:
+      213: 6943244176580597376
+    second: Mobile - The Battle Cats - The Bun Buns_81
+  - first:
+      213: 6971873286848401745
+    second: Mobile - The Battle Cats - The Bun Buns_82
+  - first:
+      213: -3434868291008320436
+    second: Mobile - The Battle Cats - The Bun Buns_83
+  - first:
+      213: -2278508434005681817
+    second: Mobile - The Battle Cats - The Bun Buns_84
+  - first:
+      213: 4920132353628946540
+    second: Mobile - The Battle Cats - The Bun Buns_85
+  - first:
+      213: 3154600678504369709
+    second: Mobile - The Battle Cats - The Bun Buns_86
+  - first:
+      213: 4104370871528653059
+    second: Mobile - The Battle Cats - The Bun Buns_87
+  - first:
+      213: 3240791715445989222
+    second: Mobile - The Battle Cats - The Bun Buns_88
+  - first:
+      213: -414646372923190000
+    second: Mobile - The Battle Cats - The Bun Buns_89
+  - first:
+      213: -2828376395874936679
+    second: Mobile - The Battle Cats - The Bun Buns_90
+  - first:
+      213: -3423310297693217253
+    second: Mobile - The Battle Cats - The Bun Buns_91
+  - first:
+      213: -1890488920362084190
+    second: Mobile - The Battle Cats - The Bun Buns_92
+  - first:
+      213: 6599027053317051955
+    second: Mobile - The Battle Cats - The Bun Buns_93
+  - first:
+      213: -6060745512362026909
+    second: Mobile - The Battle Cats - The Bun Buns_94
+  - first:
+      213: 7904898505378534083
+    second: Mobile - The Battle Cats - The Bun Buns_95
+  - first:
+      213: -5919535163263595751
+    second: Mobile - The Battle Cats - The Bun Buns_96
+  - first:
+      213: -3960218218733521663
+    second: Mobile - The Battle Cats - The Bun Buns_97
+  - first:
+      213: 5897349139071775442
+    second: Mobile - The Battle Cats - The Bun Buns_98
+  - first:
+      213: -7990869780386800818
+    second: Mobile - The Battle Cats - The Bun Buns_99
+  - first:
+      213: -2355107808512607578
+    second: Mobile - The Battle Cats - The Bun Buns_100
+  - first:
+      213: -5061193950115000202
+    second: Mobile - The Battle Cats - The Bun Buns_101
+  - first:
+      213: 7555414658552616660
+    second: Mobile - The Battle Cats - The Bun Buns_102
+  - first:
+      213: 857499589442582827
+    second: Mobile - The Battle Cats - The Bun Buns_103
+  - first:
+      213: -7459980332815659504
+    second: Mobile - The Battle Cats - The Bun Buns_104
+  - first:
+      213: 8869752187195877655
+    second: Mobile - The Battle Cats - The Bun Buns_105
+  - first:
+      213: -915825704855707846
+    second: Mobile - The Battle Cats - The Bun Buns_106
+  - first:
+      213: 5046743697201190787
+    second: Mobile - The Battle Cats - The Bun Buns_107
+  - first:
+      213: -2623777329947767450
+    second: Mobile - The Battle Cats - The Bun Buns_108
+  - first:
+      213: -5134774921561279271
+    second: Mobile - The Battle Cats - The Bun Buns_109
+  - first:
+      213: -5889908794619558361
+    second: Mobile - The Battle Cats - The Bun Buns_110
+  - first:
+      213: -8333331176172609693
+    second: Mobile - The Battle Cats - The Bun Buns_111
+  - first:
+      213: -4475475429358462860
+    second: Mobile - The Battle Cats - The Bun Buns_112
+  - first:
+      213: -6315818480143366997
+    second: Mobile - The Battle Cats - The Bun Buns_113
+  - first:
+      213: 4272976231052978228
+    second: Mobile - The Battle Cats - The Bun Buns_114
+  - first:
+      213: -3226978022488696802
+    second: Mobile - The Battle Cats - The Bun Buns_115
+  - first:
+      213: -2578323860943060617
+    second: Mobile - The Battle Cats - The Bun Buns_116
+  - first:
+      213: 8620273443363982720
+    second: Mobile - The Battle Cats - The Bun Buns_117
+  - first:
+      213: 5145760871861755861
+    second: Mobile - The Battle Cats - The Bun Buns_118
+  - first:
+      213: 1766133771168056841
+    second: Mobile - The Battle Cats - The Bun Buns_119
+  - first:
+      213: 984865479177425622
+    second: Mobile - The Battle Cats - The Bun Buns_120
+  - first:
+      213: 3512751253905108398
+    second: Mobile - The Battle Cats - The Bun Buns_121
+  - first:
+      213: -8751192395493291533
+    second: Mobile - The Battle Cats - The Bun Buns_122
+  - first:
+      213: 9113249168199918553
+    second: Mobile - The Battle Cats - The Bun Buns_123
+  - first:
+      213: -9007419272357635891
+    second: Mobile - The Battle Cats - The Bun Buns_124
+  - first:
+      213: -7513941279615394792
+    second: Mobile - The Battle Cats - The Bun Buns_125
+  - first:
+      213: -8687850217339359829
+    second: Mobile - The Battle Cats - The Bun Buns_126
+  - first:
+      213: -7105911059606765507
+    second: Mobile - The Battle Cats - The Bun Buns_127
+  - first:
+      213: 2870222353921319078
+    second: Mobile - The Battle Cats - The Bun Buns_128
+  - first:
+      213: 5181164735664772013
+    second: Mobile - The Battle Cats - The Bun Buns_129
+  - first:
+      213: -6265353816772045591
+    second: Mobile - The Battle Cats - The Bun Buns_130
+  - first:
+      213: 5511097354955341417
+    second: Mobile - The Battle Cats - The Bun Buns_131
+  - first:
+      213: -6779288272669399566
+    second: Mobile - The Battle Cats - The Bun Buns_132
+  - first:
+      213: -2165631196876553976
+    second: Mobile - The Battle Cats - The Bun Buns_133
+  - first:
+      213: -2233559483218365568
+    second: Mobile - The Battle Cats - The Bun Buns_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 484
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3816e9aeb6f9c2bc0800000000000000
+      internalID: -3806492299188346493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 484
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f653f9e0630f1230800000000000000
+      internalID: 3611609140951209720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 484
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e36673019e0183c0800000000000000
+      internalID: -4359186948326792224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 484
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10184db5ec7983c60800000000000000
+      internalID: 7798149667351724289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 479
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80472a30350ec8a0800000000000000
+      internalID: -6283078725443043187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 484
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ab416b8cf16f580800000000000000
+      internalID: -8793806275485582797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 484
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59198983e4b940e0800000000000000
+      internalID: -2285096446555776673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 484
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff828dc8a06ccaf0800000000000000
+      internalID: -374818390859935758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_8
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 484
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6144420b43a5cd0800000000000000
+      internalID: -2568682706334116161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_9
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 484
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68306f1da59de94c0800000000000000
+      internalID: -4278743611862547578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_10
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 484
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521d15ef7d14b18f0800000000000000
+      internalID: -568788531991686875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_11
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 484
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aead67496d12500800000000000000
+      internalID: 369812577558653516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_12
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 484
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfc1d70ee0ab3db0800000000000000
+      internalID: -4811074832721391671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_13
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 484
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03e24fd3dcf92bc0800000000000000
+      internalID: -3807234023051042038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_14
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 478
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e38116f8f111e20800000000000000
+      internalID: 3319469101018529293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_15
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 484
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03d60630db1db290800000000000000
+      internalID: -7873105992500194549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 381
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3824e47298c21f0800000000000000
+      internalID: -1068328209683938315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 381
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb0d83347b21c750800000000000000
+      internalID: 6323383129885969349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 433
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e3966e10fb6a4f0800000000000000
+      internalID: -817756267439636837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_19
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 381
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8b33571073f3b00800000000000000
+      internalID: 810426937350797554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_20
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 381
+        width: 105
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870d090ba11b1f040800000000000000
+      internalID: 4679716216004202616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 381
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4d1d1d327368400800000000000000
+      internalID: 326008650014512339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_22
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 433
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff8e2492b19cd2c0800000000000000
+      internalID: -4405486139298902030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_23
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 381
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47568a33f1819f800800000000000000
+      internalID: 646574543794103668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_24
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 351
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc242c164f42ab3c0800000000000000
+      internalID: -4343118258614680881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_25
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 351
+        width: 99
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340f9c59b917e0fa0800000000000000
+      internalID: -5832599554351304637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_26
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 415
+        width: 121
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720a050235211a080800000000000000
+      internalID: -9178034417370619865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_27
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 347
+        width: 43
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683d14c637759f190800000000000000
+      internalID: -7928209515759938682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_28
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 347
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd591bf76f60da60800000000000000
+      internalID: 7696774255561235890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_29
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 347
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da3d78bf61e305e0800000000000000
+      internalID: -1944462744141088047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_30
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 406
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d6f6f5fbf4dd570800000000000000
+      internalID: 8493032155649109258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_31
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 381
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bbd296cf969be30800000000000000
+      internalID: 4519760233860283179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 381
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202372a8f6545b7f0800000000000000
+      internalID: -597495030195211774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 381
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a8fe3f864a9ced0800000000000000
+      internalID: -2393200956294591879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_34
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 342
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c686ced170d150800000000000000
+      internalID: 5895337113855379368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_35
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 381
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b0e13d300c68070800000000000000
+      internalID: 8108379301786553203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_36
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 381
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc63e14681b86e480800000000000000
+      internalID: -8870249479184435509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_37
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 381
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafd15e0b92efbe60800000000000000
+      internalID: 7980346220311863214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_38
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 303
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ff15d1cb04ea370800000000000000
+      internalID: 8335671136999309068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_39
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 335
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d72f8c0a2ef79ae0800000000000000
+      internalID: -1542484890798315566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_40
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 351
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555cec54d3f0e3370800000000000000
+      internalID: 8304091518756373845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_41
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 351
+        width: 120
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ae08ccb36ae01b0800000000000000
+      internalID: -5688426503558075827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_42
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 351
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a764bb65d53b8b60800000000000000
+      internalID: 7749346774572361637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_43
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 351
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537cbeefc3f8a8ec0800000000000000
+      internalID: -3563878662972651723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_44
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 296
+        width: 125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad89f7b3ee9a90860800000000000000
+      internalID: 7496709895400429786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_45
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 346
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416cccf65ce581050800000000000000
+      internalID: 5771467124552549908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_46
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 348
+        width: 127
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06fc292a517ed7b0800000000000000
+      internalID: -5197592287887165940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_47
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 348
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d0aec9b17b036d0800000000000000
+      internalID: -3012706821486277243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_48
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 289
+        width: 123
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5644389fad7cd3b0800000000000000
+      internalID: -5486372052917795237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bd5e158367ee2a0800000000000000
+      internalID: -6706292810843825312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 220
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67368344d83d1dc0800000000000000
+      internalID: -3666712037292624020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_51
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 303
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4181bd21bda7f160800000000000000
+      internalID: 7059301917413966155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 300
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e234a1587e7053b40800000000000000
+      internalID: 5419246417562190638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_53
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 220
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eabeec4e5cdb7ea0800000000000000
+      internalID: -5873858991398929695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_54
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 220
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6ae421fafd5a5a0800000000000000
+      internalID: -6510551743274768702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_55
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 219
+        width: 124
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b40463813c80ea90800000000000000
+      internalID: -7286670052799806285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_56
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 220
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d45add2d16893a90800000000000000
+      internalID: -7333683058314685225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_57
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 303
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55697c33928132480800000000000000
+      internalID: -8925263471276747179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_58
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 217
+        width: 90
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccddebc051f6f8c00800000000000000
+      internalID: 905064186323590604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_59
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 217
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecff2f1b204dc5d10800000000000000
+      internalID: 2115799032997806030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_60
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 143
+        width: 159
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7059ab3c0428aba40800000000000000
+      internalID: 5384759519148152071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_61
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 143
+        width: 148
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f84446db7740c930800000000000000
+      internalID: 4161404652891687154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_62
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 250
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786ec5bcebbce6be0800000000000000
+      internalID: -1482023207042226553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_63
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 250
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efe994d2a3ddb630800000000000000
+      internalID: 3944541544951443427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_64
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 140
+        width: 157
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54402a36ebcf22b10800000000000000
+      internalID: 1955403082877764677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_65
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 140
+        width: 146
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b339a3cc9c4d33660800000000000000
+      internalID: 7364463778860798779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_66
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 260
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b5a371e9a70ca80800000000000000
+      internalID: -8448618081533928696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_67
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 241
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ef621b197d52d80800000000000000
+      internalID: -8275971719481065845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_68
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 220
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf30e7da8176f9e0800000000000000
+      internalID: -1587956977460297796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_69
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 220
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53efcdd76c6985b0800000000000000
+      internalID: -5365638287676415142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_70
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 220
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab5815a7d8579490800000000000000
+      internalID: -7739619751401858143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_71
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 220
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56856ace2e488d50800000000000000
+      internalID: 6739722805231060570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_72
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 219
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23c206fee7b32f20800000000000000
+      internalID: 3396760780924961578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_73
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 219
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda61d83e562df60800000000000000
+      internalID: 8057614711318293936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_74
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 219
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fb52e1ac7410310800000000000000
+      internalID: 1369454695112097628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_75
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 217
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f7a6c3461e3f8c0800000000000000
+      internalID: -3966579026156683456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_76
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 143
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93806943be55c4320800000000000000
+      internalID: 2543502358245410873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_77
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 143
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68384da2e1df6d40800000000000000
+      internalID: 5579909234835339370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_78
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 143
+        width: 116
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024135f57959290b0800000000000000
+      internalID: -5723347699062598624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_79
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 143
+        width: 101
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bba35c95eea4bd0800000000000000
+      internalID: -2645039761798284540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_80
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 140
+        width: 74
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08181f75e0cf1a850800000000000000
+      internalID: 6386662885123260800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_81
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 140
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086d2edaacb5b5060800000000000000
+      internalID: 6943244176580597376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_82
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 140
+        width: 116
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15152a9d0d111c060800000000000000
+      internalID: 6971873286848401745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_83
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 140
+        width: 101
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c2230fc75e450d0800000000000000
+      internalID: -3434868291008320436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_84
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 140
+        width: 43
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7691c5db6ac1160e0800000000000000
+      internalID: -2278508434005681817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_85
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 113
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60c5f1ce42d74440800000000000000
+      internalID: 4920132353628946540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_86
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 113
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e85727a9467cb20800000000000000
+      internalID: 3154600678504369709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_87
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 113
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3010defcf87a5f830800000000000000
+      internalID: 4104370871528653059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_88
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 113
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fdf2e05ea99fc20800000000000000
+      internalID: 3240791715445989222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_89
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 113
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015528a1251ee3af0800000000000000
+      internalID: -414646372923190000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_90
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 113
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99856c047a69fb8d0800000000000000
+      internalID: -2828376395874936679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_91
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 143
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e1f06fb65fd70d0800000000000000
+      internalID: -3423310297693217253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_92
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 143
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8910ad752a3c5e0800000000000000
+      internalID: -1890488920362084190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_93
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 140
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336d7205424749b50800000000000000
+      internalID: 6599027053317051955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_94
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 140
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3685e955118e3eba0800000000000000
+      internalID: -6060745512362026909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_95
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 140
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c29a960f47d3bd60800000000000000
+      internalID: 7904898505378534083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_96
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 140
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b4d3ec12699dda0800000000000000
+      internalID: -5919535163263595751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_97
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 140
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105bb5f138a7a09c0800000000000000
+      internalID: -3960218218733521663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 113
+        width: 98
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d234d6ebc797d150800000000000000
+      internalID: 5897349139071775442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_99
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 113
+        width: 98
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b14ada54aba1190800000000000000
+      internalID: -7990869780386800818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_100
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 6
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa7bd11de9f05fd0800000000000000
+      internalID: -2355107808512607578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_101
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 3
+        width: 91
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6701a00fae603c9b0800000000000000
+      internalID: -5061193950115000202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_102
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 6
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6dec50a993ad860800000000000000
+      internalID: 7555414658552616660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_103
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 6
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29b4c7555376eb00800000000000000
+      internalID: 857499589442582827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_104
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 3
+        width: 116
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e4f177963d87890800000000000000
+      internalID: -7459980332815659504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_105
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 3
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719ed8bce90b71b70800000000000000
+      internalID: 8869752187195877655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_106
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 29
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f57e9af555a43f0800000000000000
+      internalID: -915825704855707846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_107
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 35
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3875e1067a2a90640800000000000000
+      internalID: 5046743697201190787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_108
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 35
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d8db67b68769bd0800000000000000
+      internalID: -2623777329947767450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_109
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 29
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d471cef96d9db8b0800000000000000
+      internalID: -5134774921561279271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_110
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 29
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72680494827d24ea0800000000000000
+      internalID: -5889908794619558361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_111
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 35
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f1b88727f0a5c80800000000000000
+      internalID: -8333331176172609693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_112
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 29
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47899102fcae3e1c0800000000000000
+      internalID: -4475475429358462860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_113
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 29
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba405311e84b958a0800000000000000
+      internalID: -6315818480143366997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_114
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 35
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438a9913e39ac4b30800000000000000
+      internalID: 4272976231052978228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_115
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 35
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e189197f5987733d0800000000000000
+      internalID: -3226978022488696802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_116
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 35
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7714398eb14f73cd0800000000000000
+      internalID: -2578323860943060617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_117
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 35
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d817a460d51a770800000000000000
+      internalID: 8620273443363982720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_118
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 35
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df9c62ef3a696740800000000000000
+      internalID: 5145760871861755861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_119
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 6
+        width: 126
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9060b48be41928810800000000000000
+      internalID: 1766133771168056841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_120
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 3
+        width: 131
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d25aed6fe1faad00800000000000000
+      internalID: 984865479177425622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_121
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 3
+        width: 99
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead625177accfb030800000000000000
+      internalID: 3512751253905108398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_122
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 9
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c581d1e48d8680800000000000000
+      internalID: -8751192395493291533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_123
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 9
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d32e2c95d3c87e70800000000000000
+      internalID: 9113249168199918553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_124
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 3
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc89d1825e73ff280800000000000000
+      internalID: -9007419272357635891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_125
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 9
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c516d773e19b790800000000000000
+      internalID: -7513941279615394792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_126
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 9
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badefade14e8e6780800000000000000
+      internalID: -8687850217339359829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_127
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 9
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d308e9e3a8bb26d90800000000000000
+      internalID: -7105911059606765507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_128
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 9
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0add7160415d720800000000000000
+      internalID: 2870222353921319078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_129
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 9
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3541840e137e740800000000000000
+      internalID: 5181164735664772013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_130
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 9
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e41a2f16edfc09a0800000000000000
+      internalID: -6265353816772045591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_131
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 9
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e35b468d95b7c40800000000000000
+      internalID: 5511097354955341417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_132
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 3
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5a195fb312be1a0800000000000000
+      internalID: -6779288272669399566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_133
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 9
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014ba386e122f1e0800000000000000
+      internalID: -2165631196876553976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - The Bun Buns_134
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 9
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0837012eb7dc001e0800000000000000
+      internalID: -2233559483218365568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

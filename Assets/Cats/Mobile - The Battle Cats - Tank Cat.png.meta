@@ -1,0 +1,2567 @@
+fileFormatVersion: 2
+guid: 7f4d77248a46b0b49b3757f55717ef88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1993477352157217239
+    second: Mobile - The Battle Cats - Tank Cat_0
+  - first:
+      213: -5522392731084142483
+    second: Mobile - The Battle Cats - Tank Cat_1
+  - first:
+      213: 1823244656489860667
+    second: Mobile - The Battle Cats - Tank Cat_2
+  - first:
+      213: 7787652726675250972
+    second: Mobile - The Battle Cats - Tank Cat_3
+  - first:
+      213: -1191149453283746447
+    second: Mobile - The Battle Cats - Tank Cat_4
+  - first:
+      213: 8998133149982916782
+    second: Mobile - The Battle Cats - Tank Cat_5
+  - first:
+      213: 8556443734844887335
+    second: Mobile - The Battle Cats - Tank Cat_6
+  - first:
+      213: -4756418416557256407
+    second: Mobile - The Battle Cats - Tank Cat_7
+  - first:
+      213: -5435426844947943680
+    second: Mobile - The Battle Cats - Tank Cat_8
+  - first:
+      213: 3985473302762837665
+    second: Mobile - The Battle Cats - Tank Cat_9
+  - first:
+      213: -6547332336144224142
+    second: Mobile - The Battle Cats - Tank Cat_10
+  - first:
+      213: 7869800241507900195
+    second: Mobile - The Battle Cats - Tank Cat_11
+  - first:
+      213: -3747646759510454761
+    second: Mobile - The Battle Cats - Tank Cat_12
+  - first:
+      213: -3575834502815590090
+    second: Mobile - The Battle Cats - Tank Cat_13
+  - first:
+      213: 5487174437278040630
+    second: Mobile - The Battle Cats - Tank Cat_14
+  - first:
+      213: 7002415011669605871
+    second: Mobile - The Battle Cats - Tank Cat_15
+  - first:
+      213: 8312427338590229628
+    second: Mobile - The Battle Cats - Tank Cat_16
+  - first:
+      213: 4428729217742053876
+    second: Mobile - The Battle Cats - Tank Cat_17
+  - first:
+      213: -5082458116090082019
+    second: Mobile - The Battle Cats - Tank Cat_18
+  - first:
+      213: -6304481734951378362
+    second: Mobile - The Battle Cats - Tank Cat_19
+  - first:
+      213: -2121808896243199260
+    second: Mobile - The Battle Cats - Tank Cat_20
+  - first:
+      213: -1202921345745964621
+    second: Mobile - The Battle Cats - Tank Cat_21
+  - first:
+      213: -7764516738751488894
+    second: Mobile - The Battle Cats - Tank Cat_22
+  - first:
+      213: 3783845278705026883
+    second: Mobile - The Battle Cats - Tank Cat_23
+  - first:
+      213: 6374457119988882726
+    second: Mobile - The Battle Cats - Tank Cat_24
+  - first:
+      213: -6250087994975277782
+    second: Mobile - The Battle Cats - Tank Cat_25
+  - first:
+      213: 7846338238727711706
+    second: Mobile - The Battle Cats - Tank Cat_26
+  - first:
+      213: -7188795489962664709
+    second: Mobile - The Battle Cats - Tank Cat_27
+  - first:
+      213: 8959951524349204086
+    second: Mobile - The Battle Cats - Tank Cat_28
+  - first:
+      213: 7371027107536020402
+    second: Mobile - The Battle Cats - Tank Cat_29
+  - first:
+      213: 6649835538563061820
+    second: Mobile - The Battle Cats - Tank Cat_30
+  - first:
+      213: -188661160283861325
+    second: Mobile - The Battle Cats - Tank Cat_31
+  - first:
+      213: -4184112341629646845
+    second: Mobile - The Battle Cats - Tank Cat_32
+  - first:
+      213: -1403168479993215005
+    second: Mobile - The Battle Cats - Tank Cat_33
+  - first:
+      213: -1736061635848553157
+    second: Mobile - The Battle Cats - Tank Cat_34
+  - first:
+      213: -6398122824748520473
+    second: Mobile - The Battle Cats - Tank Cat_35
+  - first:
+      213: 7339153966142880856
+    second: Mobile - The Battle Cats - Tank Cat_36
+  - first:
+      213: 4619274324250067883
+    second: Mobile - The Battle Cats - Tank Cat_37
+  - first:
+      213: 874574664908695561
+    second: Mobile - The Battle Cats - Tank Cat_38
+  - first:
+      213: 8244054871190466436
+    second: Mobile - The Battle Cats - Tank Cat_39
+  - first:
+      213: 6247163834127675293
+    second: Mobile - The Battle Cats - Tank Cat_40
+  - first:
+      213: -7415141203220243548
+    second: Mobile - The Battle Cats - Tank Cat_41
+  - first:
+      213: 111253687171956837
+    second: Mobile - The Battle Cats - Tank Cat_42
+  - first:
+      213: -3522557754478906760
+    second: Mobile - The Battle Cats - Tank Cat_43
+  - first:
+      213: 2830716943680238880
+    second: Mobile - The Battle Cats - Tank Cat_44
+  - first:
+      213: -8199770484124187063
+    second: Mobile - The Battle Cats - Tank Cat_45
+  - first:
+      213: -2854518215406157695
+    second: Mobile - The Battle Cats - Tank Cat_46
+  - first:
+      213: 2680488842536620678
+    second: Mobile - The Battle Cats - Tank Cat_47
+  - first:
+      213: 3991320898047688407
+    second: Mobile - The Battle Cats - Tank Cat_48
+  - first:
+      213: -2514487325873009664
+    second: Mobile - The Battle Cats - Tank Cat_49
+  - first:
+      213: -4165024134870494414
+    second: Mobile - The Battle Cats - Tank Cat_50
+  - first:
+      213: -3544845834608734850
+    second: Mobile - The Battle Cats - Tank Cat_51
+  - first:
+      213: 9118851329569481132
+    second: Mobile - The Battle Cats - Tank Cat_52
+  - first:
+      213: 2924051099460817822
+    second: Mobile - The Battle Cats - Tank Cat_53
+  - first:
+      213: 8082124599326255710
+    second: Mobile - The Battle Cats - Tank Cat_54
+  - first:
+      213: -8213559666401332973
+    second: Mobile - The Battle Cats - Tank Cat_55
+  - first:
+      213: 270008236187959648
+    second: Mobile - The Battle Cats - Tank Cat_56
+  - first:
+      213: 8652573113221919442
+    second: Mobile - The Battle Cats - Tank Cat_57
+  - first:
+      213: -2308629316022100837
+    second: Mobile - The Battle Cats - Tank Cat_58
+  - first:
+      213: -4246934719799387055
+    second: Mobile - The Battle Cats - Tank Cat_59
+  - first:
+      213: 5470114860865467952
+    second: Mobile - The Battle Cats - Tank Cat_60
+  - first:
+      213: -757804613374546789
+    second: Mobile - The Battle Cats - Tank Cat_61
+  - first:
+      213: -1582839922542310899
+    second: Mobile - The Battle Cats - Tank Cat_62
+  - first:
+      213: -5812724489472107834
+    second: Mobile - The Battle Cats - Tank Cat_63
+  - first:
+      213: 6537013519859375872
+    second: Mobile - The Battle Cats - Tank Cat_64
+  - first:
+      213: -3550771588856558487
+    second: Mobile - The Battle Cats - Tank Cat_65
+  - first:
+      213: -948400043807074851
+    second: Mobile - The Battle Cats - Tank Cat_66
+  - first:
+      213: 8162584185536865906
+    second: Mobile - The Battle Cats - Tank Cat_67
+  - first:
+      213: -6381171045789648520
+    second: Mobile - The Battle Cats - Tank Cat_68
+  - first:
+      213: 1915201552308024417
+    second: Mobile - The Battle Cats - Tank Cat_69
+  - first:
+      213: -5359659405968982515
+    second: Mobile - The Battle Cats - Tank Cat_70
+  - first:
+      213: 3874791047132545200
+    second: Mobile - The Battle Cats - Tank Cat_71
+  - first:
+      213: 9175896494353753287
+    second: Mobile - The Battle Cats - Tank Cat_72
+  - first:
+      213: 5163151099014069810
+    second: Mobile - The Battle Cats - Tank Cat_73
+  - first:
+      213: -3001613583042981600
+    second: Mobile - The Battle Cats - Tank Cat_74
+  - first:
+      213: 6175925310528207426
+    second: Mobile - The Battle Cats - Tank Cat_75
+  - first:
+      213: -3405768693968741767
+    second: Mobile - The Battle Cats - Tank Cat_76
+  - first:
+      213: -4786843085499805262
+    second: Mobile - The Battle Cats - Tank Cat_77
+  - first:
+      213: -4769938168217194336
+    second: Mobile - The Battle Cats - Tank Cat_78
+  - first:
+      213: 1152500369180860308
+    second: Mobile - The Battle Cats - Tank Cat_79
+  - first:
+      213: -1684525727558055529
+    second: Mobile - The Battle Cats - Tank Cat_80
+  - first:
+      213: -9200752117368115450
+    second: Mobile - The Battle Cats - Tank Cat_81
+  - first:
+      213: -7232068112430421265
+    second: Mobile - The Battle Cats - Tank Cat_82
+  - first:
+      213: -5636035718458196203
+    second: Mobile - The Battle Cats - Tank Cat_83
+  - first:
+      213: 1118528812432479611
+    second: Mobile - The Battle Cats - Tank Cat_84
+  - first:
+      213: -780361607456957782
+    second: Mobile - The Battle Cats - Tank Cat_85
+  - first:
+      213: 7020968139066750486
+    second: Mobile - The Battle Cats - Tank Cat_86
+  - first:
+      213: 1848869790098318944
+    second: Mobile - The Battle Cats - Tank Cat_87
+  - first:
+      213: -287228827107341907
+    second: Mobile - The Battle Cats - Tank Cat_88
+  - first:
+      213: -3875305892389558949
+    second: Mobile - The Battle Cats - Tank Cat_89
+  - first:
+      213: 4348862887646817580
+    second: Mobile - The Battle Cats - Tank Cat_90
+  - first:
+      213: 5640037852082467024
+    second: Mobile - The Battle Cats - Tank Cat_91
+  - first:
+      213: -2764082236235469131
+    second: Mobile - The Battle Cats - Tank Cat_92
+  - first:
+      213: -8722802212592136239
+    second: Mobile - The Battle Cats - Tank Cat_93
+  - first:
+      213: -5939921271737248387
+    second: Mobile - The Battle Cats - Tank Cat_94
+  - first:
+      213: 8213082194705896090
+    second: Mobile - The Battle Cats - Tank Cat_95
+  - first:
+      213: 5014207529683041912
+    second: Mobile - The Battle Cats - Tank Cat_96
+  - first:
+      213: 3890316011554278520
+    second: Mobile - The Battle Cats - Tank Cat_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 434
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ef1ecf8eeb554e0800000000000000
+      internalID: -1993477352157217239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 434
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68c789e1158c53b0800000000000000
+      internalID: -5522392731084142483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 434
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e05b8ea577d4910800000000000000
+      internalID: 1823244656489860667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 435
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f9497e4ec431c60800000000000000
+      internalID: 7787652726675250972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 435
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d1f9a12ef287fe0800000000000000
+      internalID: -1191149453283746447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_5
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 435
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0066efc6acfdc70800000000000000
+      internalID: 8998133149982916782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_6
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 435
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721db0c2e389eb670800000000000000
+      internalID: 8556443734844887335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_7
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 433
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9219af596aecdfdb0800000000000000
+      internalID: -4756418416557256407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_8
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 435
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f6148251c7194b0800000000000000
+      internalID: -5435426844947943680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_9
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 435
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a65bf85ade3f4730800000000000000
+      internalID: 3985473302762837665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_10
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 435
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270f1b5fde33325a0800000000000000
+      internalID: -6547332336144224142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_11
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 435
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b9c58af95273d60800000000000000
+      internalID: 7869800241507900195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_12
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 433
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e4cbbc02fadfbc0800000000000000
+      internalID: -3747646759510454761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 415
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639571c1775106ec0800000000000000
+      internalID: -3575834502815590090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 415
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632cf82141c562c40800000000000000
+      internalID: 5487174437278040630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_15
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 415
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedfd6c4a539d2160800000000000000
+      internalID: 7002415011669605871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 325
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c749ae19f9cab5370800000000000000
+      internalID: 8312427338590229628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 325
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1a8e552c1067d30800000000000000
+      internalID: 4428729217742053876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 325
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d46ac754b7779b0800000000000000
+      internalID: -5082458116090082019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 298
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642e84fb34bf188a0800000000000000
+      internalID: -6304481734951378362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 298
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2192afc02dd82e0800000000000000
+      internalID: -2121808896243199260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 298
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1b31ec86d5e4fe0800000000000000
+      internalID: -1202921345745964621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_22
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 336
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c942e0a25ee3490800000000000000
+      internalID: -7764516738751488894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_23
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 336
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347804abb3be28430800000000000000
+      internalID: 3783845278705026883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_24
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 336
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d95e03afe967850800000000000000
+      internalID: 6374457119988882726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_25
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 336
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2da09c351a3349a0800000000000000
+      internalID: -6250087994975277782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 308
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbede27e0bc3ec60800000000000000
+      internalID: 7846338238727711706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_27
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 284
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc58d9f6944c3c90800000000000000
+      internalID: -7188795489962664709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_28
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 284
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676dd858074285c70800000000000000
+      internalID: 8959951524349204086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_29
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 284
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3a576d9162b4660800000000000000
+      internalID: 7371027107536020402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_30
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 286
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38d1d2a036f84c50800000000000000
+      internalID: 6649835538563061820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 207
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be0e5e9cadb16df0800000000000000
+      internalID: -188661160283861325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 207
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30846d06efb0fe5c0800000000000000
+      internalID: -4184112341629646845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 207
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7caf5a3b1f68ce0800000000000000
+      internalID: -1403168479993215005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 281
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d3017e32548e7e0800000000000000
+      internalID: -1736061635848553157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_35
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 290
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebab89803d4537a0800000000000000
+      internalID: -6398122824748520473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_36
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 284
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c78dfc5a9e9d560800000000000000
+      internalID: 7339153966142880856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_37
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 284
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba302012685fa1040800000000000000
+      internalID: 4619274324250067883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_38
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 295
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9086077260d132c00800000000000000
+      internalID: 874574664908695561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_39
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 291
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe22af934c86270800000000000000
+      internalID: 8244054871190466436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_40
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 284
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fe8d2886262b650800000000000000
+      internalID: 6247163834127675293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_41
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 284
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abd1bedc50281990800000000000000
+      internalID: -7415141203220243548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_42
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 207
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56046d793a04b8100800000000000000
+      internalID: 111253687171956837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872bc77b26c5d1fc0800000000000000
+      internalID: -3522557754478906760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_44
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 165
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0257dbfff0ab84720800000000000000
+      internalID: 2830716943680238880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_45
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 164
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9468b0e5030943e80800000000000000
+      internalID: -8199770484124187063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_46
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18085d59ec6b268d0800000000000000
+      internalID: -2854518215406157695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_47
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 267
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6821bc38662033520800000000000000
+      internalID: 2680488842536620678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_48
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 267
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deb9b8b535046730800000000000000
+      internalID: 3991320898047688407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_49
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 267
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c0e15791fba1dd0800000000000000
+      internalID: -2514487325873009664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_50
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 267
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2339d18dd9cd236c0800000000000000
+      internalID: -4165024134870494414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_51
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 267
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d8f9cae7d2ecec0800000000000000
+      internalID: -3544845834608734850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_52
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 267
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1669278faac8e70800000000000000
+      internalID: 9118851329569481132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 190
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93d3709bf0549820800000000000000
+      internalID: 2924051099460817822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 190
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aa94d8089792070800000000000000
+      internalID: 8082124599326255710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_55
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 138
+        width: 143
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3113cae2003930e80800000000000000
+      internalID: -8213559666401332973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 89
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061c96c6f034fb300800000000000000
+      internalID: 270008236187959648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 183
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d230b6376d141870800000000000000
+      internalID: 8652573113221919442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_58
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 138
+        width: 152
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c13746ed916ffd0800000000000000
+      internalID: -2308629316022100837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_59
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 171
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c9512af5bdf05c0800000000000000
+      internalID: -4246934719799387055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_60
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 138
+        width: 113
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036b87aeb70c9eb40800000000000000
+      internalID: 5470114860865467952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_61
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 138
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c68aa18bcbb75f0800000000000000
+      internalID: -757804613374546789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_62
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 156
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a0f880a7f980ae0800000000000000
+      internalID: -1582839922542310899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_63
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca1dcbbfdd055fa0800000000000000
+      internalID: -5812724489472107834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_64
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 138
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fd427692328ba50800000000000000
+      internalID: 6537013519859375872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_65
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 138
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cc7af7d0029bec0800000000000000
+      internalID: -3550771588856558487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_66
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 138
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd51aeb5f2b96d2f0800000000000000
+      internalID: -948400043807074851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 121
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276652cc113574170800000000000000
+      internalID: 8162584185536865906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_68
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 121
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87933b42eb68177a0800000000000000
+      internalID: -6381171045789648520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164b8962aa9249a10800000000000000
+      internalID: 1915201552308024417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_70
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 113
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e332eba2aae95b0800000000000000
+      internalID: -5359659405968982515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_71
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 28
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b003378de506c530800000000000000
+      internalID: 3874791047132545200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_72
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 34
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c425b1ee35575f70800000000000000
+      internalID: 9175896494353753287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_73
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 34
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eb66aa19237a740800000000000000
+      internalID: 5163151099014069810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_74
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 28
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0215cb579502856d0800000000000000
+      internalID: -3001613583042981600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_75
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 28
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ab065395b45b550800000000000000
+      internalID: 6175925310528207426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_76
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 34
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ad8d8da674cb0d0800000000000000
+      internalID: -3405768693968741767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_77
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 28
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1df355397b19db0800000000000000
+      internalID: -4786843085499805262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_78
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 28
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a036da1286cdcdb0800000000000000
+      internalID: -4769938168217194336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_79
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 34
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f1884caf08eff00800000000000000
+      internalID: 1152500369180860308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_80
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 34
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79945e996cc5f98e0800000000000000
+      internalID: -1684525727558055529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_81
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 34
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fa9d962bc505080800000000000000
+      internalID: -9200752117368115450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_82
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 34
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaa72f6e5882ab90800000000000000
+      internalID: -7232068112430421265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_83
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 34
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fb2e30067c8c1b0800000000000000
+      internalID: -5636035718458196203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_84
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2
+        width: 99
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75d3185700d58f00800000000000000
+      internalID: 1118528812432479611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_85
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaadc27a0499b25f0800000000000000
+      internalID: -780361607456957782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_86
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 8
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616b864e25d7f6160800000000000000
+      internalID: 7020968139066750486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_87
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066e2c2474188a910800000000000000
+      internalID: 1848869790098318944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_88
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 8
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9c30f47ee830cf0800000000000000
+      internalID: -287228827107341907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_89
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 8
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b556428b2d5283ac0800000000000000
+      internalID: -3875305892389558949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_90
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 8
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d611b41c34a5c30800000000000000
+      internalID: 4348862887646817580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_91
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 8
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0f1255b80754e40800000000000000
+      internalID: 5640037852082467024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_92
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bea733d9d104a9d0800000000000000
+      internalID: -2764082236235469131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_93
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 8
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df44706a9162f680800000000000000
+      internalID: -8722802212592136239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_94
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 8
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75905c0319219da0800000000000000
+      internalID: -5939921271737248387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_95
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92d786cdbabaf170800000000000000
+      internalID: 8213082194705896090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_96
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 8
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eb8dc8e2b069540800000000000000
+      internalID: 5014207529683041912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Tank Cat_97
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 8
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c05bcfccd2df530800000000000000
+      internalID: 3890316011554278520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3167 @@
+fileFormatVersion: 2
+guid: 83567161505579242a559f2ff186452b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7405283373605701696
+    second: Mobile - The Battle Cats - Archer Cat_0
+  - first:
+      213: -362076919960006563
+    second: Mobile - The Battle Cats - Archer Cat_1
+  - first:
+      213: 6657348735186447997
+    second: Mobile - The Battle Cats - Archer Cat_2
+  - first:
+      213: -2033131445801729375
+    second: Mobile - The Battle Cats - Archer Cat_3
+  - first:
+      213: -8741894923392960561
+    second: Mobile - The Battle Cats - Archer Cat_4
+  - first:
+      213: 431582509541433062
+    second: Mobile - The Battle Cats - Archer Cat_5
+  - first:
+      213: 307271746120896446
+    second: Mobile - The Battle Cats - Archer Cat_6
+  - first:
+      213: -603390325128928744
+    second: Mobile - The Battle Cats - Archer Cat_7
+  - first:
+      213: -7492664037497283348
+    second: Mobile - The Battle Cats - Archer Cat_8
+  - first:
+      213: 7315681717910001021
+    second: Mobile - The Battle Cats - Archer Cat_9
+  - first:
+      213: -7237223176978800493
+    second: Mobile - The Battle Cats - Archer Cat_10
+  - first:
+      213: 3735515632988165650
+    second: Mobile - The Battle Cats - Archer Cat_11
+  - first:
+      213: 8336573534534693329
+    second: Mobile - The Battle Cats - Archer Cat_12
+  - first:
+      213: -3537330620730312498
+    second: Mobile - The Battle Cats - Archer Cat_13
+  - first:
+      213: -4064915587659552950
+    second: Mobile - The Battle Cats - Archer Cat_14
+  - first:
+      213: -6189704017741822651
+    second: Mobile - The Battle Cats - Archer Cat_15
+  - first:
+      213: -2661693485752740997
+    second: Mobile - The Battle Cats - Archer Cat_16
+  - first:
+      213: 4547889101280732864
+    second: Mobile - The Battle Cats - Archer Cat_17
+  - first:
+      213: -2219472034488253322
+    second: Mobile - The Battle Cats - Archer Cat_18
+  - first:
+      213: 1003538612140136351
+    second: Mobile - The Battle Cats - Archer Cat_19
+  - first:
+      213: 779712967142139320
+    second: Mobile - The Battle Cats - Archer Cat_20
+  - first:
+      213: 1675243885439363768
+    second: Mobile - The Battle Cats - Archer Cat_21
+  - first:
+      213: -8946421582155131949
+    second: Mobile - The Battle Cats - Archer Cat_22
+  - first:
+      213: -8354269028323536896
+    second: Mobile - The Battle Cats - Archer Cat_23
+  - first:
+      213: 4649955065446749784
+    second: Mobile - The Battle Cats - Archer Cat_24
+  - first:
+      213: 9196991016978905240
+    second: Mobile - The Battle Cats - Archer Cat_25
+  - first:
+      213: -1280810650293252938
+    second: Mobile - The Battle Cats - Archer Cat_26
+  - first:
+      213: -1265161379706302469
+    second: Mobile - The Battle Cats - Archer Cat_27
+  - first:
+      213: 2333707801853537674
+    second: Mobile - The Battle Cats - Archer Cat_28
+  - first:
+      213: -2229033504644900197
+    second: Mobile - The Battle Cats - Archer Cat_29
+  - first:
+      213: 6331345030748549604
+    second: Mobile - The Battle Cats - Archer Cat_30
+  - first:
+      213: 4309053159035489380
+    second: Mobile - The Battle Cats - Archer Cat_31
+  - first:
+      213: 7077779828510653951
+    second: Mobile - The Battle Cats - Archer Cat_32
+  - first:
+      213: 705732434294105633
+    second: Mobile - The Battle Cats - Archer Cat_33
+  - first:
+      213: -5054582670527410835
+    second: Mobile - The Battle Cats - Archer Cat_34
+  - first:
+      213: -1969543811449971211
+    second: Mobile - The Battle Cats - Archer Cat_35
+  - first:
+      213: 1143939243641023073
+    second: Mobile - The Battle Cats - Archer Cat_36
+  - first:
+      213: 2784442435652217932
+    second: Mobile - The Battle Cats - Archer Cat_37
+  - first:
+      213: -7958484799693529942
+    second: Mobile - The Battle Cats - Archer Cat_38
+  - first:
+      213: 5301349222911701417
+    second: Mobile - The Battle Cats - Archer Cat_39
+  - first:
+      213: 7415623237829632297
+    second: Mobile - The Battle Cats - Archer Cat_40
+  - first:
+      213: 2116812681880623290
+    second: Mobile - The Battle Cats - Archer Cat_41
+  - first:
+      213: 1430165785026396558
+    second: Mobile - The Battle Cats - Archer Cat_42
+  - first:
+      213: 1870783321557584381
+    second: Mobile - The Battle Cats - Archer Cat_43
+  - first:
+      213: 4197028059148011892
+    second: Mobile - The Battle Cats - Archer Cat_44
+  - first:
+      213: -4510039864663995195
+    second: Mobile - The Battle Cats - Archer Cat_45
+  - first:
+      213: -2758993158122778567
+    second: Mobile - The Battle Cats - Archer Cat_46
+  - first:
+      213: 2074519712694148766
+    second: Mobile - The Battle Cats - Archer Cat_47
+  - first:
+      213: 6878305317699565047
+    second: Mobile - The Battle Cats - Archer Cat_48
+  - first:
+      213: -6412913340886976670
+    second: Mobile - The Battle Cats - Archer Cat_49
+  - first:
+      213: 411762068921892081
+    second: Mobile - The Battle Cats - Archer Cat_50
+  - first:
+      213: 3426909155905508951
+    second: Mobile - The Battle Cats - Archer Cat_51
+  - first:
+      213: -3848097160794068435
+    second: Mobile - The Battle Cats - Archer Cat_52
+  - first:
+      213: 5145575079031128572
+    second: Mobile - The Battle Cats - Archer Cat_53
+  - first:
+      213: 3787320074149836711
+    second: Mobile - The Battle Cats - Archer Cat_54
+  - first:
+      213: -1837600739809147377
+    second: Mobile - The Battle Cats - Archer Cat_55
+  - first:
+      213: 5808734439551199984
+    second: Mobile - The Battle Cats - Archer Cat_56
+  - first:
+      213: -8366046798258288228
+    second: Mobile - The Battle Cats - Archer Cat_57
+  - first:
+      213: -4791137804676070927
+    second: Mobile - The Battle Cats - Archer Cat_58
+  - first:
+      213: -7766640300566113560
+    second: Mobile - The Battle Cats - Archer Cat_59
+  - first:
+      213: -3659482764749020022
+    second: Mobile - The Battle Cats - Archer Cat_60
+  - first:
+      213: -4637231530687080266
+    second: Mobile - The Battle Cats - Archer Cat_61
+  - first:
+      213: 3099788903342994484
+    second: Mobile - The Battle Cats - Archer Cat_62
+  - first:
+      213: 8481301969761304740
+    second: Mobile - The Battle Cats - Archer Cat_63
+  - first:
+      213: 1233824318117057770
+    second: Mobile - The Battle Cats - Archer Cat_64
+  - first:
+      213: 4084049430374366173
+    second: Mobile - The Battle Cats - Archer Cat_65
+  - first:
+      213: 7110925707047086160
+    second: Mobile - The Battle Cats - Archer Cat_66
+  - first:
+      213: -2784459663348246804
+    second: Mobile - The Battle Cats - Archer Cat_67
+  - first:
+      213: 206041261058626234
+    second: Mobile - The Battle Cats - Archer Cat_68
+  - first:
+      213: 465988820065479468
+    second: Mobile - The Battle Cats - Archer Cat_69
+  - first:
+      213: -4626370669907455727
+    second: Mobile - The Battle Cats - Archer Cat_70
+  - first:
+      213: -3013456243144910372
+    second: Mobile - The Battle Cats - Archer Cat_71
+  - first:
+      213: -1280780682634145493
+    second: Mobile - The Battle Cats - Archer Cat_72
+  - first:
+      213: 2983939710209804827
+    second: Mobile - The Battle Cats - Archer Cat_73
+  - first:
+      213: -9204504072503193850
+    second: Mobile - The Battle Cats - Archer Cat_74
+  - first:
+      213: -3034468593092794911
+    second: Mobile - The Battle Cats - Archer Cat_75
+  - first:
+      213: -4336078201584029734
+    second: Mobile - The Battle Cats - Archer Cat_76
+  - first:
+      213: 8388640883449516230
+    second: Mobile - The Battle Cats - Archer Cat_77
+  - first:
+      213: 6081783357673784669
+    second: Mobile - The Battle Cats - Archer Cat_78
+  - first:
+      213: -8532161368212876528
+    second: Mobile - The Battle Cats - Archer Cat_79
+  - first:
+      213: 6262422888271490243
+    second: Mobile - The Battle Cats - Archer Cat_80
+  - first:
+      213: -298563642450658187
+    second: Mobile - The Battle Cats - Archer Cat_81
+  - first:
+      213: -8955474459956572176
+    second: Mobile - The Battle Cats - Archer Cat_82
+  - first:
+      213: -8592721608370769987
+    second: Mobile - The Battle Cats - Archer Cat_83
+  - first:
+      213: 1410137252151119142
+    second: Mobile - The Battle Cats - Archer Cat_84
+  - first:
+      213: 8322699163730517354
+    second: Mobile - The Battle Cats - Archer Cat_85
+  - first:
+      213: 1080065855678297775
+    second: Mobile - The Battle Cats - Archer Cat_86
+  - first:
+      213: -4987013720267948527
+    second: Mobile - The Battle Cats - Archer Cat_87
+  - first:
+      213: 247614845427733035
+    second: Mobile - The Battle Cats - Archer Cat_88
+  - first:
+      213: 7966865915350262584
+    second: Mobile - The Battle Cats - Archer Cat_89
+  - first:
+      213: 2388980396485103482
+    second: Mobile - The Battle Cats - Archer Cat_90
+  - first:
+      213: 1961892470979429053
+    second: Mobile - The Battle Cats - Archer Cat_91
+  - first:
+      213: 3285589959001499970
+    second: Mobile - The Battle Cats - Archer Cat_92
+  - first:
+      213: 1190665318784833554
+    second: Mobile - The Battle Cats - Archer Cat_93
+  - first:
+      213: 6599109536513145411
+    second: Mobile - The Battle Cats - Archer Cat_94
+  - first:
+      213: -2824479786965116278
+    second: Mobile - The Battle Cats - Archer Cat_95
+  - first:
+      213: -2217853201229599185
+    second: Mobile - The Battle Cats - Archer Cat_96
+  - first:
+      213: 6492539718790222080
+    second: Mobile - The Battle Cats - Archer Cat_97
+  - first:
+      213: 7518079412387541408
+    second: Mobile - The Battle Cats - Archer Cat_98
+  - first:
+      213: 405473169635136205
+    second: Mobile - The Battle Cats - Archer Cat_99
+  - first:
+      213: -3647415839407835756
+    second: Mobile - The Battle Cats - Archer Cat_100
+  - first:
+      213: 4469988720846342111
+    second: Mobile - The Battle Cats - Archer Cat_101
+  - first:
+      213: 1760593464000525438
+    second: Mobile - The Battle Cats - Archer Cat_102
+  - first:
+      213: 8131094256816500349
+    second: Mobile - The Battle Cats - Archer Cat_103
+  - first:
+      213: -546000737086003141
+    second: Mobile - The Battle Cats - Archer Cat_104
+  - first:
+      213: 3144557139821188719
+    second: Mobile - The Battle Cats - Archer Cat_105
+  - first:
+      213: 1019219892189407068
+    second: Mobile - The Battle Cats - Archer Cat_106
+  - first:
+      213: -6690399229940483381
+    second: Mobile - The Battle Cats - Archer Cat_107
+  - first:
+      213: 5440281385515055464
+    second: Mobile - The Battle Cats - Archer Cat_108
+  - first:
+      213: 6526895039641466184
+    second: Mobile - The Battle Cats - Archer Cat_109
+  - first:
+      213: -4489441918489761250
+    second: Mobile - The Battle Cats - Archer Cat_110
+  - first:
+      213: -6288328175661848804
+    second: Mobile - The Battle Cats - Archer Cat_111
+  - first:
+      213: -2497829752737434585
+    second: Mobile - The Battle Cats - Archer Cat_112
+  - first:
+      213: 789769970921662233
+    second: Mobile - The Battle Cats - Archer Cat_113
+  - first:
+      213: -4734078689043956625
+    second: Mobile - The Battle Cats - Archer Cat_114
+  - first:
+      213: -6031906756836966865
+    second: Mobile - The Battle Cats - Archer Cat_115
+  - first:
+      213: 5667622245981622217
+    second: Mobile - The Battle Cats - Archer Cat_116
+  - first:
+      213: -760660838023348738
+    second: Mobile - The Battle Cats - Archer Cat_117
+  - first:
+      213: 1759885943634547364
+    second: Mobile - The Battle Cats - Archer Cat_118
+  - first:
+      213: -2876250113749190208
+    second: Mobile - The Battle Cats - Archer Cat_119
+  - first:
+      213: 2686967490436240074
+    second: Mobile - The Battle Cats - Archer Cat_120
+  - first:
+      213: 887271166464234923
+    second: Mobile - The Battle Cats - Archer Cat_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 227
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048cfd05ef9d4c660800000000000000
+      internalID: 7405283373605701696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d509a6ca5f4a9faf0800000000000000
+      internalID: -362076919960006563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 227
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e2faa0767a36c50800000000000000
+      internalID: 6657348735186447997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 221
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2cf47d8bdd8c3e0800000000000000
+      internalID: -2033131445801729375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_4
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 227
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc73f5b32ec8ea680800000000000000
+      internalID: -8741894923392960561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 150
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1d7c710a4df500800000000000000
+      internalID: 431582509541433062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 227
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfcc0d6606a34400800000000000000
+      internalID: 307271746120896446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 201
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81268c932b350a7f0800000000000000
+      internalID: -603390325128928744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 149
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec51a771c5b40890800000000000000
+      internalID: -7492664037497283348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 201
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7558d523c5868560800000000000000
+      internalID: 7315681717910001021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_10
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 201
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39064ff6dd7309b90800000000000000
+      internalID: -7237223176978800493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_11
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 150
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2169d253da737d330800000000000000
+      internalID: 3735515632988165650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 149
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1fcd9e57571b370800000000000000
+      internalID: 8336573534534693329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 173
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f142ca80e8eec0800000000000000
+      internalID: -3537330620730312498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 148
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47aa935fc48697c0800000000000000
+      internalID: -4064915587659552950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 148
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545c0b58df0c91aa0800000000000000
+      internalID: -6189704017741822651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_16
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 149
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739cb080e3cf0bd0800000000000000
+      internalID: -2661693485752740997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_17
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c665b7ba095d1f30800000000000000
+      internalID: 4547889101280732864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 150
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6740a63a1f9d231e0800000000000000
+      internalID: -2219472034488253322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_19
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 173
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97500ffc094ded00800000000000000
+      internalID: 1003538612140136351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_20
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 150
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5e54100d812da00800000000000000
+      internalID: 779712967142139320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_21
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 150
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba22cf1079af3710800000000000000
+      internalID: 1675243885439363768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_22
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 171
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d351c0a8fce7d380800000000000000
+      internalID: -8946421582155131949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_23
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 172
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0005ab0e49caf0c80800000000000000
+      internalID: -8354269028323536896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_24
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 171
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8565b79de75f78040800000000000000
+      internalID: 4649955065446749784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_25
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 171
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8987c792a9642af70800000000000000
+      internalID: 9196991016978905240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_26
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 172
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bccbb4ef75a93ee0800000000000000
+      internalID: -1280810650293252938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_27
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 173
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff0013ad6e317ee0800000000000000
+      internalID: -1265161379706302469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 149
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8da90b91eef26020800000000000000
+      internalID: 2333707801853537674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 149
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a523366d1e011e0800000000000000
+      internalID: -2229033504644900197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 149
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1b334b2c47dd750800000000000000
+      internalID: 6331345030748549604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 149
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cc59e8405dccb30800000000000000
+      internalID: 4309053159035489380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_32
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 149
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd7dcc1143593260800000000000000
+      internalID: 7077779828510653951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 149
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126629ce8e34bc900800000000000000
+      internalID: 705732434294105633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 148
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d4e5b67d38ad9b0800000000000000
+      internalID: -5054582670527410835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_35
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 148
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd94fca656caa4e0800000000000000
+      internalID: -1969543811449971211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_36
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 148
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a2ad56ea610ef00800000000000000
+      internalID: 1143939243641023073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_37
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 148
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ce29284a354a620800000000000000
+      internalID: 2784442435652217932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_38
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 149
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacdbe39d38cd8190800000000000000
+      internalID: -7958484799693529942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_39
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 149
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1f1fdc70d229940800000000000000
+      internalID: 5301349222911701417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_40
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 150
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921a7fe8b0699e660800000000000000
+      internalID: 7415623237829632297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_41
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 149
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab859873bed606d10800000000000000
+      internalID: 2116812681880623290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_42
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 149
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e818a624438f8d310800000000000000
+      internalID: 1430165785026396558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_43
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 150
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df94a25e48b56f910800000000000000
+      internalID: 1870783321557584381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_44
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 150
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4794dd178c6de3a30800000000000000
+      internalID: 4197028059148011892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_45
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 150
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0ad763ae1961c0800000000000000
+      internalID: -4510039864663995195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_46
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 150
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930db58275616b9d0800000000000000
+      internalID: -2758993158122778567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_47
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 150
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e1eaaffac2acc10800000000000000
+      internalID: 2074519712694148766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_48
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 150
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5b92e5e36a47f50800000000000000
+      internalID: 6878305317699565047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_49
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 150
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26771152b41c007a0800000000000000
+      internalID: -6412913340886976670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_50
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 150
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb11a8b6fd6b500800000000000000
+      internalID: 411762068921892081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_51
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 150
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756184388b3de8f20800000000000000
+      internalID: 3426909155905508951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_52
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 150
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a2ea53500d89ac0800000000000000
+      internalID: -3848097160794068435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 125
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1c0ce9541c86740800000000000000
+      internalID: 5145575079031128572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 126
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a738669a834f8430800000000000000
+      internalID: 3787320074149836711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 129
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f064ea8fcd78f76e0800000000000000
+      internalID: -1837600739809147377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_56
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 125
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fae6006235cc9050800000000000000
+      internalID: 5808734439551199984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_57
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 109
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99458f13c4d5eb80800000000000000
+      internalID: -8366046798258288228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_58
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 109
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1865a1d85728db0800000000000000
+      internalID: -4791137804676070927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 109
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2168acbc9573490800000000000000
+      internalID: -7766640300566113560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_60
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 109
+        width: 78
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84687170d7e63dc0800000000000000
+      internalID: -3659482764749020022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_61
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 110
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8d720fd7e35afb0800000000000000
+      internalID: -4637231530687080266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_62
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 113
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434f47e8599a40b20800000000000000
+      internalID: 3099788903342994484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_63
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 113
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a08174a433a3b570800000000000000
+      internalID: 8481301969761304740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_64
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 113
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae41b942eac6f1110800000000000000
+      internalID: 1233824318117057770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_65
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 113
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbb99691557da830800000000000000
+      internalID: 4084049430374366173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_66
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 113
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0582cb851451fa260800000000000000
+      internalID: 7110925707047086160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_67
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 113
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce659ba50bc9b59d0800000000000000
+      internalID: -2784459663348246804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_68
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 113
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2197e6f610cd200800000000000000
+      internalID: 206041261058626234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_69
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 113
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b6e49ec56877600800000000000000
+      internalID: 465988820065479468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_70
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 46
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11151e42364dbcfb0800000000000000
+      internalID: -4626370669907455727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_71
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 46
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd91a29438d0e26d0800000000000000
+      internalID: -3013456243144910372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_72
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 38
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21d86841c0c93ee0800000000000000
+      internalID: -1280780682634145493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1acc3a5b55196920800000000000000
+      internalID: 2983939710209804827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_74
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 73
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f8fc84058034080800000000000000
+      internalID: -9204504072503193850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_75
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 73
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5ef9254e663e5d0800000000000000
+      internalID: -3034468593092794911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_76
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 73
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfe44469d723d3c0800000000000000
+      internalID: -4336078201584029734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_77
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 73
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0d35640707a6470800000000000000
+      internalID: 8388640883449516230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_78
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 89
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55470bbdb5d66450800000000000000
+      internalID: 6081783357673784669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_79
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 38
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0135c51e07ca79980800000000000000
+      internalID: -8532161368212876528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_80
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 91
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cca2b8ef6898e650800000000000000
+      internalID: 6262422888271490243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_81
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 86
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cb1e4f2f94bdbf0800000000000000
+      internalID: -298563642450658187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_82
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 93
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff84334d63c7b380800000000000000
+      internalID: -8955474459956572176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_83
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 46
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfac3f293580c880800000000000000
+      internalID: -8592721608370769987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 73
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d430f0c50d19310800000000000000
+      internalID: 1410137252151119142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_85
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 32
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d199a3bca208370800000000000000
+      internalID: 8322699163730517354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_86
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 33
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6bbbd5c2a2dfe00800000000000000
+      internalID: 1080065855678297775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_87
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 64
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11efd6991719acab0800000000000000
+      internalID: -4987013720267948527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_88
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2255d6d364bf6300800000000000000
+      internalID: 247614845427733035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_89
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 78
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833ae99f65eff8e60800000000000000
+      internalID: 7966865915350262584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_90
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 32
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fcdd3630d572120800000000000000
+      internalID: 2388980396485103482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_91
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db20e3cceca0a3b10800000000000000
+      internalID: 1961892470979429053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 57
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249efdfe8a2c89d20800000000000000
+      internalID: 3285589959001499970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_93
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 54
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2181c8c8cc7168010800000000000000
+      internalID: 1190665318784833554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_94
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 57
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a32cde82fb49b50800000000000000
+      internalID: 6599109536513145411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_95
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 53
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a5ca6399e6dc8d0800000000000000
+      internalID: -2824479786965116278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_96
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 32
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e2fb0a34a9831e0800000000000000
+      internalID: -2217853201229599185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_97
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 32
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0011b9ca9722a1a50800000000000000
+      internalID: 6492539718790222080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 46
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a17980a465955860800000000000000
+      internalID: 7518079412387541408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_99
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 32
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2dd0213b780a500800000000000000
+      internalID: 405473169635136205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_100
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 38
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49576ff6e96c16dc0800000000000000
+      internalID: -3647415839407835756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_101
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 46
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd78c000f07980e30800000000000000
+      internalID: 4469988720846342111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_102
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 32
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7430af6d62ee6810800000000000000
+      internalID: 1760593464000525438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_103
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 6
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e24cc652377d070800000000000000
+      internalID: 8131094256816500349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_104
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 12
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3823e2f8373c68f0800000000000000
+      internalID: -546000737086003141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_105
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66d5fede06b3ab20800000000000000
+      internalID: 3144557139821188719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_106
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5726f5871ff42e00800000000000000
+      internalID: 1019219892189407068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_107
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcab9ddf85de623a0800000000000000
+      internalID: -6690399229940483381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_108
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 6
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8697bc5a813cf7b40800000000000000
+      internalID: 5440281385515055464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_109
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 3
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845b6142570349a50800000000000000
+      internalID: 6526895039641466184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_110
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 2
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a6ba87c5c42b1c0800000000000000
+      internalID: -4489441918489761250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_111
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 6
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17689a57de5bb8a0800000000000000
+      internalID: -6288328175661848804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_112
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 6
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724feaee21de55dd0800000000000000
+      internalID: -2497829752737434585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_113
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9176e0baa93d5fa00800000000000000
+      internalID: 789769970921662233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_114
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 6
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cb9c8b38c2d4eb0800000000000000
+      internalID: -4734078689043956625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_115
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 6
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e347853cc5a4ca0800000000000000
+      internalID: -6031906756836966865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_116
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 6
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf06d4876077ae40800000000000000
+      internalID: 5667622245981622217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_117
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 6
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd311b7ff69175f0800000000000000
+      internalID: -760660838023348738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_118
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a25a8301fe5c6810800000000000000
+      internalID: 1759885943634547364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_119
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 6
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c97dc4b2c18518d0800000000000000
+      internalID: -2876250113749190208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_120
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 6
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2997642b60a4520800000000000000
+      internalID: 2686967490436240074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Archer Cat_121
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2
+        width: 67
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba51c88cc68305c00800000000000000
+      internalID: 887271166464234923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

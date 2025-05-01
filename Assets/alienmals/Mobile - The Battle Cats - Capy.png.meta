@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: aa376740685813447972d9e5d8e9283e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4320655179953592611
+    second: Mobile - The Battle Cats - Capy_0
+  - first:
+      213: -7682560017010414720
+    second: Mobile - The Battle Cats - Capy_1
+  - first:
+      213: 8573458509161880244
+    second: Mobile - The Battle Cats - Capy_2
+  - first:
+      213: -9103305313918280912
+    second: Mobile - The Battle Cats - Capy_3
+  - first:
+      213: -654296462366330853
+    second: Mobile - The Battle Cats - Capy_4
+  - first:
+      213: 2015175086629523203
+    second: Mobile - The Battle Cats - Capy_5
+  - first:
+      213: -5040311633772089434
+    second: Mobile - The Battle Cats - Capy_6
+  - first:
+      213: 1400022083525415028
+    second: Mobile - The Battle Cats - Capy_7
+  - first:
+      213: -8604147999281493282
+    second: Mobile - The Battle Cats - Capy_8
+  - first:
+      213: -4814506287123397799
+    second: Mobile - The Battle Cats - Capy_9
+  - first:
+      213: -5092817581951848110
+    second: Mobile - The Battle Cats - Capy_10
+  - first:
+      213: 3651722445885494007
+    second: Mobile - The Battle Cats - Capy_11
+  - first:
+      213: 7815596499431354153
+    second: Mobile - The Battle Cats - Capy_12
+  - first:
+      213: -6383089438519841345
+    second: Mobile - The Battle Cats - Capy_13
+  - first:
+      213: 2745859429770521332
+    second: Mobile - The Battle Cats - Capy_14
+  - first:
+      213: -6272441255736102454
+    second: Mobile - The Battle Cats - Capy_15
+  - first:
+      213: -8267679759438145812
+    second: Mobile - The Battle Cats - Capy_16
+  - first:
+      213: 4387780848141601570
+    second: Mobile - The Battle Cats - Capy_17
+  - first:
+      213: 3826083020542551336
+    second: Mobile - The Battle Cats - Capy_18
+  - first:
+      213: -6673487067717009178
+    second: Mobile - The Battle Cats - Capy_19
+  - first:
+      213: -2669872941731821114
+    second: Mobile - The Battle Cats - Capy_20
+  - first:
+      213: 1728625960215812452
+    second: Mobile - The Battle Cats - Capy_21
+  - first:
+      213: -92961760464262619
+    second: Mobile - The Battle Cats - Capy_22
+  - first:
+      213: 16194334554944025
+    second: Mobile - The Battle Cats - Capy_23
+  - first:
+      213: 4191029915890696133
+    second: Mobile - The Battle Cats - Capy_24
+  - first:
+      213: -2852550099366578818
+    second: Mobile - The Battle Cats - Capy_25
+  - first:
+      213: 6107423911778839385
+    second: Mobile - The Battle Cats - Capy_26
+  - first:
+      213: -5837373214811490766
+    second: Mobile - The Battle Cats - Capy_27
+  - first:
+      213: 3740438388711190137
+    second: Mobile - The Battle Cats - Capy_28
+  - first:
+      213: 2130604740570046673
+    second: Mobile - The Battle Cats - Capy_29
+  - first:
+      213: 2464260175207543726
+    second: Mobile - The Battle Cats - Capy_30
+  - first:
+      213: -7829593663452964242
+    second: Mobile - The Battle Cats - Capy_31
+  - first:
+      213: -3679001593587340203
+    second: Mobile - The Battle Cats - Capy_32
+  - first:
+      213: 8161788166487724553
+    second: Mobile - The Battle Cats - Capy_33
+  - first:
+      213: -7815132449817244851
+    second: Mobile - The Battle Cats - Capy_34
+  - first:
+      213: -2724825028958203188
+    second: Mobile - The Battle Cats - Capy_35
+  - first:
+      213: 3919288721861814844
+    second: Mobile - The Battle Cats - Capy_36
+  - first:
+      213: 2908220738101894533
+    second: Mobile - The Battle Cats - Capy_37
+  - first:
+      213: 7701167574461294246
+    second: Mobile - The Battle Cats - Capy_38
+  - first:
+      213: 8867505258461792718
+    second: Mobile - The Battle Cats - Capy_39
+  - first:
+      213: -839976349390576885
+    second: Mobile - The Battle Cats - Capy_40
+  - first:
+      213: -1733011296279352407
+    second: Mobile - The Battle Cats - Capy_41
+  - first:
+      213: -2600051302950981
+    second: Mobile - The Battle Cats - Capy_42
+  - first:
+      213: -201464822449981108
+    second: Mobile - The Battle Cats - Capy_43
+  - first:
+      213: 4912664835539845325
+    second: Mobile - The Battle Cats - Capy_44
+  - first:
+      213: 15959593640105079
+    second: Mobile - The Battle Cats - Capy_45
+  - first:
+      213: 8129628168486590272
+    second: Mobile - The Battle Cats - Capy_46
+  - first:
+      213: 5815795309515750777
+    second: Mobile - The Battle Cats - Capy_47
+  - first:
+      213: -2982306026853751005
+    second: Mobile - The Battle Cats - Capy_48
+  - first:
+      213: -7387681023366771381
+    second: Mobile - The Battle Cats - Capy_49
+  - first:
+      213: -7618791729480798050
+    second: Mobile - The Battle Cats - Capy_50
+  - first:
+      213: 1278760019423184677
+    second: Mobile - The Battle Cats - Capy_51
+  - first:
+      213: -8806808006638075100
+    second: Mobile - The Battle Cats - Capy_52
+  - first:
+      213: 2667234494915918362
+    second: Mobile - The Battle Cats - Capy_53
+  - first:
+      213: -642059017924894889
+    second: Mobile - The Battle Cats - Capy_54
+  - first:
+      213: 1240801369996486290
+    second: Mobile - The Battle Cats - Capy_55
+  - first:
+      213: -5862206344712838402
+    second: Mobile - The Battle Cats - Capy_56
+  - first:
+      213: -755387001239810120
+    second: Mobile - The Battle Cats - Capy_57
+  - first:
+      213: 8443504882652865920
+    second: Mobile - The Battle Cats - Capy_58
+  - first:
+      213: 816734038050308128
+    second: Mobile - The Battle Cats - Capy_59
+  - first:
+      213: -1836675455792337729
+    second: Mobile - The Battle Cats - Capy_60
+  - first:
+      213: 7630770981322253542
+    second: Mobile - The Battle Cats - Capy_61
+  - first:
+      213: 5797881157722406505
+    second: Mobile - The Battle Cats - Capy_62
+  - first:
+      213: 58729886098532051
+    second: Mobile - The Battle Cats - Capy_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd62ae17103f904c0800000000000000
+      internalID: -4320655179953592611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 241
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ba9745e50126590800000000000000
+      internalID: -7682560017010414720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 245
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bad427071b0bf670800000000000000
+      internalID: 8573458509161880244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 251
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b99f16c009aa180800000000000000
+      internalID: -9103305313918280912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 224
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b103cd685d87be6f0800000000000000
+      internalID: -654296462366330853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 233
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f05ce701757fb10800000000000000
+      internalID: 2015175086629523203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 239
+        width: 62
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afeeb716473d0ab0800000000000000
+      internalID: -5040311633772089434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 233
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4701c36daa0ed6310800000000000000
+      internalID: 1400022083525415028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 231
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda40fb3bfce79880800000000000000
+      internalID: -8604147999281493282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 226
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953002b4a007f2db0800000000000000
+      internalID: -4814506287123397799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 228
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25175e1646da259b0800000000000000
+      internalID: -5092817581951848110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2535587368da230800000000000000
+      internalID: 3651722445885494007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 238
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f64608b93967c60800000000000000
+      internalID: 7815596499431354153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 219
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd2a7789f5ba67a0800000000000000
+      internalID: -6383089438519841345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 221
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fae0aa6a904b1620800000000000000
+      internalID: 2745859429770521332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 221
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1385529efc3f8a0800000000000000
+      internalID: -6272441255736102454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 222
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce69006101d434d80800000000000000
+      internalID: -8267679759438145812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b0eb51f6784ec30800000000000000
+      internalID: 4387780848141601570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825a7985c3af81530800000000000000
+      internalID: 3826083020542551336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0809b9ed20363a0800000000000000
+      internalID: -6673487067717009178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9c5a084b4b2fad0800000000000000
+      internalID: -2669872941731821114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 166
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4699e24f6205df710800000000000000
+      internalID: 1728625960215812452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 119
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a25d975cbb5bef0800000000000000
+      internalID: -92961760464262619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 164
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912758659a8893000800000000000000
+      internalID: 16194334554944025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf33b3e087892a30800000000000000
+      internalID: 4191029915890696133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 136
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75ff3f4cc4b968d0800000000000000
+      internalID: -2852550099366578818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 144
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bed4270bde1c450800000000000000
+      internalID: 6107423911778839385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236f7c52dfb7dfea0800000000000000
+      internalID: -5837373214811490766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e6d5795e4b8e330800000000000000
+      internalID: 3740438388711190137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 107
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0e07e19bd619d10800000000000000
+      internalID: 2130604740570046673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea33369b29fc23220800000000000000
+      internalID: 2464260175207543726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a9c3acb02b75390800000000000000
+      internalID: -7829593663452964242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 50
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c6126fa8f81fcc0800000000000000
+      internalID: -3679001593587340203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 49
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902dc7b281f744170800000000000000
+      internalID: 8161788166487724553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 49
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bc30871721b8390800000000000000
+      internalID: -7815132449817244851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 48
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc25ad9a21a7f2ad0800000000000000
+      internalID: -2724825028958203188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aa4c6c35c146630800000000000000
+      internalID: 3919288721861814844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ddcf65a531c5820800000000000000
+      internalID: 2908220738101894533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 49
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6a58f3b1b00ea60800000000000000
+      internalID: 7701167574461294246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 51
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9068eec05bf0b70800000000000000
+      internalID: 8867505258461792718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0368dae5fdc754f0800000000000000
+      internalID: -839976349390576885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 30
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aba78d686b13f7e0800000000000000
+      internalID: -1733011296279352407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 32
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb790b16443c6fff0800000000000000
+      internalID: -2600051302950981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_43
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49b127bfc0443df0800000000000000
+      internalID: -201464822449981108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0c7e6b3aa4d2440800000000000000
+      internalID: 4912664835539845325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 30
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7749da57a23b83000800000000000000
+      internalID: 15959593640105079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04717a22fbd32d070800000000000000
+      internalID: 8129628168486590272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_47
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 30
+        width: 76
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97db116450bd5b050800000000000000
+      internalID: 5815795309515750777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 30
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32720e13878bc96d0800000000000000
+      internalID: -2982306026853751005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 32
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d4458304fa97990800000000000000
+      internalID: -7387681023366771381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 16
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90fc92c94d944690800000000000000
+      internalID: -7618791729480798050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527c0b666711fb110800000000000000
+      internalID: 1278760019423184677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423854747cee7c580800000000000000
+      internalID: -8806808006638075100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab12a34abe30520800000000000000
+      internalID: 2667234494915918362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f10c799b2f617f0800000000000000
+      internalID: -642059017924894889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296657f9546383110800000000000000
+      internalID: 1240801369996486290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_56
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 18
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2a957836245aea0800000000000000
+      internalID: -5862206344712838402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_57
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 18
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf472b46835485f0800000000000000
+      internalID: -755387001239810120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 18
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085ecc584fa5d2570800000000000000
+      internalID: 8443504882652865920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_59
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02085f5c74f955b00800000000000000
+      internalID: 816734038050308128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca1d17761d286e0800000000000000
+      internalID: -1836675455792337729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4621827c1f5e960800000000000000
+      internalID: 7630770981322253542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_62
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e79f7c136367050800000000000000
+      internalID: 5797881157722406505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Capy_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d62a9e2586a0d000800000000000000
+      internalID: 58729886098532051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
