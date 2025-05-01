@@ -1,0 +1,917 @@
+fileFormatVersion: 2
+guid: 22a509a7ea18c774294e0a667cf42e95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6277784069638672721
+    second: Mobile - The Battle Cats - Those Guys_0
+  - first:
+      213: 7157364059186292215
+    second: Mobile - The Battle Cats - Those Guys_1
+  - first:
+      213: -7255349162468294575
+    second: Mobile - The Battle Cats - Those Guys_2
+  - first:
+      213: 6984470933473591231
+    second: Mobile - The Battle Cats - Those Guys_3
+  - first:
+      213: -5376756944541861681
+    second: Mobile - The Battle Cats - Those Guys_4
+  - first:
+      213: 5549381187170528319
+    second: Mobile - The Battle Cats - Those Guys_5
+  - first:
+      213: 4795732972027130830
+    second: Mobile - The Battle Cats - Those Guys_6
+  - first:
+      213: 1975736821749194686
+    second: Mobile - The Battle Cats - Those Guys_7
+  - first:
+      213: 1299719913658410467
+    second: Mobile - The Battle Cats - Those Guys_8
+  - first:
+      213: 3278315834467796305
+    second: Mobile - The Battle Cats - Those Guys_9
+  - first:
+      213: -4790712682718011082
+    second: Mobile - The Battle Cats - Those Guys_10
+  - first:
+      213: -2007772679737517746
+    second: Mobile - The Battle Cats - Those Guys_11
+  - first:
+      213: -7296394317474352669
+    second: Mobile - The Battle Cats - Those Guys_12
+  - first:
+      213: 6273912661466838681
+    second: Mobile - The Battle Cats - Those Guys_13
+  - first:
+      213: 8880005151641804688
+    second: Mobile - The Battle Cats - Those Guys_14
+  - first:
+      213: -7968327065688748046
+    second: Mobile - The Battle Cats - Those Guys_15
+  - first:
+      213: 1020108121125892136
+    second: Mobile - The Battle Cats - Those Guys_16
+  - first:
+      213: 5120311854292518966
+    second: Mobile - The Battle Cats - Those Guys_17
+  - first:
+      213: -3285335227789940264
+    second: Mobile - The Battle Cats - Those Guys_18
+  - first:
+      213: 364336137147883594
+    second: Mobile - The Battle Cats - Those Guys_19
+  - first:
+      213: -7450276486854695888
+    second: Mobile - The Battle Cats - Those Guys_20
+  - first:
+      213: 135912837616622347
+    second: Mobile - The Battle Cats - Those Guys_21
+  - first:
+      213: -8367255989682043412
+    second: Mobile - The Battle Cats - Those Guys_22
+  - first:
+      213: 6927010577230224635
+    second: Mobile - The Battle Cats - Those Guys_23
+  - first:
+      213: 6418545750533118940
+    second: Mobile - The Battle Cats - Those Guys_24
+  - first:
+      213: 3173674496815253817
+    second: Mobile - The Battle Cats - Those Guys_25
+  - first:
+      213: 2127223993684159434
+    second: Mobile - The Battle Cats - Those Guys_26
+  - first:
+      213: 4319185893758233795
+    second: Mobile - The Battle Cats - Those Guys_27
+  - first:
+      213: 759823912290343610
+    second: Mobile - The Battle Cats - Those Guys_28
+  - first:
+      213: 4266679830596322556
+    second: Mobile - The Battle Cats - Those Guys_29
+  - first:
+      213: -4792020895461776107
+    second: Mobile - The Battle Cats - Those Guys_30
+  - first:
+      213: 3887666920430397806
+    second: Mobile - The Battle Cats - Those Guys_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faea49856a4d0e8a0800000000000000
+      internalID: -6277784069638672721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 383
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f562f3c0b0145360800000000000000
+      internalID: 7157364059186292215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15046a19062df4b90800000000000000
+      internalID: -7255349162468294575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 383
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbffbb50f43dde060800000000000000
+      internalID: 6984470933473591231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8b7f4db0ce165b0800000000000000
+      internalID: -5376756944541861681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 384
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ce880b9cc530d40800000000000000
+      internalID: 5549381187170528319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 380
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec33e4baabddd8240800000000000000
+      internalID: 4795732972027130830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 365
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf1506eb2a3b6b10800000000000000
+      internalID: 1975736821749194686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 326
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e56c111068890210800000000000000
+      internalID: 1299719913658410467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 326
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155cdf6d1eaee7d20800000000000000
+      internalID: 3278315834467796305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 326
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63162a58238f38db0800000000000000
+      internalID: -4790712682718011082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 326
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49d28aa265f224e0800000000000000
+      internalID: -2007772679737517746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 326
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e133c5b6000eba90800000000000000
+      internalID: -7296394317474352669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 308
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9967e82335a611750800000000000000
+      internalID: 6273912661466838681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 305
+        width: 63
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f9f3b13ad1c3b70800000000000000
+      internalID: 8880005151641804688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_15
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 266
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffcd7370c0da6190800000000000000
+      internalID: -7968327065688748046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 307
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82033307ee6282e00800000000000000
+      internalID: 1020108121125892136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 300
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638c35eb0800f0740800000000000000
+      internalID: 5120311854292518966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 266
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e08b44052862d0800000000000000
+      internalID: -3285335227789940264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 266
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40a98159c16e0500800000000000000
+      internalID: 364336137147883594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 266
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034a49a220d4b9890800000000000000
+      internalID: -7450276486854695888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 266
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bdd86710cd2e100800000000000000
+      internalID: 135912837616622347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 206
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce50e3e420981eb80800000000000000
+      internalID: -8367255989682043412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 206
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc5e2b4b6fa12060800000000000000
+      internalID: 6927010577230224635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 206
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb9e1b6a51431950800000000000000
+      internalID: 6418545750533118940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939c367d3282b0c20800000000000000
+      internalID: 3173674496815253817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 206
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb6b35a3fa658d10800000000000000
+      internalID: 2127223993684159434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 188
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc6654bfa4d0fb30800000000000000
+      internalID: 4319185893758233795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 146
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abad9ef82df6b8a00800000000000000
+      internalID: 759823912290343610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 176
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4840933ba463b30800000000000000
+      internalID: 4266679830596322556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 49
+        width: 253
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51560c182625f7db0800000000000000
+      internalID: -4792020895461776107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Those Guys_31
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e696a456774c3f530800000000000000
+      internalID: 3887666920430397806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
