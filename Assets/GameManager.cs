@@ -8,13 +8,24 @@ public class GameManager : MonoBehaviour
 
     [Header("Building Buttons")]
     public Button mainBuildingButton;
-    public Button cheapUnitButton;
-    public Button rangedUnitButton;
+    public Button cheapUnitBuildingButton;
+    public Button expensiveUnitBuildingButton;
+    public Button mergeBuildingButton;
+
+    [Header("Unit Buttons")]
+    public Button cheapStandardUnitButton;
+    public Button cheapTankyUnitButton;
+    public Button expensiveRangedUnitButton;
+    public Button expensiveFastUnitButton;
     public Button mergeUnitButton;
 
     [Header("Building Sets")]
     public BuildingSet catBuildings;
     public BuildingSet alienmalBuildings;
+
+    [Header("Unit Sets")]
+    public UnitSet catUnits;
+    public UnitSet alienmalUnits;
 
     private void Awake()
     {
@@ -43,69 +54,100 @@ public class GameManager : MonoBehaviour
     {
         if (scene.name == "Game")
         {
-            SetupBuildingButtons();
+            SetupUI();
         }
     }
 
-    void SetupBuildingButtons()
-    {
-        if (Selector.Instance == null)
-        {
-            Debug.LogWarning("No Selector found.");
-            return;
-        }
+    // --- Faction Helpers ---
 
-        BuildingSet currentSet = Selector.Instance.Choice switch
+    BuildingSet GetCurrentBuildingSet()
+    {
+        return Selector.Instance?.Choice switch
         {
             1 => catBuildings,
             2 => alienmalBuildings,
             _ => null
         };
-
-        if (currentSet == null)
-        {
-            Debug.LogWarning("No BuildingSet assigned for current faction.");
-            return;
-        }
-
-        // Update button icons
-        mainBuildingButton.image.sprite = currentSet.mainBuildingIcon;
-        cheapUnitButton.image.sprite = currentSet.cheapUnitBuildingIcon;
-        rangedUnitButton.image.sprite = currentSet.rangedUnitBuildingIcon;
-        mergeUnitButton.image.sprite = currentSet.mergeUnitBuildingIcon;
-
-        // Clear previous listeners
-        mainBuildingButton.onClick.RemoveAllListeners();
-        cheapUnitButton.onClick.RemoveAllListeners();
-        rangedUnitButton.onClick.RemoveAllListeners();
-        mergeUnitButton.onClick.RemoveAllListeners();
-
-        // Assign correct functionality depending on faction
-        if (Selector.Instance.Choice == 1) // Cats
-        {
-            mainBuildingButton.onClick.AddListener(BuildCatMain);
-            cheapUnitButton.onClick.AddListener(BuildCatCheap);
-            rangedUnitButton.onClick.AddListener(BuildCatRanged);
-            mergeUnitButton.onClick.AddListener(BuildCatMerge);
-        }
-        else if (Selector.Instance.Choice == 2) // Alienmals
-        {
-            mainBuildingButton.onClick.AddListener(BuildAlienMain);
-            cheapUnitButton.onClick.AddListener(BuildAlienCheap);
-            rangedUnitButton.onClick.AddListener(BuildAlienRanged);
-            mergeUnitButton.onClick.AddListener(BuildAlienMerge);
-        }
     }
 
-    // CAT building actions
-    void BuildCatMain() { Debug.Log("Cat Main Building selected"); }
-    void BuildCatCheap() { Debug.Log("Cat Cheap Unit Building selected"); }
-    void BuildCatRanged() { Debug.Log("Cat Ranged Unit Building selected"); }
-    void BuildCatMerge() { Debug.Log("Cat Merge Building selected"); }
+    UnitSet GetCurrentUnitSet()
+    {
+        return Selector.Instance?.Choice switch
+        {
+            1 => catUnits,
+            2 => alienmalUnits,
+            _ => null
+        };
+    }
 
-    // ALIEN building actions
-    void BuildAlienMain() { Debug.Log("Alien Main Building selected"); }
-    void BuildAlienCheap() { Debug.Log("Alien Cheap Unit Building selected"); }
-    void BuildAlienRanged() { Debug.Log("Alien Ranged Unit Building selected"); }
-    void BuildAlienMerge() { Debug.Log("Alien Merge Building selected"); }
+    // --- UI Setup ---
+
+    void SetupUI()
+    {
+        SetupBuildingUI();
+        SetupUnitUI();
+    }
+
+    void SetupBuildingUI()
+    {
+        BuildingSet set = GetCurrentBuildingSet();
+        if (set == null) return;
+
+        mainBuildingButton.image.sprite = set.mainBuildingIcon;
+        cheapUnitBuildingButton.image.sprite = set.cheapUnitBuildingIcon;
+        expensiveUnitBuildingButton.image.sprite = set.rangedUnitBuildingIcon;
+        mergeBuildingButton.image.sprite = set.mergeUnitBuildingIcon;
+
+        mainBuildingButton.onClick.RemoveAllListeners();
+        cheapUnitBuildingButton.onClick.RemoveAllListeners();
+        expensiveUnitBuildingButton.onClick.RemoveAllListeners();
+        mergeBuildingButton.onClick.RemoveAllListeners();
+
+        // Replace these with actual building placement logic
+        mainBuildingButton.onClick.AddListener(() => Debug.Log("Main Building selected"));
+        cheapUnitBuildingButton.onClick.AddListener(() => Debug.Log("Cheap Unit Building selected"));
+        expensiveUnitBuildingButton.onClick.AddListener(() => Debug.Log("Expensive Unit Building selected"));
+        mergeBuildingButton.onClick.AddListener(() => Debug.Log("Merge Building selected"));
+    }
+
+    void SetupUnitUI()
+    {
+        UnitSet set = GetCurrentUnitSet();
+        if (set == null) return;
+
+        cheapStandardUnitButton.image.sprite = set.cheapStandardIcon;
+        cheapTankyUnitButton.image.sprite = set.cheapTankyIcon;
+        expensiveRangedUnitButton.image.sprite = set.expensiveRangedIcon;
+        expensiveFastUnitButton.image.sprite = set.expensiveFastIcon;
+        mergeUnitButton.image.sprite = set.mergeUnitIcon;
+
+        cheapStandardUnitButton.onClick.RemoveAllListeners();
+        cheapTankyUnitButton.onClick.RemoveAllListeners();
+        expensiveRangedUnitButton.onClick.RemoveAllListeners();
+        expensiveFastUnitButton.onClick.RemoveAllListeners();
+        mergeUnitButton.onClick.RemoveAllListeners();
+
+        cheapStandardUnitButton.onClick.AddListener(() => SpawnUnit(set.cheapStandardPrefab));
+        cheapTankyUnitButton.onClick.AddListener(() => SpawnUnit(set.cheapTankyPrefab));
+        expensiveRangedUnitButton.onClick.AddListener(() => SpawnUnit(set.expensiveRangedPrefab));
+        expensiveFastUnitButton.onClick.AddListener(() => SpawnUnit(set.expensiveFastPrefab));
+        mergeUnitButton.onClick.AddListener(() => SpawnUnit(set.mergeUnitPrefab));
+    }
+
+    // --- Unit Spawning Logic ---
+
+    void SpawnUnit(GameObject prefab)
+    {
+        if (prefab == null) return;
+
+        Vector3 spawnPosition = GetMouseWorldPosition(); // Or predefined spawn point
+        Instantiate(prefab, spawnPosition, Quaternion.identity);
+    }
+
+    Vector3 GetMouseWorldPosition()
+    {
+        Vector3 mousePos = Input.mousePosition;
+        mousePos.z = 10f; // Distance from camera
+        return Camera.main.ScreenToWorldPoint(mousePos);
+    }
 }
