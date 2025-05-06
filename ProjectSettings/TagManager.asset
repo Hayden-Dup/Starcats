@@ -28,10 +28,10 @@ TagManager:
   - 
   - 
   - 
-  - Layer 1
-  - Layer 2
-  - Layer 3
-  - 
+  - Units
+  - Buildings
+  - Resources
+  - FogTrigger
   - 
   - 
   - 
@@ -44,17 +44,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Layer 1
+  - name: Resources
     uniqueID: 2425651459
     locked: 0
-  - name: Layer 2
+  - name: 'Buildings '
     uniqueID: 4250941897
     locked: 0
-  - name: Layer 3
+  - name: Units
     uniqueID: 4189426099
     locked: 0
-  - name: foreground
+  - name: Fog
     uniqueID: 1383495323
+    locked: 0
+  - name: UI
+    uniqueID: 3160578969
     locked: 0
   m_RenderingLayers:
   - Default
