@@ -190,7 +190,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -228,7 +228,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -249,6 +249,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -256,10 +269,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 244
-        width: 26
-        height: 6
+        x: 11
+        y: 245
+        width: 24
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +291,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 248
-        width: 29
-        height: 7
+        x: 33
+        y: 249
+        width: 27
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +313,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_2
       rect:
         serializedVersion: 2
-        x: 7
-        y: 222
-        width: 74
-        height: 18
+        x: 8
+        y: 223
+        width: 72
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +335,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_3
       rect:
         serializedVersion: 2
-        x: 17
-        y: 235
-        width: 64
-        height: 10
+        x: 18
+        y: 236
+        width: 62
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +357,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_4
       rect:
         serializedVersion: 2
-        x: 1
-        y: 223
-        width: 38
-        height: 6
+        x: 2
+        y: 224
+        width: 36
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +379,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_5
       rect:
         serializedVersion: 2
-        x: 6
-        y: 198
-        width: 70
-        height: 18
+        x: 7
+        y: 199
+        width: 68
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +401,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_6
       rect:
         serializedVersion: 2
-        x: 41
-        y: 192
-        width: 22
-        height: 6
+        x: 42
+        y: 193
+        width: 20
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +423,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_7
       rect:
         serializedVersion: 2
-        x: 1
-        y: 167
-        width: 56
-        height: 24
+        x: 2
+        y: 168
+        width: 54
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +445,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_8
       rect:
         serializedVersion: 2
-        x: 62
-        y: 167
-        width: 42
-        height: 24
+        x: 63
+        y: 168
+        width: 40
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +467,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_9
       rect:
         serializedVersion: 2
-        x: 1
-        y: 149
-        width: 28
-        height: 17
+        x: 2
+        y: 150
+        width: 26
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,10 +489,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_10
       rect:
         serializedVersion: 2
-        x: 31
-        y: 149
-        width: 27
-        height: 17
+        x: 32
+        y: 150
+        width: 25
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +511,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_11
       rect:
         serializedVersion: 2
-        x: 58
-        y: 158
-        width: 50
-        height: 7
+        x: 59
+        y: 159
+        width: 48
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +533,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_12
       rect:
         serializedVersion: 2
-        x: 70
-        y: 148
-        width: 20
-        height: 9
+        x: 71
+        y: 149
+        width: 18
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +555,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_13
       rect:
         serializedVersion: 2
-        x: 70
-        y: 136
-        width: 39
-        height: 17
+        x: 71
+        y: 137
+        width: 37
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +577,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_14
       rect:
         serializedVersion: 2
-        x: 95
-        y: 134
-        width: 35
-        height: 22
+        x: 96
+        y: 135
+        width: 33
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,10 +599,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_15
       rect:
         serializedVersion: 2
-        x: 1
-        y: 125
-        width: 54
-        height: 22
+        x: 2
+        y: 126
+        width: 52
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,10 +621,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_16
       rect:
         serializedVersion: 2
-        x: 59
-        y: 121
-        width: 16
-        height: 14
+        x: 60
+        y: 122
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,10 +643,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_17
       rect:
         serializedVersion: 2
-        x: 90
-        y: 133
-        width: 22
-        height: 11
+        x: 91
+        y: 134
+        width: 20
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -652,10 +665,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_18
       rect:
         serializedVersion: 2
-        x: 1
-        y: 104
-        width: 54
-        height: 19
+        x: 2
+        y: 105
+        width: 52
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,10 +687,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_19
       rect:
         serializedVersion: 2
-        x: 77
-        y: 119
-        width: 10
-        height: 10
+        x: 78
+        y: 120
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,10 +709,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_20
       rect:
         serializedVersion: 2
-        x: 6
-        y: 68
-        width: 34
-        height: 33
+        x: 7
+        y: 69
+        width: 32
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,10 +731,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_21
       rect:
         serializedVersion: 2
-        x: 60
-        y: 91
-        width: 27
-        height: 23
+        x: 61
+        y: 92
+        width: 25
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,10 +753,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_22
       rect:
         serializedVersion: 2
-        x: 120
-        y: 92
-        width: 9
-        height: 11
+        x: 121
+        y: 93
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,10 +775,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_23
       rect:
         serializedVersion: 2
-        x: 126
-        y: 99
-        width: 11
-        height: 19
+        x: 127
+        y: 100
+        width: 9
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -784,10 +797,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_24
       rect:
         serializedVersion: 2
-        x: 1
-        y: 32
-        width: 49
-        height: 49
+        x: 3
+        y: 73
+        width: 4
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +819,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_25
       rect:
         serializedVersion: 2
-        x: 2
-        y: 72
-        width: 6
-        height: 13
+        x: 82
+        y: 82
+        width: 35
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -828,10 +841,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_26
       rect:
         serializedVersion: 2
-        x: 81
-        y: 81
-        width: 37
-        height: 13
+        x: 2
+        y: 33
+        width: 47
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -850,10 +863,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_27
       rect:
         serializedVersion: 2
-        x: 93
-        y: 45
-        width: 15
-        height: 9
+        x: 94
+        y: 46
+        width: 13
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -872,10 +885,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_28
       rect:
         serializedVersion: 2
-        x: 107
-        y: 45
-        width: 17
-        height: 9
+        x: 108
+        y: 46
+        width: 15
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -894,10 +907,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_29
       rect:
         serializedVersion: 2
-        x: 126
-        y: 45
-        width: 8
-        height: 7
+        x: 127
+        y: 46
+        width: 6
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -916,10 +929,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_30
       rect:
         serializedVersion: 2
-        x: 130
-        y: 43
-        width: 29
-        height: 12
+        x: 131
+        y: 44
+        width: 27
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -938,10 +951,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_31
       rect:
         serializedVersion: 2
-        x: 161
-        y: 43
-        width: 14
-        height: 12
+        x: 162
+        y: 44
+        width: 12
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -960,10 +973,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_32
       rect:
         serializedVersion: 2
-        x: 177
-        y: 45
-        width: 35
-        height: 9
+        x: 178
+        y: 46
+        width: 33
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -982,10 +995,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_33
       rect:
         serializedVersion: 2
-        x: 215
-        y: 43
-        width: 41
-        height: 12
+        x: 216
+        y: 44
+        width: 40
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1004,10 +1017,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_34
       rect:
         serializedVersion: 2
-        x: 93
-        y: 31
-        width: 35
-        height: 9
+        x: 94
+        y: 32
+        width: 33
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1026,10 +1039,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_35
       rect:
         serializedVersion: 2
-        x: 127
-        y: 29
-        width: 8
-        height: 9
+        x: 128
+        y: 30
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,10 +1061,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_36
       rect:
         serializedVersion: 2
-        x: 137
-        y: 31
-        width: 22
-        height: 9
+        x: 138
+        y: 32
+        width: 20
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1070,10 +1083,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_37
       rect:
         serializedVersion: 2
-        x: 162
-        y: 29
-        width: 42
-        height: 12
+        x: 163
+        y: 30
+        width: 40
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1092,10 +1105,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_38
       rect:
         serializedVersion: 2
-        x: 203
-        y: 29
-        width: 14
-        height: 9
+        x: 204
+        y: 30
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1114,10 +1127,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_39
       rect:
         serializedVersion: 2
-        x: 219
-        y: 31
-        width: 10
-        height: 9
+        x: 220
+        y: 32
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1136,10 +1149,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_40
       rect:
         serializedVersion: 2
-        x: 1
-        y: 10
-        width: 45
-        height: 17
+        x: 2
+        y: 11
+        width: 43
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1158,10 +1171,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_41
       rect:
         serializedVersion: 2
-        x: 93
-        y: 17
-        width: 34
-        height: 10
+        x: 94
+        y: 18
+        width: 32
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1180,10 +1193,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_42
       rect:
         serializedVersion: 2
-        x: 129
-        y: 15
-        width: 14
-        height: 12
+        x: 130
+        y: 16
+        width: 12
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1202,10 +1215,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_43
       rect:
         serializedVersion: 2
-        x: 145
-        y: 17
-        width: 38
-        height: 9
+        x: 146
+        y: 18
+        width: 36
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,10 +1237,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_44
       rect:
         serializedVersion: 2
-        x: 185
-        y: 17
-        width: 20
-        height: 10
+        x: 186
+        y: 18
+        width: 18
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1246,10 +1259,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_45
       rect:
         serializedVersion: 2
-        x: 207
-        y: 17
-        width: 13
-        height: 10
+        x: 208
+        y: 18
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,10 +1281,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_46
       rect:
         serializedVersion: 2
-        x: 223
-        y: 17
-        width: 25
-        height: 10
+        x: 224
+        y: 18
+        width: 23
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1290,10 +1303,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_47
       rect:
         serializedVersion: 2
-        x: 247
-        y: 17
-        width: 6
-        height: 9
+        x: 248
+        y: 18
+        width: 4
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1312,10 +1325,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_48
       rect:
         serializedVersion: 2
-        x: 93
-        y: 3
-        width: 16
-        height: 10
+        x: 94
+        y: 4
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1334,10 +1347,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_49
       rect:
         serializedVersion: 2
-        x: 108
-        y: 1
-        width: 25
-        height: 9
+        x: 109
+        y: 2
+        width: 23
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1356,10 +1369,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_50
       rect:
         serializedVersion: 2
-        x: 135
-        y: 3
-        width: 12
-        height: 9
+        x: 136
+        y: 4
+        width: 10
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1378,10 +1391,10 @@ TextureImporter:
       name: Mobile - The Battle Cats - Brollow_51
       rect:
         serializedVersion: 2
-        x: 149
-        y: 3
-        width: 31
-        height: 10
+        x: 150
+        y: 4
+        width: 29
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1400,7 +1413,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dbcea19d6459c4b1b839a23873d702f6
     internalID: 0
     vertices: []
     indices: 
@@ -1408,7 +1421,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Mobile - The Battle Cats - Brollow_0: 3808109216481126717
       Mobile - The Battle Cats - Brollow_1: -3253447933474981954
