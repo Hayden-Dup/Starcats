@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      alienmal_cheap-removebg-preview_0: -5140979368470807790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      alienmal_ranged-removebg-preview_0: 2200516385252808465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

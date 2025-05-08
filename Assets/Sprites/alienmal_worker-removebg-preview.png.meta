@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      alienmal_worker-removebg-preview_0: -8346149175453373246
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
