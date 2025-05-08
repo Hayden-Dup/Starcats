@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f130047a7ae6ef4195b4fb7a0cc1ff7, type: 3}
+  m_Name: AlienmalUnitSet
+  m_EditorClassIdentifier: 
+  units:
+  - unitName: Alienmal Worker
+    icon: {fileID: -8346149175453373246, guid: 3b5b9204f1596524e9d3d28a5b95d7e7, type: 3}
+    prefab: {fileID: 2595777966356639702, guid: f6c6bd6f4d034f1489e5dcaf3ed93983,
+      type: 3}
+    unitCost: 40
+    damage: 10
+    health: 100
+    moveSpeed: 40
+    range: 5
+    productionTime: 3
+  - unitName: Alienmal Soldier
+    icon: {fileID: -5140979368470807790, guid: 0d4c88eaf101b8d4f8028fc0c7ffe7d1, type: 3}
+    prefab: {fileID: 8578678223417092260, guid: f99f67dfcedc69742ac0eb31a6b6bec1,
+      type: 3}
+    unitCost: 75
+    damage: 30
+    health: 200
+    moveSpeed: 50
+    range: 5
+    productionTime: 3
+  - unitName: Alienmal Ranged
+    icon: {fileID: 2200516385252808465, guid: 4a109840ccba23e49905e65d647f83b0, type: 3}
+    prefab: {fileID: 3843422210594769433, guid: ba2c8cf6b42d6d743990ff6ac28c8694,
+      type: 3}
+    unitCost: 125
+    damage: 35
+    health: 100
+    moveSpeed: 40
+    range: 100
+    productionTime: 5
+  - unitName: Alienmal Fast
+    icon: {fileID: -2614221729725196841, guid: 724d3d849a2a23c4eafe2f826ee48a90, type: 3}
+    prefab: {fileID: 2719273694673687574, guid: 713b3d7d871432a42a484146893c4381,
+      type: 3}
+    unitCost: 175
+    damage: 40
+    health: 250
+    moveSpeed: 80
+    range: 5
+    productionTime: 8
+  - unitName: Alienmal Strong
+    icon: {fileID: 8999481109859884458, guid: 8a67c3df3b17a18499f6b1c4c45cf668, type: 3}
+    prefab: {fileID: 1264220191396131140, guid: 9d364e0031fbcbd45b9a4fbda8d46e13,
+      type: 3}
+    unitCost: 200
+    damage: 40
+    health: 400
+    moveSpeed: 30
+    range: 5
+    productionTime: 10

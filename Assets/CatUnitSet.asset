@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f130047a7ae6ef4195b4fb7a0cc1ff7, type: 3}
+  m_Name: CatUnitSet
+  m_EditorClassIdentifier: 
+  units:
+  - unitName: Cat Worker
+    icon: {fileID: 6780464794381681368, guid: 6a6f8bac71c80d14c8a174119b28b424, type: 3}
+    prefab: {fileID: 5690698367809512561, guid: 3cc13785248716e4c954231e4574177f,
+      type: 3}
+    unitCost: 40
+    damage: 10
+    health: 100
+    moveSpeed: 40
+    range: 5
+    productionTime: 3
+  - unitName: Cat Soldier
+    icon: {fileID: 1408225746077045244, guid: 7cb2538ab4831f045b40095272bf9b19, type: 3}
+    prefab: {fileID: 1605825497716717863, guid: 5590a3c64cdf03e43be97416cec610e8,
+      type: 3}
+    unitCost: 75
+    damage: 30
+    health: 200
+    moveSpeed: 50
+    range: 5
+    productionTime: 3
+  - unitName: Cat Ranged
+    icon: {fileID: 8265425840640149515, guid: 3eee203039c23544d929859254622ce7, type: 3}
+    prefab: {fileID: 7768050230048641840, guid: 3bfb5bdaa9ba5924c96cc491637ae067,
+      type: 3}
+    unitCost: 125
+    damage: 35
+    health: 100
+    moveSpeed: 40
+    range: 100
+    productionTime: 5
+  - unitName: Cat Fast
+    icon: {fileID: -1372082457414793145, guid: dcdce354e30f4e04e85c5637f068755e, type: 3}
+    prefab: {fileID: 6010676667388389004, guid: 75b7fbef85030d44994916130c02521d,
+      type: 3}
+    unitCost: 175
+    damage: 35
+    health: 200
+    moveSpeed: 90
+    range: 5
+    productionTime: 8
+  - unitName: Cat Strong
+    icon: {fileID: 6408064234897360003, guid: 1772c67dfa059ee4891784bf9aa548c5, type: 3}
+    prefab: {fileID: 8961377423135667139, guid: fa2c5c257f9233d4180dfb4d4482b6bd,
+      type: 3}
+    unitCost: 200
+    damage: 40
+    health: 600
+    moveSpeed: 30
+    range: 5
+    productionTime: 10

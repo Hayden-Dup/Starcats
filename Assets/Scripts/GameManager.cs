@@ -1,7 +1,8 @@
+// FIX FOR: 'List<>' namespace error
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-using System.Collections.Generic;
 
 public class GameManager : MonoBehaviour
 {
@@ -17,12 +18,18 @@ public class GameManager : MonoBehaviour
     public BuildingSet catBuildings;
     public BuildingSet alienmalBuildings;
 
+    [Header("UI")]
+    public GameObject unitPurchasePanel;
+    public Transform unitButtonContainer;
+    public GameObject unitButtonPrefab;
+
     [Header("Player State")]
     public int playerMoney = 1000;
     public TMPro.TextMeshProUGUI moneyText;
 
     private BuildingType buildingToPlace = BuildingType.None;
     private GameObject ghostPreview;
+    private SelectableBuilding selectedBuilding;
 
     void Awake()
     {
@@ -54,23 +61,17 @@ public class GameManager : MonoBehaviour
         {
             SetupBuildingButtons();
             UpdateMoneyUI();
+            if (unitPurchasePanel != null)
+                unitPurchasePanel.SetActive(false);
         }
     }
 
     void SetupBuildingButtons()
     {
-        if (Selector.Instance == null)
-        {
-            Debug.LogWarning("No Selector found.");
-            return;
-        }
+        if (Selector.Instance == null) return;
 
         BuildingSet currentSet = GetCurrentSet();
-        if (currentSet == null)
-        {
-            Debug.LogWarning("No BuildingSet assigned for current faction.");
-            return;
-        }
+        if (currentSet == null) return;
 
         mainBuildingButton.image.sprite = currentSet.mainBuildingIcon;
         cheapUnitButton.image.sprite = currentSet.cheapUnitBuildingIcon;
@@ -106,17 +107,17 @@ public class GameManager : MonoBehaviour
             if (col != null)
                 col.enabled = false;
 
-            // Add label
             GameObject labelObj = new GameObject("GhostLabel");
             labelObj.transform.SetParent(ghostPreview.transform);
             labelObj.transform.localPosition = new Vector3(0, -1.2f, 0);
 
             var label = labelObj.AddComponent<TMPro.TextMeshPro>();
             label.text = GetBuildingName(type);
-            label.fontSize = 3;
+            label.fontSize = 8;
+            label.fontStyle = TMPro.FontStyles.Bold;
             label.alignment = TMPro.TextAlignmentOptions.Center;
-            label.color = new Color(1f, 1f, 1f, 0.85f);
-            label.rectTransform.sizeDelta = new Vector2(6f, 1f);
+            label.color = new Color(1f, 1f, 1f, 0.95f);
+            label.rectTransform.sizeDelta = new Vector2(12f, 2.5f);
         }
     }
 
@@ -135,7 +136,9 @@ public class GameManager : MonoBehaviour
             var sr = ghostPreview.GetComponent<SpriteRenderer>();
             if (sr != null)
             {
-                sr.color = IsValidPlacement(snappedPos) ? new Color(1, 1, 1, 0.5f) : new Color(1, 0, 0, 0.5f);
+                bool canAfford = playerMoney >= GetBuildingCost(buildingToPlace);
+                bool validPos = IsValidPlacement(snappedPos);
+                sr.color = (canAfford && validPos) ? new Color(1, 1, 1, 0.5f) : new Color(1, 0, 0, 0.5f);
             }
         }
 
@@ -147,28 +150,16 @@ public class GameManager : MonoBehaviour
                 PlaceBuildingAt(snappedPos);
                 playerMoney -= cost;
                 UpdateMoneyUI();
-                Debug.Log($"Placed {buildingToPlace}, Remaining Money: ${playerMoney}");
-            }
-            else
-            {
-                Debug.Log("Not enough money to place this building!");
             }
         }
 
-        if (Input.GetMouseButtonDown(1)) // Right-click to cancel
-        {
-            CancelPlacement();
-        }
+        if (Input.GetMouseButtonDown(1)) CancelPlacement();
     }
 
     void PlaceBuildingAt(Vector2 position)
     {
         GameObject prefabToPlace = GetBuildingPrefab(buildingToPlace);
-        if (prefabToPlace == null)
-        {
-            Debug.LogWarning("No prefab assigned for selected building.");
-            return;
-        }
+        if (prefabToPlace == null) return;
 
         Instantiate(prefabToPlace, position, Quaternion.identity);
         CancelPlacement();
@@ -177,23 +168,49 @@ public class GameManager : MonoBehaviour
     void CancelPlacement()
     {
         buildingToPlace = BuildingType.None;
+        if (ghostPreview != null) Destroy(ghostPreview);
+    }
 
-        if (ghostPreview != null)
+    public void SelectBuildingObject(SelectableBuilding building)
+    {
+        if (selectedBuilding != null)
+            selectedBuilding.Highlight(false);
+
+        selectedBuilding = building;
+        selectedBuilding.Highlight(true);
+
+        ShowUnitPanel();
+    }
+
+    void ShowUnitPanel()
+    {
+        if (unitPurchasePanel == null || unitButtonPrefab == null || unitButtonContainer == null) return;
+        unitPurchasePanel.SetActive(true);
+
+        foreach (Transform child in unitButtonContainer)
+            Destroy(child.gameObject);
+
+        UnitSet unitSet = GetCurrentUnitSet();
+        if (unitSet == null) return;
+
+        foreach (var unit in unitSet.units)
         {
-            Destroy(ghostPreview);
-            ghostPreview = null;
+            GameObject btn = Instantiate(unitButtonPrefab, unitButtonContainer);
+            btn.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = $"{unit.unitName} - ${unit.unitCost}";
+            btn.GetComponent<Button>().onClick.AddListener(() =>
+            {
+                Debug.Log($"Purchased {unit.unitName} for ${unit.unitCost}");
+                // TODO: Spawn unit
+            });
         }
     }
 
     bool IsValidPlacement(Vector2 position)
     {
         GameObject prefab = GetBuildingPrefab(buildingToPlace);
-        if (prefab == null)
-            return false;
-
+        if (prefab == null) return false;
         Collider2D prefabCol = prefab.GetComponent<Collider2D>();
-        if (prefabCol == null)
-            return false;
+        if (prefabCol == null) return false;
 
         Vector2 boxSize = prefabCol.bounds.size;
         return Physics2D.OverlapBox(position, boxSize, 0f, LayerMask.GetMask("Buildings")) == null;
@@ -228,7 +245,6 @@ public class GameManager : MonoBehaviour
     string GetBuildingName(BuildingType type)
     {
         int cost = GetBuildingCost(type);
-
         string name = type switch
         {
             BuildingType.Main => "Main Building",
@@ -237,7 +253,6 @@ public class GameManager : MonoBehaviour
             BuildingType.Merge => "Merge Building",
             _ => ""
         };
-
         return $"{name} - ${cost}";
     }
 
@@ -247,6 +262,16 @@ public class GameManager : MonoBehaviour
         {
             1 => catBuildings,
             2 => alienmalBuildings,
+            _ => null
+        };
+    }
+
+    UnitSet GetCurrentUnitSet()
+    {
+        return Selector.Instance.Choice switch
+        {
+            1 => catBuildings?.catUnitSet,
+            2 => alienmalBuildings?.alienUnitSet,
             _ => null
         };
     }

@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43724d9f467920f4b8f988b57f7b7633, type: 3}
   m_Name: CatBuildingSet
   m_EditorClassIdentifier: 
+  catUnitSet: {fileID: 11400000, guid: 0077c530a0e12e64da04642082ea7479, type: 2}
+  alienUnitSet: {fileID: 11400000, guid: bcf6f868ad6717a48a9716da59c1da38, type: 2}
   mainBuildingCost: 500
   cheapUnitBuildingCost: 350
   rangedUnitBuildingCost: 450

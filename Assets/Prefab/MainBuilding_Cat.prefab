@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6749068265158594968}
   - component: {fileID: 4742980433237488468}
   - component: {fileID: -8919900352733485582}
+  - component: {fileID: -1839305408938953667}
   m_Layer: 21
   m_Name: MainBuilding_Cat
   m_TagString: Building
@@ -133,5 +134,17 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 5.1, y: 5.1}
   m_EdgeRadius: 0
+--- !u!114 &-1839305408938953667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1480857544071048962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa603d33b9dcaa244b42c10cb70d6f50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

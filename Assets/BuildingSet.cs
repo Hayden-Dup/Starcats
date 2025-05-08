@@ -2,6 +2,9 @@ using UnityEngine;
 [CreateAssetMenu]
 public class BuildingSet : ScriptableObject
 {
+    public UnitSet catUnitSet;
+    public UnitSet alienUnitSet;
+
     public int mainBuildingCost = 500;
     public int cheapUnitBuildingCost = 350;
     public int rangedUnitBuildingCost = 450;

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1306613932860244112}
   - component: {fileID: 6713422333015559589}
   - component: {fileID: -6592268973460529553}
+  - component: {fileID: -5231396680610301324}
   m_Layer: 21
   m_Name: MergeBuilding_Cat
   m_TagString: Building
@@ -132,5 +133,17 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 5.1, y: 5.1}
   m_EdgeRadius: 0
+--- !u!114 &-5231396680610301324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8091401395169273054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa603d33b9dcaa244b42c10cb70d6f50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
