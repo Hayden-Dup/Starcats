@@ -12,6 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43724d9f467920f4b8f988b57f7b7633, type: 3}
   m_Name: CatBuildingSet
   m_EditorClassIdentifier: 
+  mainBuildingCost: 500
+  cheapUnitBuildingCost: 350
+  rangedUnitBuildingCost: 450
+  mergeUnitBuildingCost: 600
   mainBuildingIcon: {fileID: -6109310732460612338, guid: 7f92934c0a09ce14e90773b940f8fcec,
     type: 3}
   mainBuildingPrefab: {fileID: 1480857544071048962, guid: e206e16be4a0f6d4f97181ec36b02a35,

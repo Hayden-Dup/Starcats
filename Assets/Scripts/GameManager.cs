@@ -17,6 +17,10 @@ public class GameManager : MonoBehaviour
     public BuildingSet catBuildings;
     public BuildingSet alienmalBuildings;
 
+    [Header("Player State")]
+    public int playerMoney = 1000;
+    public TMPro.TextMeshProUGUI moneyText;
+
     private BuildingType buildingToPlace = BuildingType.None;
     private GameObject ghostPreview;
 
@@ -49,6 +53,7 @@ public class GameManager : MonoBehaviour
         if (validScenes.Contains(scene.name))
         {
             SetupBuildingButtons();
+            UpdateMoneyUI();
         }
     }
 
@@ -60,13 +65,7 @@ public class GameManager : MonoBehaviour
             return;
         }
 
-        BuildingSet currentSet = Selector.Instance.Choice switch
-        {
-            1 => catBuildings,
-            2 => alienmalBuildings,
-            _ => null
-        };
-
+        BuildingSet currentSet = GetCurrentSet();
         if (currentSet == null)
         {
             Debug.LogWarning("No BuildingSet assigned for current faction.");
@@ -100,19 +99,31 @@ public class GameManager : MonoBehaviour
         if (prefab != null)
         {
             ghostPreview = Instantiate(prefab);
-            SpriteRenderer sr = ghostPreview.GetComponent<SpriteRenderer>();
-            if (sr != null)
-                sr.color = new Color(1f, 1f, 1f, 0.5f);
+            ghostPreview.name = "GhostPreview";
+            ghostPreview.GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 0.5f);
 
-            Collider2D col = ghostPreview.GetComponent<Collider2D>();
+            var col = ghostPreview.GetComponent<Collider2D>();
             if (col != null)
                 col.enabled = false;
+
+            // Add label
+            GameObject labelObj = new GameObject("GhostLabel");
+            labelObj.transform.SetParent(ghostPreview.transform);
+            labelObj.transform.localPosition = new Vector3(0, -1.2f, 0);
+
+            var label = labelObj.AddComponent<TMPro.TextMeshPro>();
+            label.text = GetBuildingName(type);
+            label.fontSize = 3;
+            label.alignment = TMPro.TextAlignmentOptions.Center;
+            label.color = new Color(1f, 1f, 1f, 0.85f);
+            label.rectTransform.sizeDelta = new Vector2(6f, 1f);
         }
     }
 
     void Update()
     {
-        if (buildingToPlace == BuildingType.None) return;
+        if (buildingToPlace == BuildingType.None)
+            return;
 
         Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Vector2 snappedPos = SnapToGrid(mousePos);
@@ -121,16 +132,32 @@ public class GameManager : MonoBehaviour
         {
             ghostPreview.transform.position = snappedPos;
 
-            SpriteRenderer sr = ghostPreview.GetComponent<SpriteRenderer>();
+            var sr = ghostPreview.GetComponent<SpriteRenderer>();
             if (sr != null)
             {
-                sr.color = IsValidPlacement(snappedPos) ? new Color(1f, 1f, 1f, 0.5f) : new Color(1f, 0f, 0f, 0.5f);
+                sr.color = IsValidPlacement(snappedPos) ? new Color(1, 1, 1, 0.5f) : new Color(1, 0, 0, 0.5f);
             }
         }
 
         if (Input.GetMouseButtonDown(0) && IsValidPlacement(snappedPos))
         {
-            PlaceBuildingAt(snappedPos);
+            int cost = GetBuildingCost(buildingToPlace);
+            if (playerMoney >= cost)
+            {
+                PlaceBuildingAt(snappedPos);
+                playerMoney -= cost;
+                UpdateMoneyUI();
+                Debug.Log($"Placed {buildingToPlace}, Remaining Money: ${playerMoney}");
+            }
+            else
+            {
+                Debug.Log("Not enough money to place this building!");
+            }
+        }
+
+        if (Input.GetMouseButtonDown(1)) // Right-click to cancel
+        {
+            CancelPlacement();
         }
     }
 
@@ -144,6 +171,11 @@ public class GameManager : MonoBehaviour
         }
 
         Instantiate(prefabToPlace, position, Quaternion.identity);
+        CancelPlacement();
+    }
+
+    void CancelPlacement()
+    {
         buildingToPlace = BuildingType.None;
 
         if (ghostPreview != null)
@@ -155,19 +187,21 @@ public class GameManager : MonoBehaviour
 
     bool IsValidPlacement(Vector2 position)
     {
-        Vector2 boxSize = new Vector2(0.9f, 0.9f);
+        GameObject prefab = GetBuildingPrefab(buildingToPlace);
+        if (prefab == null)
+            return false;
+
+        Collider2D prefabCol = prefab.GetComponent<Collider2D>();
+        if (prefabCol == null)
+            return false;
+
+        Vector2 boxSize = prefabCol.bounds.size;
         return Physics2D.OverlapBox(position, boxSize, 0f, LayerMask.GetMask("Buildings")) == null;
     }
 
     GameObject GetBuildingPrefab(BuildingType type)
     {
-        BuildingSet currentSet = Selector.Instance.Choice switch
-        {
-            1 => catBuildings,
-            2 => alienmalBuildings,
-            _ => null
-        };
-
+        BuildingSet currentSet = GetCurrentSet();
         return type switch
         {
             BuildingType.Main => currentSet?.mainBuildingPrefab,
@@ -178,11 +212,56 @@ public class GameManager : MonoBehaviour
         };
     }
 
+    int GetBuildingCost(BuildingType type)
+    {
+        BuildingSet set = GetCurrentSet();
+        return type switch
+        {
+            BuildingType.Main => set?.mainBuildingCost ?? 0,
+            BuildingType.Cheap => set?.cheapUnitBuildingCost ?? 0,
+            BuildingType.Ranged => set?.rangedUnitBuildingCost ?? 0,
+            BuildingType.Merge => set?.mergeUnitBuildingCost ?? 0,
+            _ => 0
+        };
+    }
+
+    string GetBuildingName(BuildingType type)
+    {
+        int cost = GetBuildingCost(type);
+
+        string name = type switch
+        {
+            BuildingType.Main => "Main Building",
+            BuildingType.Cheap => "Cheap Building",
+            BuildingType.Ranged => "Expensive Building",
+            BuildingType.Merge => "Merge Building",
+            _ => ""
+        };
+
+        return $"{name} - ${cost}";
+    }
+
+    BuildingSet GetCurrentSet()
+    {
+        return Selector.Instance.Choice switch
+        {
+            1 => catBuildings,
+            2 => alienmalBuildings,
+            _ => null
+        };
+    }
+
     Vector2 SnapToGrid(Vector2 rawPosition)
     {
         float x = Mathf.Round(rawPosition.x);
         float y = Mathf.Round(rawPosition.y);
         return new Vector2(x, y);
+    }
+
+    void UpdateMoneyUI()
+    {
+        if (moneyText != null)
+            moneyText.text = $"{playerMoney}";
     }
 }
 

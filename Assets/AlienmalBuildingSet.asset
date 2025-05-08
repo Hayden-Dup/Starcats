@@ -12,6 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43724d9f467920f4b8f988b57f7b7633, type: 3}
   m_Name: AlienmalBuildingSet
   m_EditorClassIdentifier: 
+  mainBuildingCost: 500
+  cheapUnitBuildingCost: 350
+  rangedUnitBuildingCost: 450
+  mergeUnitBuildingCost: 600
   mainBuildingIcon: {fileID: 1443264752062586818, guid: 1fc466ff84694694fa4ea9d9204a5f02,
     type: 3}
   mainBuildingPrefab: {fileID: 6311143703458524045, guid: 0a5a5a73d1a0e9d42905fb90ff6ca677,
