@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f130047a7ae6ef4195b4fb7a0cc1ff7, type: 3}
+  m_Name: AlienmalUnitSet
+  m_EditorClassIdentifier: 
+  cheapStandardIcon: {fileID: 0}
+  cheapStandardPrefab: {fileID: 0}
+  cheapTankyIcon: {fileID: 0}
+  cheapTankyPrefab: {fileID: 0}
+  expensiveRangedIcon: {fileID: 0}
+  expensiveRangedPrefab: {fileID: 0}
+  expensiveFastIcon: {fileID: 0}
+  expensiveFastPrefab: {fileID: 0}
+  mergeUnitIcon: {fileID: 0}
+  mergeUnitPrefab: {fileID: 0}
+  cheapStandardCost: 0
+  cheapTankyCost: 0
+  expensiveRangedCost: 0
+  expensiveFastCost: 0
+  mergeUnitCost: 0

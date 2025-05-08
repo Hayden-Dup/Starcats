@@ -16,6 +16,10 @@ public class GameManager : MonoBehaviour
     public BuildingSet catBuildings;
     public BuildingSet alienmalBuildings;
 
+    [Header("Unit Sets")]
+    public UnitSet catUnits;
+    public UnitSet alienmalUnits;
+
     private void Awake()
     {
         if (Instance == null)
