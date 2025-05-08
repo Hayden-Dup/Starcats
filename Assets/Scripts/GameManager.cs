@@ -1,4 +1,4 @@
-// FIX FOR: 'List<>' namespace error
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -153,7 +153,10 @@ public class GameManager : MonoBehaviour
             }
         }
 
-        if (Input.GetMouseButtonDown(1)) CancelPlacement();
+        if (Input.GetMouseButtonDown(1))
+        {
+            CancelPlacement();
+        }
     }
 
     void PlaceBuildingAt(Vector2 position)
@@ -199,10 +202,25 @@ public class GameManager : MonoBehaviour
             btn.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = $"{unit.unitName} - ${unit.unitCost}";
             btn.GetComponent<Button>().onClick.AddListener(() =>
             {
-                Debug.Log($"Purchased {unit.unitName} for ${unit.unitCost}");
-                // TODO: Spawn unit
+                if (playerMoney >= unit.unitCost)
+                {
+                    playerMoney -= unit.unitCost;
+                    UpdateMoneyUI();
+                    StartCoroutine(SpawnUnitWithDelay(unit, selectedBuilding.transform.position + Vector3.right));
+                    Debug.Log($"Spawning {unit.unitName} after {unit.productionTime}s");
+                }
+                else
+                {
+                    Debug.Log($"Not enough money to spawn {unit.unitName}");
+                }
             });
         }
+    }
+
+    private IEnumerator SpawnUnitWithDelay(UnitData unit, Vector3 spawnPosition)
+    {
+        yield return new WaitForSeconds(unit.productionTime);
+        Instantiate(unit.prefab, spawnPosition, Quaternion.identity);
     }
 
     bool IsValidPlacement(Vector2 position)
