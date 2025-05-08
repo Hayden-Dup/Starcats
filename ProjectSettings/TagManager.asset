@@ -7,6 +7,7 @@ TagManager:
   - CatButton
   - AlienmalButton
   - SceneSelector
+  - Building
   layers:
   - Default
   - TransparentFX

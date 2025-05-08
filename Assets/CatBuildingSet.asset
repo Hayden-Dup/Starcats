@@ -14,9 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainBuildingIcon: {fileID: -6109310732460612338, guid: 7f92934c0a09ce14e90773b940f8fcec,
     type: 3}
+  mainBuildingPrefab: {fileID: 1480857544071048962, guid: e206e16be4a0f6d4f97181ec36b02a35,
+    type: 3}
   cheapUnitBuildingIcon: {fileID: 1386908388, guid: 7f92934c0a09ce14e90773b940f8fcec,
+    type: 3}
+  cheapUnitBuildingPrefab: {fileID: 8870307061844054114, guid: 7bd9838c5aea6c84a997f3b3779ed6bf,
     type: 3}
   rangedUnitBuildingIcon: {fileID: 391289676, guid: 7f92934c0a09ce14e90773b940f8fcec,
     type: 3}
+  rangedUnitBuildingPrefab: {fileID: 3256094113789977725, guid: b0db77200c27bf44c89f8cfe3729da12,
+    type: 3}
   mergeUnitBuildingIcon: {fileID: -10463251, guid: 7f92934c0a09ce14e90773b940f8fcec,
+    type: 3}
+  mergeUnitBuildingPrefab: {fileID: 8091401395169273054, guid: 91751656a2c693e43b9a83f13a1685a9,
     type: 3}

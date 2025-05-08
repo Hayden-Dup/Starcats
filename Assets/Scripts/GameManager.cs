@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using System.Collections.Generic;
 
 public class GameManager : MonoBehaviour
 {
@@ -16,7 +17,10 @@ public class GameManager : MonoBehaviour
     public BuildingSet catBuildings;
     public BuildingSet alienmalBuildings;
 
-    private void Awake()
+    private BuildingType buildingToPlace = BuildingType.None;
+    private GameObject ghostPreview;
+
+    void Awake()
     {
         if (Instance == null)
         {
@@ -41,7 +45,8 @@ public class GameManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        if (scene.name == "Game")
+        List<string> validScenes = new() { "Game", "Battle" };
+        if (validScenes.Contains(scene.name))
         {
             SetupBuildingButtons();
         }
@@ -68,44 +73,124 @@ public class GameManager : MonoBehaviour
             return;
         }
 
-        // Update button icons
         mainBuildingButton.image.sprite = currentSet.mainBuildingIcon;
         cheapUnitButton.image.sprite = currentSet.cheapUnitBuildingIcon;
         rangedUnitButton.image.sprite = currentSet.rangedUnitBuildingIcon;
         mergeUnitButton.image.sprite = currentSet.mergeUnitBuildingIcon;
 
-        // Clear previous listeners
         mainBuildingButton.onClick.RemoveAllListeners();
         cheapUnitButton.onClick.RemoveAllListeners();
         rangedUnitButton.onClick.RemoveAllListeners();
         mergeUnitButton.onClick.RemoveAllListeners();
 
-        // Assign correct functionality depending on faction
-        if (Selector.Instance.Choice == 1) // Cats
+        mainBuildingButton.onClick.AddListener(() => SelectBuilding(BuildingType.Main));
+        cheapUnitButton.onClick.AddListener(() => SelectBuilding(BuildingType.Cheap));
+        rangedUnitButton.onClick.AddListener(() => SelectBuilding(BuildingType.Ranged));
+        mergeUnitButton.onClick.AddListener(() => SelectBuilding(BuildingType.Merge));
+    }
+
+    void SelectBuilding(BuildingType type)
+    {
+        buildingToPlace = type;
+
+        if (ghostPreview != null)
+            Destroy(ghostPreview);
+
+        GameObject prefab = GetBuildingPrefab(type);
+        if (prefab != null)
         {
-            mainBuildingButton.onClick.AddListener(BuildCatMain);
-            cheapUnitButton.onClick.AddListener(BuildCatCheap);
-            rangedUnitButton.onClick.AddListener(BuildCatRanged);
-            mergeUnitButton.onClick.AddListener(BuildCatMerge);
-        }
-        else if (Selector.Instance.Choice == 2) // Alienmals
-        {
-            mainBuildingButton.onClick.AddListener(BuildAlienMain);
-            cheapUnitButton.onClick.AddListener(BuildAlienCheap);
-            rangedUnitButton.onClick.AddListener(BuildAlienRanged);
-            mergeUnitButton.onClick.AddListener(BuildAlienMerge);
+            ghostPreview = Instantiate(prefab);
+            SpriteRenderer sr = ghostPreview.GetComponent<SpriteRenderer>();
+            if (sr != null)
+                sr.color = new Color(1f, 1f, 1f, 0.5f);
+
+            Collider2D col = ghostPreview.GetComponent<Collider2D>();
+            if (col != null)
+                col.enabled = false;
         }
     }
 
-    // CAT building actions
-    void BuildCatMain() { Debug.Log("Cat Main Building selected"); }
-    void BuildCatCheap() { Debug.Log("Cat Cheap Unit Building selected"); }
-    void BuildCatRanged() { Debug.Log("Cat Ranged Unit Building selected"); }
-    void BuildCatMerge() { Debug.Log("Cat Merge Building selected"); }
+    void Update()
+    {
+        if (buildingToPlace == BuildingType.None) return;
 
-    // ALIEN building actions
-    void BuildAlienMain() { Debug.Log("Alien Main Building selected"); }
-    void BuildAlienCheap() { Debug.Log("Alien Cheap Unit Building selected"); }
-    void BuildAlienRanged() { Debug.Log("Alien Ranged Unit Building selected"); }
-    void BuildAlienMerge() { Debug.Log("Alien Merge Building selected"); }
+        Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        Vector2 snappedPos = SnapToGrid(mousePos);
+
+        if (ghostPreview != null)
+        {
+            ghostPreview.transform.position = snappedPos;
+
+            SpriteRenderer sr = ghostPreview.GetComponent<SpriteRenderer>();
+            if (sr != null)
+            {
+                sr.color = IsValidPlacement(snappedPos) ? new Color(1f, 1f, 1f, 0.5f) : new Color(1f, 0f, 0f, 0.5f);
+            }
+        }
+
+        if (Input.GetMouseButtonDown(0) && IsValidPlacement(snappedPos))
+        {
+            PlaceBuildingAt(snappedPos);
+        }
+    }
+
+    void PlaceBuildingAt(Vector2 position)
+    {
+        GameObject prefabToPlace = GetBuildingPrefab(buildingToPlace);
+        if (prefabToPlace == null)
+        {
+            Debug.LogWarning("No prefab assigned for selected building.");
+            return;
+        }
+
+        Instantiate(prefabToPlace, position, Quaternion.identity);
+        buildingToPlace = BuildingType.None;
+
+        if (ghostPreview != null)
+        {
+            Destroy(ghostPreview);
+            ghostPreview = null;
+        }
+    }
+
+    bool IsValidPlacement(Vector2 position)
+    {
+        Vector2 boxSize = new Vector2(0.9f, 0.9f);
+        return Physics2D.OverlapBox(position, boxSize, 0f, LayerMask.GetMask("Buildings")) == null;
+    }
+
+    GameObject GetBuildingPrefab(BuildingType type)
+    {
+        BuildingSet currentSet = Selector.Instance.Choice switch
+        {
+            1 => catBuildings,
+            2 => alienmalBuildings,
+            _ => null
+        };
+
+        return type switch
+        {
+            BuildingType.Main => currentSet?.mainBuildingPrefab,
+            BuildingType.Cheap => currentSet?.cheapUnitBuildingPrefab,
+            BuildingType.Ranged => currentSet?.rangedUnitBuildingPrefab,
+            BuildingType.Merge => currentSet?.mergeUnitBuildingPrefab,
+            _ => null
+        };
+    }
+
+    Vector2 SnapToGrid(Vector2 rawPosition)
+    {
+        float x = Mathf.Round(rawPosition.x);
+        float y = Mathf.Round(rawPosition.y);
+        return new Vector2(x, y);
+    }
+}
+
+public enum BuildingType
+{
+    None,
+    Main,
+    Cheap,
+    Ranged,
+    Merge
 }
