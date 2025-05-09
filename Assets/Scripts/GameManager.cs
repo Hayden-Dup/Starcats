@@ -353,6 +353,12 @@ public class GameManager : MonoBehaviour
         if (moneyText != null)
             moneyText.text = $"{playerMoney}";
     }
+
+    public void AddMoney(int amount)
+    {
+        playerMoney += amount;
+        UpdateMoneyUI();
+    }
 }
 
 public enum BuildingType

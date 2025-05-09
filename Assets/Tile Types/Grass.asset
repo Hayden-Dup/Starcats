@@ -52,5 +52,8 @@ MonoBehaviour:
   isWalkable: 1
   movementCost: 1
   blocksVision: 0
-  providesResource: 0
-  resourceAmount: 0
+  providesResource: 1
+  resourceAmount: 20
+  resourceSpawnChance: 0.05
+  resourcePrefab: {fileID: 344442356645670479, guid: e0079b85de64546a48aabcb4947e1730,
+    type: 3}
