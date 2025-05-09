@@ -155,14 +155,25 @@ public class GameManager : MonoBehaviour
     }
 
     public void SelectBuildingObject(SelectableBuilding building)
+{
+    // Case 1: Clicked the same building again → deselect it
+    if (selectedBuilding == building)
     {
-        if (selectedBuilding != null) selectedBuilding.Highlight(false);
-
-        selectedBuilding = building;
-        selectedBuilding.Highlight(true);
-
-        ShowUnitPanel();
+        selectedBuilding.Highlight(false);
+        selectedBuilding = null;
+        unitPurchasePanel.SetActive(false);
+        return;
     }
+
+    // Case 2: Clicked a new building → switch selection
+    if (selectedBuilding != null)
+        selectedBuilding.Highlight(false);
+
+    selectedBuilding = building;
+    selectedBuilding.Highlight(true);
+    ShowUnitPanel();
+}
+
 
     void ShowUnitPanel()
     {
