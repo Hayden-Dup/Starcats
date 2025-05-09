@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
@@ -22,39 +23,40 @@ public class GameManager : MonoBehaviour
     public GameObject unitPurchasePanel;
     public Transform unitButtonContainer;
     public GameObject unitButtonPrefab;
+    public Transform queueContainer;
+    public GameObject queueItemPrefab;
 
     [Header("Player State")]
     public int playerMoney = 1000;
-    public TMPro.TextMeshProUGUI moneyText;
+    public TextMeshProUGUI moneyText;
 
     private BuildingType buildingToPlace = BuildingType.None;
     private GameObject ghostPreview;
     private SelectableBuilding selectedBuilding;
 
-    void Awake()
+    private Queue<QueuedUnit> unitQueue = new();
+
+    private void Awake()
     {
         if (Instance == null)
         {
             Instance = this;
             DontDestroyOnLoad(gameObject);
         }
-        else
-        {
-            Destroy(gameObject);
-        }
+        else Destroy(gameObject);
     }
 
-    void OnEnable()
+    private void OnEnable()
     {
         SceneManager.sceneLoaded += OnSceneLoaded;
     }
 
-    void OnDisable()
+    private void OnDisable()
     {
         SceneManager.sceneLoaded -= OnSceneLoaded;
     }
 
-    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         List<string> validScenes = new() { "Game", "Battle" };
         if (validScenes.Contains(scene.name))
@@ -66,22 +68,50 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    private void Update()
+    {
+        if (buildingToPlace != BuildingType.None)
+        {
+            Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            Vector2 snappedPos = SnapToGrid(mousePos);
+
+            if (ghostPreview != null)
+            {
+                ghostPreview.transform.position = snappedPos;
+
+                var sr = ghostPreview.GetComponent<SpriteRenderer>();
+                bool canAfford = playerMoney >= GetBuildingCost(buildingToPlace);
+                bool validPos = IsValidPlacement(snappedPos);
+                sr.color = (canAfford && validPos) ? new Color(1, 1, 1, 0.5f) : new Color(1, 0, 0, 0.5f);
+            }
+
+            if (Input.GetMouseButtonDown(0) && IsValidPlacement(snappedPos))
+            {
+                int cost = GetBuildingCost(buildingToPlace);
+                if (playerMoney >= cost)
+                {
+                    PlaceBuildingAt(snappedPos);
+                    playerMoney -= cost;
+                    UpdateMoneyUI();
+                }
+            }
+
+            if (Input.GetMouseButtonDown(1))
+                CancelPlacement();
+        }
+    }
+
     void SetupBuildingButtons()
     {
         if (Selector.Instance == null) return;
 
-        BuildingSet currentSet = GetCurrentSet();
-        if (currentSet == null) return;
+        BuildingSet set = GetCurrentSet();
+        if (set == null) return;
 
-        mainBuildingButton.image.sprite = currentSet.mainBuildingIcon;
-        cheapUnitButton.image.sprite = currentSet.cheapUnitBuildingIcon;
-        rangedUnitButton.image.sprite = currentSet.rangedUnitBuildingIcon;
-        mergeUnitButton.image.sprite = currentSet.mergeUnitBuildingIcon;
-
-        mainBuildingButton.onClick.RemoveAllListeners();
-        cheapUnitButton.onClick.RemoveAllListeners();
-        rangedUnitButton.onClick.RemoveAllListeners();
-        mergeUnitButton.onClick.RemoveAllListeners();
+        mainBuildingButton.image.sprite = set.mainBuildingIcon;
+        cheapUnitButton.image.sprite = set.cheapUnitBuildingIcon;
+        rangedUnitButton.image.sprite = set.rangedUnitBuildingIcon;
+        mergeUnitButton.image.sprite = set.mergeUnitBuildingIcon;
 
         mainBuildingButton.onClick.AddListener(() => SelectBuilding(BuildingType.Main));
         cheapUnitButton.onClick.AddListener(() => SelectBuilding(BuildingType.Cheap));
@@ -92,9 +122,7 @@ public class GameManager : MonoBehaviour
     void SelectBuilding(BuildingType type)
     {
         buildingToPlace = type;
-
-        if (ghostPreview != null)
-            Destroy(ghostPreview);
+        if (ghostPreview) Destroy(ghostPreview);
 
         GameObject prefab = GetBuildingPrefab(type);
         if (prefab != null)
@@ -102,82 +130,33 @@ public class GameManager : MonoBehaviour
             ghostPreview = Instantiate(prefab);
             ghostPreview.name = "GhostPreview";
             ghostPreview.GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 0.5f);
-
             var col = ghostPreview.GetComponent<Collider2D>();
-            if (col != null)
-                col.enabled = false;
+            if (col != null) col.enabled = false;
 
-            GameObject labelObj = new GameObject("GhostLabel");
+            GameObject labelObj = new("GhostLabel");
             labelObj.transform.SetParent(ghostPreview.transform);
             labelObj.transform.localPosition = new Vector3(0, -1.2f, 0);
 
-            var label = labelObj.AddComponent<TMPro.TextMeshPro>();
+            var label = labelObj.AddComponent<TextMeshPro>();
             label.text = GetBuildingName(type);
             label.fontSize = 8;
-            label.fontStyle = TMPro.FontStyles.Bold;
-            label.alignment = TMPro.TextAlignmentOptions.Center;
+            label.alignment = TextAlignmentOptions.Center;
             label.color = new Color(1f, 1f, 1f, 0.95f);
-            label.rectTransform.sizeDelta = new Vector2(12f, 2.5f);
         }
     }
 
-    void Update()
+    void PlaceBuildingAt(Vector2 pos)
     {
-        if (buildingToPlace == BuildingType.None)
-            return;
+        GameObject prefab = GetBuildingPrefab(buildingToPlace);
+        if (prefab == null) return;
 
-        Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        Vector2 snappedPos = SnapToGrid(mousePos);
-
-        if (ghostPreview != null)
-        {
-            ghostPreview.transform.position = snappedPos;
-
-            var sr = ghostPreview.GetComponent<SpriteRenderer>();
-            if (sr != null)
-            {
-                bool canAfford = playerMoney >= GetBuildingCost(buildingToPlace);
-                bool validPos = IsValidPlacement(snappedPos);
-                sr.color = (canAfford && validPos) ? new Color(1, 1, 1, 0.5f) : new Color(1, 0, 0, 0.5f);
-            }
-        }
-
-        if (Input.GetMouseButtonDown(0) && IsValidPlacement(snappedPos))
-        {
-            int cost = GetBuildingCost(buildingToPlace);
-            if (playerMoney >= cost)
-            {
-                PlaceBuildingAt(snappedPos);
-                playerMoney -= cost;
-                UpdateMoneyUI();
-            }
-        }
-
-        if (Input.GetMouseButtonDown(1))
-        {
-            CancelPlacement();
-        }
-    }
-
-    void PlaceBuildingAt(Vector2 position)
-    {
-        GameObject prefabToPlace = GetBuildingPrefab(buildingToPlace);
-        if (prefabToPlace == null) return;
-
-        Instantiate(prefabToPlace, position, Quaternion.identity);
+        Instantiate(prefab, pos, Quaternion.identity);
         CancelPlacement();
-    }
-
-    void CancelPlacement()
-    {
-        buildingToPlace = BuildingType.None;
-        if (ghostPreview != null) Destroy(ghostPreview);
     }
 
     public void SelectBuildingObject(SelectableBuilding building)
     {
-        if (selectedBuilding != null)
-            selectedBuilding.Highlight(false);
+        if (selectedBuilding != null) selectedBuilding.Highlight(false);
 
         selectedBuilding = building;
         selectedBuilding.Highlight(true);
@@ -193,56 +172,75 @@ public class GameManager : MonoBehaviour
         foreach (Transform child in unitButtonContainer)
             Destroy(child.gameObject);
 
-        UnitSet unitSet = GetCurrentUnitSet();
-        if (unitSet == null) return;
+        UnitSet set = GetCurrentUnitSet();
+        if (set == null) return;
 
-        foreach (var unit in unitSet.units)
+        foreach (var unit in set.units)
         {
             GameObject btn = Instantiate(unitButtonPrefab, unitButtonContainer);
-            btn.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = $"{unit.unitName} - ${unit.unitCost}";
-            btn.GetComponent<Button>().onClick.AddListener(() =>
-            {
-                if (playerMoney >= unit.unitCost)
-                {
-                    playerMoney -= unit.unitCost;
-                    UpdateMoneyUI();
-                    StartCoroutine(SpawnUnitWithDelay(unit, selectedBuilding.transform.position + Vector3.right));
-                    Debug.Log($"Spawning {unit.unitName} after {unit.productionTime}s");
-                }
-                else
-                {
-                    Debug.Log($"Not enough money to spawn {unit.unitName}");
-                }
-            });
+            btn.GetComponentInChildren<TextMeshProUGUI>().text = $"{unit.unitName} - ${unit.unitCost}";
+            btn.GetComponent<Button>().onClick.AddListener(() => QueueUnit(unit));
         }
     }
 
-    private IEnumerator SpawnUnitWithDelay(UnitData unit, Vector3 spawnPosition)
+    void QueueUnit(UnitData unit)
     {
-        yield return new WaitForSeconds(unit.productionTime);
-        Instantiate(unit.prefab, spawnPosition, Quaternion.identity);
+        if (playerMoney < unit.unitCost)
+        {
+            Debug.Log("Not enough money.");
+            return;
+        }
+
+        playerMoney -= unit.unitCost;
+        UpdateMoneyUI();
+
+        GameObject ui = Instantiate(queueItemPrefab, queueContainer);
+        Slider bar = ui.GetComponentInChildren<Slider>();
+
+        StartCoroutine(ProcessUnitQueue(unit, bar, ui));
+    }
+
+    IEnumerator ProcessUnitQueue(UnitData data, Slider bar, GameObject uiItem)
+    {
+        float t = 0f;
+        float duration = data.productionTime;
+
+        while (t < duration)
+        {
+            t += Time.deltaTime;
+            bar.value = t / duration;
+            yield return null;
+        }
+
+        Instantiate(data.prefab, selectedBuilding.transform.position + Vector3.right * 1.5f, Quaternion.identity);
+        Destroy(uiItem);
+    }
+
+    void CancelPlacement()
+    {
+        buildingToPlace = BuildingType.None;
+        if (ghostPreview != null) Destroy(ghostPreview);
     }
 
     bool IsValidPlacement(Vector2 position)
     {
         GameObject prefab = GetBuildingPrefab(buildingToPlace);
         if (prefab == null) return false;
-        Collider2D prefabCol = prefab.GetComponent<Collider2D>();
-        if (prefabCol == null) return false;
+        Collider2D col = prefab.GetComponent<Collider2D>();
+        if (col == null) return false;
 
-        Vector2 boxSize = prefabCol.bounds.size;
-        return Physics2D.OverlapBox(position, boxSize, 0f, LayerMask.GetMask("Buildings")) == null;
+        return Physics2D.OverlapBox(position, col.bounds.size, 0f, LayerMask.GetMask("Buildings")) == null;
     }
 
     GameObject GetBuildingPrefab(BuildingType type)
     {
-        BuildingSet currentSet = GetCurrentSet();
+        BuildingSet set = GetCurrentSet();
         return type switch
         {
-            BuildingType.Main => currentSet?.mainBuildingPrefab,
-            BuildingType.Cheap => currentSet?.cheapUnitBuildingPrefab,
-            BuildingType.Ranged => currentSet?.rangedUnitBuildingPrefab,
-            BuildingType.Merge => currentSet?.mergeUnitBuildingPrefab,
+            BuildingType.Main => set.mainBuildingPrefab,
+            BuildingType.Cheap => set.cheapUnitBuildingPrefab,
+            BuildingType.Ranged => set.rangedUnitBuildingPrefab,
+            BuildingType.Merge => set.mergeUnitBuildingPrefab,
             _ => null
         };
     }
@@ -252,10 +250,10 @@ public class GameManager : MonoBehaviour
         BuildingSet set = GetCurrentSet();
         return type switch
         {
-            BuildingType.Main => set?.mainBuildingCost ?? 0,
-            BuildingType.Cheap => set?.cheapUnitBuildingCost ?? 0,
-            BuildingType.Ranged => set?.rangedUnitBuildingCost ?? 0,
-            BuildingType.Merge => set?.mergeUnitBuildingCost ?? 0,
+            BuildingType.Main => set.mainBuildingCost,
+            BuildingType.Cheap => set.cheapUnitBuildingCost,
+            BuildingType.Ranged => set.rangedUnitBuildingCost,
+            BuildingType.Merge => set.mergeUnitBuildingCost,
             _ => 0
         };
     }
@@ -288,17 +286,15 @@ public class GameManager : MonoBehaviour
     {
         return Selector.Instance.Choice switch
         {
-            1 => catBuildings?.catUnitSet,
-            2 => alienmalBuildings?.alienUnitSet,
+            1 => catBuildings.catUnitSet,
+            2 => alienmalBuildings.alienUnitSet,
             _ => null
         };
     }
 
-    Vector2 SnapToGrid(Vector2 rawPosition)
+    Vector2 SnapToGrid(Vector2 raw)
     {
-        float x = Mathf.Round(rawPosition.x);
-        float y = Mathf.Round(rawPosition.y);
-        return new Vector2(x, y);
+        return new Vector2(Mathf.Round(raw.x), Mathf.Round(raw.y));
     }
 
     void UpdateMoneyUI()
@@ -310,9 +306,11 @@ public class GameManager : MonoBehaviour
 
 public enum BuildingType
 {
-    None,
-    Main,
-    Cheap,
-    Ranged,
-    Merge
+    None, Main, Cheap, Ranged, Merge
+}
+
+public class QueuedUnit
+{
+    public UnitData data;
+    public GameObject progressBar;
 }
