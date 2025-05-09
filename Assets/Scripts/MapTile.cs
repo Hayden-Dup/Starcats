@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class MapTile : MonoBehaviour
 {
@@ -6,21 +7,23 @@ public class MapTile : MonoBehaviour
     [HideInInspector] public bool       isExplored = false;
     [HideInInspector] public GameObject  fogOverlay;
 
-    // This holds the ScriptableObject data assigned at spawn
+    // ScriptableObject data assigned at spawn
     public TileType data;
+
+    // Resource node instantiated under this tile (if any)
+    [HideInInspector] public ResourceNode resourceNode;
 
     private SpriteRenderer _sr;
 
     void Awake()
     {
-        // cache the SpriteRenderer we’ll change in Initialize()
         _sr = GetComponent<SpriteRenderer>();
     }
 
     /// <summary>
     /// Called by MapGenerator right after Instantiate().
     /// </summary>
-        public void Initialize(Vector2Int pos, TileType tileType)
+    public void Initialize(Vector2Int pos, TileType tileType)
     {
         gridPosition = pos;
         data = tileType;
@@ -29,22 +32,19 @@ public class MapTile : MonoBehaviour
         Sprite chosen;
         if (tileType.variantSprites != null && tileType.variantSprites.Length > 0)
         {
-            // random variant
             int i = Random.Range(0, tileType.variantSprites.Length);
             chosen = tileType.variantSprites[i];
         }
         else
         {
-            // fallback to the old single‐sprite field
             chosen = tileType.sprite;
         }
 
         _sr.sprite = chosen;
     }
 
-
     /// <summary>
-    /// Reveal this tile (turn off its fog overlay).
+    /// Reveal this tile (turn off its fog), then show any resource node.
     /// </summary>
     public void Reveal(float fadeDuration = 0f)
     {
@@ -53,22 +53,26 @@ public class MapTile : MonoBehaviour
 
         isExplored = true;
 
-        if (fogOverlay == null)
-            return;
-
-        if (fadeDuration <= 0f)
+        // remove fog
+        if (fogOverlay != null)
         {
-            // instant
-            fogOverlay.SetActive(false);
+            if (fadeDuration <= 0f)
+                fogOverlay.SetActive(false);
+            else
+                StartCoroutine(FadeOutFog(fadeDuration));
         }
-        else
+
+        // show the resource node instead of auto-destroying it
+        if (resourceNode != null)
         {
-            // gradual fade
-            StartCoroutine(FadeOutFog(fadeDuration));
+            resourceNode.gameObject.SetActive(true);
+
+            // If you prefer auto-collect on reveal, uncomment this:
+            // resourceNode.CollectAll();
         }
     }
 
-    private System.Collections.IEnumerator FadeOutFog(float duration)
+    private IEnumerator FadeOutFog(float duration)
     {
         var sr = fogOverlay.GetComponent<SpriteRenderer>();
         if (sr == null)

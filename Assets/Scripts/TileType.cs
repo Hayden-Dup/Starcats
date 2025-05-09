@@ -20,5 +20,12 @@ public class TileType : ScriptableObject
 
     [Header("Resources (optional)")]
     public bool providesResource = false;
-    public int resourceAmount = 0;
+    public int  resourceAmount   = 0;
+
+    // new: what fraction of these tiles actually get a coin
+    [Range(0f, 1f)]
+    public float resourceSpawnChance = 0.2f;  // 20% by default
+
+    public GameObject resourcePrefab; // a one-off prefab (could just be an icon)
+
 }

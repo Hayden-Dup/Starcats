@@ -4,16 +4,21 @@ public class MapGenerator : MonoBehaviour
 {
     [Header("Map Size")]
     [HideInInspector] public Vector2 origin;
-
-
     public int width  = 50;
     public int height = 30;
 
     [Header("Tile Data")]
-    public TileType[] tileTypes;   // drag in your ScriptableObjects
-    public GameObject tilePrefab;  // drag in the TilePrefab asset
+    [Tooltip("Your TileType ScriptableObjects")]
+    public TileType[] tileTypes;
+    [Tooltip("Prefab with MapTile script, SpriteRenderer, + child named 'FogOverlay'")]
+    public GameObject tilePrefab;
 
-    [HideInInspector] public MapTile[,] tileGrid;
+    [Header("Resource Setup")]
+    [Tooltip("Prefab that has a ResourceNode component (and visuals/collider)")]
+    public GameObject resourcePrefab;
+
+    [HideInInspector]
+    public MapTile[,] tileGrid;
 
     void Start()
     {
@@ -22,27 +27,32 @@ public class MapGenerator : MonoBehaviour
 
     void GenerateMap()
     {
+        // sanity checks
         if (tileTypes == null || tileTypes.Length == 0)
         {
-            Debug.LogError("No TileTypes assigned!");
+            Debug.LogError("MapGenerator: No TileTypes assigned!");
             return;
         }
         if (tilePrefab == null)
         {
-            Debug.LogError("No TilePrefab assigned!");
+            Debug.LogError("MapGenerator: No TilePrefab assigned!");
             return;
         }
+        if (resourcePrefab == null)
+        {
+            Debug.LogWarning("MapGenerator: No ResourcePrefab assigned — skipping resource spawn.");
+        }
 
+        // prepare grid
         tileGrid = new MapTile[width, height];
 
-        // center the grid on the main camera
-        Vector3 cam = Camera.main.transform.position;
-        float startX = cam.x - width  / 2f + 0.5f;
-        float startY = cam.y - height / 2f + 0.5f;
-
+        // center on camera
+        Vector3 camPos = Camera.main.transform.position;
+        float startX = camPos.x - width  / 2f + 0.5f;
+        float startY = camPos.y - height / 2f + 0.5f;
         origin = new Vector2(startX, startY);
 
-
+        // spawn tiles
         for (int x = 0; x < width; x++)
         for (int y = 0; y < height; y++)
         {
@@ -50,16 +60,37 @@ public class MapGenerator : MonoBehaviour
             GameObject go = Instantiate(tilePrefab, pos, Quaternion.identity, transform);
             go.name = $"Tile {x},{y}";
 
-            var mt = go.GetComponent<MapTile>();
-            var chosen = tileTypes[Random.Range(0, tileTypes.Length)];
-            mt.Initialize(new Vector2Int(x, y), chosen);
+            // initialize MapTile
+            MapTile mt = go.GetComponent<MapTile>();
+            TileType tt = tileTypes[Random.Range(0, tileTypes.Length)];
+            mt.Initialize(new Vector2Int(x, y), tt);
 
-            // connect the FogOverlay child
-            var fog = go.transform.Find("FogOverlay");
+            // hook up fog
+            Transform fog = go.transform.Find("FogOverlay");
             if (fog != null) mt.fogOverlay = fog.gameObject;
-            else Debug.LogWarning($"Tile {x},{y} missing FogOverlay child!");
+            else Debug.LogWarning($"MapGenerator: Tile {x},{y} missing FogOverlay child!");
 
             tileGrid[x, y] = mt;
+
+            // try to spawn a resource if this TileType says so
+            TrySpawnResource(mt);
         }
+    }
+
+    void TrySpawnResource(MapTile mt)
+    {
+        if (!mt.data.providesResource)
+            return;
+
+        // NEW: roll for spawn chance
+        if (Random.value > mt.data.resourceSpawnChance)
+            return;
+
+        // instantiate as before…
+        GameObject nodeGO = Instantiate(resourcePrefab, mt.transform.position, Quaternion.identity, mt.transform);
+        var node = nodeGO.GetComponent<ResourceNode>();
+        node.Initialize(mt.data.typeName, mt.data.resourceAmount);
+        nodeGO.SetActive(false);
+        mt.resourceNode = node;
     }
 }
