@@ -35,6 +35,7 @@ public class GameManager : MonoBehaviour
     private SelectableBuilding selectedBuilding;
 
     private Queue<QueuedUnit> unitQueue = new();
+    private bool isProcessingQueue = false;
 
     private void Awake()
     {
@@ -113,6 +114,11 @@ public class GameManager : MonoBehaviour
         rangedUnitButton.image.sprite = set.rangedUnitBuildingIcon;
         mergeUnitButton.image.sprite = set.mergeUnitBuildingIcon;
 
+        mainBuildingButton.onClick.RemoveAllListeners();
+        cheapUnitButton.onClick.RemoveAllListeners();
+        rangedUnitButton.onClick.RemoveAllListeners();
+        mergeUnitButton.onClick.RemoveAllListeners();
+
         mainBuildingButton.onClick.AddListener(() => SelectBuilding(BuildingType.Main));
         cheapUnitButton.onClick.AddListener(() => SelectBuilding(BuildingType.Cheap));
         rangedUnitButton.onClick.AddListener(() => SelectBuilding(BuildingType.Ranged));
@@ -155,25 +161,22 @@ public class GameManager : MonoBehaviour
     }
 
     public void SelectBuildingObject(SelectableBuilding building)
-{
-    // Case 1: Clicked the same building again → deselect it
-    if (selectedBuilding == building)
     {
-        selectedBuilding.Highlight(false);
-        selectedBuilding = null;
-        unitPurchasePanel.SetActive(false);
-        return;
+        if (selectedBuilding == building)
+        {
+            selectedBuilding.Highlight(false);
+            selectedBuilding = null;
+            unitPurchasePanel.SetActive(false);
+            return;
+        }
+
+        if (selectedBuilding != null)
+            selectedBuilding.Highlight(false);
+
+        selectedBuilding = building;
+        selectedBuilding.Highlight(true);
+        ShowUnitPanel();
     }
-
-    // Case 2: Clicked a new building → switch selection
-    if (selectedBuilding != null)
-        selectedBuilding.Highlight(false);
-
-    selectedBuilding = building;
-    selectedBuilding.Highlight(true);
-    ShowUnitPanel();
-}
-
 
     void ShowUnitPanel()
     {
@@ -196,9 +199,9 @@ public class GameManager : MonoBehaviour
 
     void QueueUnit(UnitData unit)
     {
-        if (playerMoney < unit.unitCost)
+        if (playerMoney < unit.unitCost || selectedBuilding == null)
         {
-            Debug.Log("Not enough money.");
+            Debug.Log("Cannot queue unit: not enough money or no building selected.");
             return;
         }
 
@@ -208,23 +211,60 @@ public class GameManager : MonoBehaviour
         GameObject ui = Instantiate(queueItemPrefab, queueContainer);
         Slider bar = ui.GetComponentInChildren<Slider>();
 
-        StartCoroutine(ProcessUnitQueue(unit, bar, ui));
+        QueuedUnit queued = new()
+        {
+            data = unit,
+            progressBar = bar,
+            uiObject = ui,
+            targetBuilding = selectedBuilding
+        };
+
+        unitQueue.Enqueue(queued);
+
+        if (!isProcessingQueue)
+            StartCoroutine(ProcessQueue());
     }
 
-    IEnumerator ProcessUnitQueue(UnitData data, Slider bar, GameObject uiItem)
+    IEnumerator ProcessQueue()
     {
-        float t = 0f;
-        float duration = data.productionTime;
+        isProcessingQueue = true;
 
-        while (t < duration)
+        while (unitQueue.Count > 0)
         {
-            t += Time.deltaTime;
-            bar.value = t / duration;
-            yield return null;
+            QueuedUnit current = unitQueue.Peek();
+            float t = 0f;
+            float duration = current.data.productionTime;
+
+            while (t < duration)
+            {
+                t += Time.deltaTime;
+                if (current.progressBar != null)
+                    current.progressBar.value = Mathf.Clamp01(t / duration);
+                yield return null;
+            }
+
+                        // Replace inside ProcessQueue (within while loop after production time)
+            if (current.targetBuilding != null)
+            {
+                Vector3 spawnOffset = new Vector3(3f, 1f, 0f); // Offsets right and slightly up
+                Vector3 spawnPos = selectedBuilding.transform.position + spawnOffset;
+                GameObject unit = Instantiate(current.data.prefab, spawnPos, Quaternion.identity);
+
+                SpriteRenderer sr = unit.GetComponent<SpriteRenderer>();
+                if (sr != null)
+                    sr.sortingOrder = 10;
+
+                if (!unit.GetComponent<SelectableUnit>())
+                    unit.AddComponent<SelectableUnit>(); // fallback in case prefab forgot to add
+            }
+
+
+
+            Destroy(current.uiObject);
+            unitQueue.Dequeue();
         }
 
-        Instantiate(data.prefab, selectedBuilding.transform.position + Vector3.right * 1.5f, Quaternion.identity);
-        Destroy(uiItem);
+        isProcessingQueue = false;
     }
 
     void CancelPlacement()
@@ -323,5 +363,7 @@ public enum BuildingType
 public class QueuedUnit
 {
     public UnitData data;
-    public GameObject progressBar;
+    public Slider progressBar;
+    public GameObject uiObject;
+    public SelectableBuilding targetBuilding;
 }

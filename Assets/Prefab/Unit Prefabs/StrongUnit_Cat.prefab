@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6677987505512848423}
   - component: {fileID: 6707952628659263192}
   - component: {fileID: 1884648999455149824}
+  - component: {fileID: -1162836293604529736}
   m_Layer: 0
   m_Name: StrongUnit_Cat
   m_TagString: Untagged
@@ -176,3 +177,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &-1162836293604529736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8961377423135667139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9383a39448b1bc45828285d86d17616, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 3
