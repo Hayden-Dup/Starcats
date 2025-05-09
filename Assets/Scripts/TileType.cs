@@ -20,7 +20,8 @@ public class TileType : ScriptableObject
 
     [Header("Resources (optional)")]
     public bool providesResource = false;
-    public int  resourceAmount   = 0;
+    public string resourceName;       // ← new field
+    public int    resourceAmount = 0;
 
     // new: what fraction of these tiles actually get a coin
     [Range(0f, 1f)]

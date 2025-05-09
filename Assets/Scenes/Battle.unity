@@ -781,6 +781,8 @@ MonoBehaviour:
     type: 3}
   resourcePrefab: {fileID: 344442356645670479, guid: e0079b85de64546a48aabcb4947e1730,
     type: 3}
+  playerTransform: {fileID: 1675824025}
+  resourceSafeRadius: 10
 --- !u!4 &374999192
 Transform:
   m_ObjectHideFlags: 0
@@ -2216,6 +2218,7 @@ GameObject:
   - component: {fileID: 1675824025}
   - component: {fileID: 1675824024}
   - component: {fileID: 1675824023}
+  - component: {fileID: 1675824027}
   - component: {fileID: 1675824026}
   m_Layer: 0
   m_Name: Player
@@ -2337,6 +2340,52 @@ MonoBehaviour:
   moveSpeed: 5
   mapGen: {fileID: 374999191}
   visionRadius: 3
+--- !u!61 &1675824027
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675824022}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.625, y: 1.78125}
+    newSize: {x: 1.625, y: 1.78125}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1.625, y: 1.78125}
+  m_EdgeRadius: 0
 --- !u!1 &1727348694
 GameObject:
   m_ObjectHideFlags: 0

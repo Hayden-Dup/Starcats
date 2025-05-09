@@ -17,6 +17,13 @@ public class MapGenerator : MonoBehaviour
     [Tooltip("Prefab that has a ResourceNode component (and visuals/collider)")]
     public GameObject resourcePrefab;
 
+   [Header("Spawn Safety")]
+    [Tooltip("Drag in your Player GameObject here, or leave blank to auto-find by Tag.")]
+    public Transform playerTransform;
+    [Tooltip("No resources will spawn within this radius of the player’s start.")]
+    public float resourceSafeRadius = 5f;
+
+
     [HideInInspector]
     public MapTile[,] tileGrid;
 
@@ -79,6 +86,26 @@ public class MapGenerator : MonoBehaviour
 
     void TrySpawnResource(MapTile mt)
     {
+        // ① Safety check: skip tiles too close to the player's start
+        if (playerTransform == null)
+            {
+                var playerGO = GameObject.FindGameObjectWithTag("Player");
+                if (playerGO != null)
+                    playerTransform = playerGO.transform;
+        }
+
+        // ② Safety check: don’t spawn near player
+        if (playerTransform != null)
+        {
+            float dist = Vector2.Distance(
+                mt.transform.position,
+                (Vector2)playerTransform.position
+            );
+            if (dist <= resourceSafeRadius)
+                return;
+        }
+
+        // ③ Original logic: only if the tile provides a resource
         if (!mt.data.providesResource)
             return;
 
@@ -89,7 +116,7 @@ public class MapGenerator : MonoBehaviour
         // instantiate as before…
         GameObject nodeGO = Instantiate(resourcePrefab, mt.transform.position, Quaternion.identity, mt.transform);
         var node = nodeGO.GetComponent<ResourceNode>();
-        node.Initialize(mt.data.typeName, mt.data.resourceAmount);
+        node.Initialize(mt.data.resourceName, mt.data.resourceAmount);
         nodeGO.SetActive(false);
         mt.resourceNode = node;
     }
