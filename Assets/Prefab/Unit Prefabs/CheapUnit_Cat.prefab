@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4380532946663562669}
   - component: {fileID: 2920926306407470065}
   - component: {fileID: 1630009700118915556}
+  - component: {fileID: 2517844287841876466}
   m_Layer: 0
   m_Name: CheapUnit_Cat
   m_TagString: Untagged
@@ -135,7 +136,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.0001, y: 0.0001}
+  m_Size: {x: 2, y: 2}
   m_EdgeRadius: 0
 --- !u!50 &2920926306407470065
 Rigidbody2D:
@@ -176,3 +177,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35707d3c011feec4fa21d70de6feb0e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2517844287841876466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1605825497716717863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9383a39448b1bc45828285d86d17616, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 4

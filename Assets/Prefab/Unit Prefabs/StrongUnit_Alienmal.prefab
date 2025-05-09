@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 219179757021008715}
   - component: {fileID: 2371858125312500386}
   - component: {fileID: 3335609707913679378}
+  - component: {fileID: -6197496876516595573}
   m_Layer: 0
   m_Name: StrongUnit_Alienmal
   m_TagString: Untagged
@@ -176,3 +177,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35707d3c011feec4fa21d70de6feb0e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-6197496876516595573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1264220191396131140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9383a39448b1bc45828285d86d17616, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 4
