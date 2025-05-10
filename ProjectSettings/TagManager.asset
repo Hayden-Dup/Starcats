@@ -8,6 +8,8 @@ TagManager:
   - AlienmalButton
   - SceneSelector
   - Building
+  - Enemy
+  - PlayerUnit
   layers:
   - Default
   - TransparentFX

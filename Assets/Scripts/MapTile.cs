@@ -5,6 +5,8 @@ public class MapTile : MonoBehaviour
 {
     [HideInInspector] public Vector2Int gridPosition;
     [HideInInspector] public bool       isExplored = false;
+    [HideInInspector] public bool isWalkable = true;
+
     [HideInInspector] public GameObject  fogOverlay;
 
     // ScriptableObject data assigned at spawn
@@ -27,6 +29,8 @@ public class MapTile : MonoBehaviour
     {
         gridPosition = pos;
         data = tileType;
+
+        isWalkable = data.isWalkable;  // from your SO
 
         // pick the sprite
         Sprite chosen;

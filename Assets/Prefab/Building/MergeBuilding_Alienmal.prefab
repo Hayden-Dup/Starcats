@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1013171755108170762}
   - component: {fileID: -7573397784059404601}
   - component: {fileID: -7795486643193691739}
+  - component: {fileID: -3954852952869413596}
   m_Layer: 21
   m_Name: MergeBuilding_Alienmal
   m_TagString: Building
@@ -147,3 +148,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa603d33b9dcaa244b42c10cb70d6f50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isSelected: 0
+--- !u!114 &-3954852952869413596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 244175271249843987}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7482a9090364148afbfb90dc9cf9ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 200
+  currentHealth: 0

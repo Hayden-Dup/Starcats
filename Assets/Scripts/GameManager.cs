@@ -26,6 +26,15 @@ public class GameManager : MonoBehaviour
     public Transform queueContainer;
     public GameObject queueItemPrefab;
 
+    [Header("Timer UI")]
+    public TextMeshProUGUI timerText;
+
+    [Header("Health-Bar Setup")]
+    public Canvas    uiCanvas;         // drag your Overlay Canvas here
+    public GameObject healthBarPrefab; // drag HealthBar.prefab here
+    public Vector3   barOffset = new Vector3(0, 1.5f, 0);
+
+
     [Header("Player State")]
     public int playerMoney = 1000;
     public TextMeshProUGUI moneyText;
@@ -33,6 +42,7 @@ public class GameManager : MonoBehaviour
     private BuildingType buildingToPlace = BuildingType.None;
     private GameObject ghostPreview;
     private SelectableBuilding selectedBuilding;
+    private float elapsedTime = 0f;
 
     private Queue<QueuedUnit> unitQueue = new();
     private bool isProcessingQueue = false;
@@ -66,11 +76,26 @@ public class GameManager : MonoBehaviour
             UpdateMoneyUI();
             if (unitPurchasePanel != null)
                 unitPurchasePanel.SetActive(false);
+                
+            // reset and display the initial time
+            elapsedTime = 0f;
+            if (timerText != null)
+                timerText.text = "Time: 00:00";
         }
+
+       
+
     }
 
     private void Update()
     {
+
+        // ── Timer ──
+        elapsedTime += Time.deltaTime;
+        int minutes = Mathf.FloorToInt(elapsedTime / 60f);
+        int seconds = Mathf.FloorToInt(elapsedTime % 60f);
+        timerText.text = $"Time: {minutes:00}:{seconds:00}";
+
         if (buildingToPlace != BuildingType.None)
         {
             Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -150,15 +175,39 @@ public class GameManager : MonoBehaviour
             label.color = new Color(1f, 1f, 1f, 0.95f);
         }
     }
-
+    
     void PlaceBuildingAt(Vector2 pos)
-    {
-        GameObject prefab = GetBuildingPrefab(buildingToPlace);
-        if (prefab == null) return;
+{
+    GameObject prefab = GetBuildingPrefab(buildingToPlace);
+    if (prefab == null) return;
 
-        Instantiate(prefab, pos, Quaternion.identity);
-        CancelPlacement();
+    // 1) Spawn the building
+    GameObject building = Instantiate(prefab, pos, Quaternion.identity);
+
+    // 2) Carve out its tile as non-walkable
+    Vector2Int gridPos = MapGenerator.Instance.WorldToGrid(pos);
+    var mg = MapGenerator.Instance;
+    if (gridPos.x >= 0 && gridPos.x < mg.tileGrid.GetLength(0)
+     && gridPos.y >= 0 && gridPos.y < mg.tileGrid.GetLength(1))
+    {
+        mg.tileGrid[gridPos.x, gridPos.y].isWalkable = false;
     }
+
+    // 3) Attach a health-bar to it
+    GameObject bar = Instantiate(healthBarPrefab, uiCanvas.transform);
+    var follow = bar.GetComponent<HealthBarFollow>();
+    follow.parentCanvas = uiCanvas;
+    follow.target       = building.transform;
+    follow.worldOffset  = barOffset;
+
+    var barUI = bar.GetComponent<HealthBarUI>();
+    barUI.health = building.GetComponent<Health>();
+
+    // 4) Finish placement
+    CancelPlacement();
+}
+
+
 
     public void SelectBuildingObject(SelectableBuilding building)
     {
@@ -249,6 +298,16 @@ public class GameManager : MonoBehaviour
                 Vector3 spawnOffset = new Vector3(3f, 1f, 0f); // Offsets right and slightly up
                 Vector3 spawnPos = selectedBuilding.transform.position + spawnOffset;
                 GameObject unit = Instantiate(current.data.prefab, spawnPos, Quaternion.identity);
+
+                // spawn & wire up this unit’s health-bar
+                var bar = Instantiate(healthBarPrefab, uiCanvas.transform);
+                var follow = bar.GetComponent<HealthBarFollow>();
+                follow.parentCanvas = uiCanvas;
+                follow.target       = unit.transform;
+                follow.worldOffset  = barOffset;
+
+                var barUI = bar.GetComponent<HealthBarUI>();
+                barUI.health = unit.GetComponent<Health>();
 
                 SpriteRenderer sr = unit.GetComponent<SpriteRenderer>();
                 if (sr != null)

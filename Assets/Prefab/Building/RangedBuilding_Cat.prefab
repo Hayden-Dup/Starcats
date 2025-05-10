@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3649421107644142028}
   - component: {fileID: 784517814902645608}
   - component: {fileID: 3299516866407265861}
+  - component: {fileID: 8521309356538912111}
   m_Layer: 21
   m_Name: RangedBuilding_Cat
   m_TagString: Building
@@ -147,3 +148,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa603d33b9dcaa244b42c10cb70d6f50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isSelected: 0
+--- !u!114 &8521309356538912111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3256094113789977725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7482a9090364148afbfb90dc9cf9ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 200
+  currentHealth: 0
